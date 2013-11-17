@@ -1,0 +1,9 @@
+AuthUserFile /public_html/iaccarinofamily/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Restricted Area"
+AuthType Basic
+
+<Limit GET POST>
+require valid-user
+</limit>
+

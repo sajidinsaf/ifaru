@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one or more
+    contributor license agreements.  See the NOTICE file distributed with
+    this work for additional information regarding copyright ownership.
+    The ASF licenses this file to You under the Apache License, Version 2.0
+    (the "License"); you may not use this file except in compliance with
+    the License.  You may obtain a copy of the License at
+   
+         http://www.apache.org/licenses/LICENSE-2.0
+   
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<!DOCTYPE struts-config PUBLIC
+          "-//Apache Software Foundation//DTD Struts Configuration 1.3//EN"
+          "http://struts.apache.org/dtds/struts-config_1_3.dtd">
+
+<!--
+     This is a blank Struts configuration file with an example
+     welcome action/page and other commented sample elements.
+
+     Struts Validator is configured using the factory defaults
+     and is ready-to-use.
+
+     NOTE: If you have a generator tool to create the corresponding Java classes
+     for you, you could include the details in the "form-bean" declarations.
+     Otherwise, you would only define the "form-bean" element itself, with the
+     corresponding "name" and "type" attributes, as shown here.
+-->
+
+
+<struts-config>
+
+
+<!-- ================================================ Form Bean Definitions -->
+
+    <form-beans>
+      <form-bean
+         name="loginForm"
+            type="com.ifaru.actions.forms.LoginForm"/>
+      <form-bean
+         name="changePasswordForm"
+            type="com.ifaru.actions.forms.ChangePasswordForm"/>
+      <form-bean
+         name="addToCartForm"
+            type="com.ifaru.actions.forms.AddToCartForm"/>              
+    <!-- sample form bean descriptor for a DynaActionForm
+        <form-bean
+            name="logonForm"
+            type="org.apache.struts.action.DynaActionForm">
+            <form-property
+                name="username"
+                type="java.lang.String"/>
+            <form-property
+                name="password"
+                type="java.lang.String"/>
+       </form-bean>
+    end sample -->
+    </form-beans>
+
+
+<!-- ========================================= Global Exception Definitions -->
+
+    <global-exceptions>
+        <!-- sample exception handler
+        <exception
+            key="expired.password"
+            type="app.ExpiredPasswordException"
+            path="/changePassword.jsp"/>
+        end sample -->
+    </global-exceptions>
+
+
+<!-- =========================================== Global Forward Definitions -->
+
+    <global-forwards>
+        <!-- Default forward to "Welcome" action -->
+        <!-- Demonstrates using index.jsp to forward -->
+        <forward
+            name="home"
+            path="/Home.do"/>
+        <forward
+            name="comingsoon"
+            path="/ComingSoon.do"/>      
+        <forward
+            name="useragreement"
+            path="/UserAgreement.do"/>                    
+        <forward 
+            name="shop"
+            path="/Shop.do"/>
+        <forward 
+            name="catalog"
+            path="/catalog/FragranceList.do"/>            
+        <forward name="product"
+            path="/Product.do"/>
+    	 <forward 
+            name="trade"
+            path="/Trade.do"/>
+        <forward 
+            name="about"
+            path="/About.do"/>
+        <forward 
+            name="contact"
+            path="/Contact.do"/>
+        <forward
+            name="loginpage"
+            path="/LoginPage.do"/>
+        <forward 
+            name="login"
+            path="/Login.do"/>                              
+        <forward
+            name="changepasswordpage"
+            path="/ChangePasswordPage.do"/>    
+        <forward
+            name="changeprofilepage"
+            path="/ChangeProfilePage.do"/>        
+        <forward
+            name="gallery"
+            path="Gallery.do"/>         
+        <forward
+            name="galleryPicture"
+            path="GalleryPicture.do"/>        
+        <forward
+            name="tradeAttar"
+            path="TradeAttar.do"/>        
+        <forward
+            name="fragranceList"
+            path="FragranceList.do"/>       
+        <forward
+            name="fragranceInfo"
+            path="FragranceInfo.do"/>                                         
+    </global-forwards>
+
+
+<!-- =========================================== Action Mapping Definitions -->
+
+    <action-mappings>
+            <!-- Default "Welcome" action -->
+            <!-- Forwards to Welcome.jsp -->
+        <action
+            path="/Home" type="com.ifaru.actions.WelcomeAction">
+            <forward name="Default" path="page.home"/>
+        </action>
+        <action
+            path="/ComingSoon" type="com.ifaru.actions.WelcomeAction">
+            <forward name="Default" path="page.comingsoon"/>
+        </action>
+        <action
+            path="/UserAgreement" type="com.ifaru.actions.WelcomeAction">
+            <forward name="Default" path="page.useragreement"/>
+        </action>        
+        <action
+            path="/Shop" type="com.ifaru.actions.GetCategoryAction">
+            <forward name="Success" path="page.shop"/>
+            <forward name="Failure" path="/ShopUnavailable.do"/>
+        </action>
+        <action path="/Product" type="com.ifaru.actions.GetProductAction">
+            <forward name="Success" path="page.product"/>
+            <forward name="Failure" path="/Shop.do"/>        
+        </action>
+        <action
+            path="/Cart" type="com.ifaru.actions.WelcomeAction"            
+            name="addToCartForm"
+            scope="request"> 
+            <forward name="Default" path="/pages/cart/Cart.jsp"/>
+        </action>        
+        <action path="/ShopUnavailable" type="com.ifaru.actions.WelcomeAction">
+            <forward name="Default" path="page.home"/>
+        </action>        
+        <action
+            path="/Trade" type="com.ifaru.actions.WelcomeAction">
+            <forward name="Default" path="page.trade"/>
+        </action>
+        <action
+            path="/About" type="com.ifaru.actions.WelcomeAction">
+            <forward name="Default" path="page.about"/>
+        </action>
+        <action
+            path="/Contact" type="com.ifaru.actions.WelcomeAction">
+            <forward name="Default" path="page.contact"/>   
+        </action>          
+        <action
+            path="/LoginPage" type="com.ifaru.actions.WelcomeAction">
+            <forward name="Default" path="page.login.form"/>   
+        </action>         
+        <action
+            path="/MyAccount" type="com.ifaru.actions.MyAccountAction">
+            <forward name="Default" path="page.myaccount"/>   
+        </action>            
+        <action
+            path="/Login" type="com.ifaru.actions.authentication.LoginAction"
+            name="loginForm"
+            scope="request">            
+            <forward name="Success" path="/MyAccount.do"/>   
+            <forward name="Failure" path="/LoginPage.do"/>   
+        </action>     
+        <action
+            path="/ChangePasswordPage" type="com.ifaru.actions.WelcomeAction">
+            <forward name="Default" path="page.changepassword"/>
+        </action>               
+        <action
+            path="/ChangePassword" type="com.ifaru.actions.authentication.ChangePasswordAction"
+            name="changePasswordForm"
+            scope="request">            
+            <forward name="Success" path="/MyAccount.do"/>   
+            <forward name="Failure" path="page.changepassword"/> 
+            <forward name="InvalidSession" path="/LoginPage.do"/>  
+        </action>        
+        <action
+            path="/ChangeProfilePage" type="com.ifaru.actions.authentication.GetProfileAction">
+            <forward name="Default" path="page.changeprofile"/>
+            <forward name="Failure" path="/MyAccount.do"/> 
+            <forward name="InvalidSession" path="/LoginPage.do"/>              
+        </action>    
+
+        <action
+            path="/Gallery" type="com.ifaru.actions.GetGalleryAction">
+            <forward name="Default" path="page.gallery"/>
+            <forward name="Home" path="/Home.do"/>            
+        </action>       
+        <action
+            path="/GalleryPicture" type="com.ifaru.actions.GetGalleryPictureAction">
+            <forward name="Default" path="page.gallery.picture"/>
+            <forward name="Home" path="/Home.do"/>
+        </action>             
+        <action
+            path="/TradeAttar" type="com.ifaru.actions.WelcomeAction">
+            <forward name="Default" path="page.trade.attar"/>
+        </action>      
+        <action
+            path="/catalog/FragranceList" type="com.ifaru.actions.GetCatalogFragrancesAction">
+            <forward name="Default" path="/pages/catalog/catalog.jsp"/>
+        </action>              
+        <action
+            path="/FragranceList" type="com.ifaru.actions.GetTradeFragrancesAction">
+            <forward name="Default" path="/pages/trade/attar/fragranceList.jsp"/>
+        </action>      
+        <action
+            path="/FragranceInfo" type="com.ifaru.actions.GetFragranceInfoAction">
+            <forward name="Default" path="/pages/trade/attar/fragranceInfo.jsp"/>
+        </action>                                                 
+    <!-- sample input and input submit actions
+
+        <action
+            path="/Input"
+            type="org.apache.struts.actions.ForwardAction"
+            parameter="/pages/Input.jsp"/>
+
+        <action
+            path="/InputSubmit"
+            type="app.InputAction"
+            name="inputForm"
+            scope="request"
+            validate="true"
+            input="/pages/Input.jsp"/>
+
+            <action
+                path="/edit*"
+                type="app.Edit{1}Action"
+                name="inputForm"
+                scope="request"
+                validate="true"
+                input="/pages/Edit{1}.jsp"/>
+
+    end samples -->
+    </action-mappings>
+
+
+<!-- ======================================== Message Resources Definitions -->
+
+    <message-resources parameter="MessageResources" />
+    <message-resources parameter="com.ifaru.db.DBResources" />
+
+<!-- =============================================== Plug Ins Configuration -->
+
+  <!-- ======================================================= Tiles plugin -->
+  <!--
+     This plugin initialize Tiles definition factory. This later can takes some
+	 parameters explained here after. The plugin first read parameters from
+	 web.xml, thenoverload them with parameters defined here. All parameters
+	 are optional.
+     The plugin should be declared in each struts-config file.
+       - definitions-config: (optional)
+            Specify configuration file names. There can be several comma
+		    separated file names (default: ?? )
+       - moduleAware: (optional - struts1.1)
+            Specify if the Tiles definition factory is module aware. If true
+            (default), there will be one factory for each Struts module.
+			If false, there will be one common factory for all module. In this
+            later case, it is still needed to declare one plugin per module.
+            The factory will be initialized with parameters found in the first
+            initialized plugin (generally the one associated with the default
+            module).
+			  true : One factory per module. (default)
+			  false : one single shared factory for all modules
+	   - definitions-parser-validate: (optional)
+	        Specify if xml parser should validate the Tiles configuration file.
+			  true : validate. DTD should be specified in file header (default)
+			  false : no validation
+
+	  Paths found in Tiles definitions are relative to the main context.
+
+      To use this plugin, download and add the Tiles jar to your WEB-INF/lib
+      directory then uncomment the plugin definition below.
+  -->
+  
+    <controller processorClass="org.apache.struts.tiles.TilesRequestProcessor" bufferSize="4096" debug="0" />
+ 
+    <plug-in className="org.apache.struts.tiles.TilesPlugin" >
+
+      <set-property property="definitions-config"
+                       value="/WEB-INF/tiles-def.xml" />
+      <set-property property="moduleAware" value="true" />
+      <set-property property="definitions-parser-validate" value="true" />
+    </plug-in>
+
+
+
+  <!-- =================================================== Validator plugin -->
+
+  <plug-in className="org.apache.struts.validator.ValidatorPlugIn">
+    <set-property
+        property="pathnames"
+        value="/org/apache/struts/validator/validator-rules.xml,
+               /WEB-INF/validation.xml"/>
+  </plug-in>
+
+
+</struts-config>
+

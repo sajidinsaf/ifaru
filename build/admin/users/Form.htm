@@ -1,0 +1,100 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+
+<LINK href="/ifaru/Common.css" rel=stylesheet>
+
+<META content="MSHTML 5.50.4134.100" name=GENERATOR></HEAD>
+<BODY bgColor=#ffffff leftMargin=0 topMargin=0 marginwidth="0" marginheight="0" onLoad="">
+<%@include file='incToolbar.jsp'%>
+<TABLE align=center width=759 cellspacing=0 cellpadding=0>
+	<TR>
+		<TD align=left valign=top>
+		
+			<TABLE cellpadding=15 cellspacing=0 border=0>
+				<TR>
+					<FORM action='<%=action%>' method=post name='EditForm'>
+					<TD>
+					
+					<!---------   Data Area ------------>
+					<TABLE border=0 class=Data cellspacing=1 >
+						<TR>
+							<TH colspan=2>Enter the User</TH>
+						</TR>
+							<TR>
+								<TD>txtEmailAddress</TD>
+								<TD><INPUT TYPE=TEXT name='txtEmailAddress' value='<%=object.txtEmailAddress%>'></TD>
+							</TR>
+							<TR>
+								<TD>txtFirstname</TD>
+								<TD><INPUT TYPE=TEXT name='txtFirstname' value='<%=object.txtFirstname%>'></TD>
+							</TR>
+							<TR>
+								<TD>txtLastname</TD>
+								<TD><INPUT TYPE=TEXT name='txtLastname' value='<%=object.txtLastname%>'></TD>
+							</TR>
+							<TR>
+								<TD>txtStreetAddress</TD>
+								<TD><INPUT TYPE=TEXT name='txtStreetAddress' value='<%=object.txtStreetAddress%>'></TD>
+							</TR>
+							<TR>
+								<TD>txtZipCode</TD>
+								<TD><INPUT TYPE=TEXT name='txtZipCode' value='<%=object.txtZipCode%>'></TD>
+							</TR>
+							<TR>
+								<TD>txtCity</TD>
+								<TD><INPUT TYPE=TEXT name='txtCity' value='<%=object.txtCity%>'></TD>
+							</TR>
+							<TR>
+								<TD>txtState</TD>
+								<TD><INPUT TYPE=TEXT name='txtState' value='<%=object.txtState%>'></TD>
+							</TR>
+							<TR>
+								<TD>txtCountry</TD>
+								<TD><INPUT TYPE=TEXT name='txtCountry' value='<%=object.txtCountry%>'></TD>
+							</TR>
+							<TR>
+								<TD>txtPhone</TD>
+								<TD><INPUT TYPE=TEXT name='txtPhone' value='<%=object.txtPhone%>'></TD>
+							</TR>
+							<TR>
+								<TD>txtReference</TD>
+								<TD><INPUT TYPE=TEXT name='txtReference' value='<%=object.txtReference%>'></TD>
+							</TR>
+							<TR>
+								<TD>txtReferredBy</TD>
+								<TD><INPUT TYPE=TEXT name='txtReferredBy' value='<%=object.txtReferredBy%>'></TD>
+							</TR>
+							<TR>
+								<TD>bSendPromotion</TD>
+								<TD><INPUT TYPE=TEXT name='bSendPromotion' value='<%=object.bSendPromotion%>'></TD>
+							</TR>
+							<TR>
+								<TD>bNeverSendMail</TD>
+								<TD><INPUT TYPE=TEXT name='bNeverSendMail' value='<%=object.bNeverSendMail%>'></TD>
+							</TR>
+							<TR>
+								<TD>dblCredit</TD>
+								<TD><INPUT TYPE=TEXT name='dblCredit' value='<%=object.dblCredit%>'></TD>
+							</TR>
+							<TR>
+								<TD>tsRegTime</TD>
+								<TD><INPUT TYPE=TEXT name='tsRegTime' value='<%=object.tsRegTime%>'></TD>
+							</TR>
+
+						<TR>
+							<TD colspan=2><INPUT TYPE=Submit name='Submit' Value='Submit'></TD>
+						</TR>
+					</TABLE>
+					<!---------   End of Data Area ------------>
+					
+					</TD>
+					</FORM>
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+</TABLE>
+</BODY>
+</HTML>

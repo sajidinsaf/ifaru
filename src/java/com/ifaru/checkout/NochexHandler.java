@@ -1,0 +1,29 @@
+package com.ifaru.checkout;
+
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.apache.struts.action.ActionForm;
+
+import com.ifaru.cart.IShoppingCart;
+import com.ifaru.cart.ShoppingCart;
+import com.ifaru.framework.FrameworkFacade;
+import com.ifaru.framework.IFaruException;
+import com.ifaru.framework.IFaruIdentifiableObject;
+
+public class NochexHandler extends IFaruIdentifiableObject implements
+    PaymentHandler {
+
+  public PaymentResponse handlePayment(IShoppingCart cart, ActionForm form,
+      HttpServlet servlet, HttpServletRequest request, HttpServletResponse response) {
+    // TODO Auto-generated method stub
+    return null;
+  }
+
+  public void init(FrameworkFacade facade) throws IFaruException {
+    // TODO Auto-generated method stub
+    
+  }
+
+}

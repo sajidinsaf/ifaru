@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<!DOCTYPE tiles-definitions PUBLIC
+"-//Apache Software Foundation//DTD Tiles Configuration 1.1//EN"
+"http://jakarta.apache.org/struts/dtds/tiles-config_1_1.dtd">
+
+<tiles-definitions>
+
+     <definition name="Common.Layout" page="/pages/layout/commonLayout.jsp">
+          <put name="title" type="string" value="Welcome" />
+          <put name="header.tag" value="/pages/layout/common-header-tag.jsp" />
+          <put name="header" value="/pages/layout/common-page-header.jsp" />
+          <put name="left.menu" value="/pages/layout/common-left-menu.jsp" />
+          <put name="body.header" value="/pages/home/blank-body-header.jsp" />
+          <put name="body" value="/pages/home/main-body.jsp" />
+          <put name="body.footer" value="/pages/home/blank-body-footer.jsp" />          
+          <put name="user.location" value="/pages/users/common-user-location.jsp" />
+          <put name="alt.services.location" value="/pages/services/common-services-location.jsp" />
+          <put name="footer" value="/pages/layout/common-page-footer.jsp" /> 
+     </definition>
+
+
+     <definition name="page.home" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-Home" />
+          <put name="body" value="/pages/home/main-body.jsp" />
+     </definition>
+
+     <definition name="page.invalid.session" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-Home" />
+          <put name="body" value="/pages/control/invalid-session.jsp" />
+     </definition>
+
+     <definition name="page.comingsoon" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-ComingSoon" />
+          <put name="body" value="/pages/control/ComingSoon.jsp" />
+     </definition>
+
+     <definition name="page.useragreement" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-User Agreement" />
+          <put name="header.tag" value="/pages/about/useragreement-header-tag.jsp" />                  
+          <put name="body" value="/pages/about/useragreement-body.jsp" />
+          
+     </definition>
+     <definition name="page.sitemap" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-Sitemap" />
+          <put name="body" value="/pages/layout/sitemap.jsp" />
+     </definition>  
+     <definition name="page.shippinginfo" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-Sitemap" />
+          <put name="body" value="/pages/about/shipping-policy.jsp" />
+     </definition>                   
+     <definition name="page.shop" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-Shop" />
+          <put name="header.tag" value="/pages/cart/category-header-tag.jsp" />          
+          <put name="body" value="/pages/cart/Category.jsp" />
+     </definition>
+
+     <definition name="page.checkout.addressCapture" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-AddressCapture" />          
+          <put name="body" value="/pages/checkout/addresscapture.jsp" />
+     </definition>
+
+     <definition name="page.checkout.paymentOptions" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-AddressCapture" />          
+          <put name="body" value="/pages/checkout/paymentoptions.jsp" />
+     </definition>
+
+     <definition name="page.cheque.payment.stage1" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-ChequePayment" />          
+          <put name="body" value="/pages/checkout/cheque-stage1.jsp" />
+     </definition>
+
+     <definition name="page.cheque.payment.stage2" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-ChequePayment" />         
+          <put name="body" value="/pages/checkout/cheque-stage2.jsp" />
+     </definition>
+
+     <definition name="page.catalog" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-Shop" />
+          <put name="header.tag" value="/pages/catalog/catalog-header-tag.jsp" />
+          <put name="body.header" value="/pages/catalog/catalog-body-header.jsp" />
+          <put name="body" value="/pages/catalog/catalog.jsp" />
+          <put name="body.footer" value="/pages/catalog/catalog-body-footer.jsp" />          
+     </definition>
+     
+     <definition name="page.catalog.item" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-Shop" />
+          <put name="header.tag" value="/pages/catalog/catalog-header-tag.jsp" />
+          <put name="body.header" value="/pages/catalog/catalog-body-header.jsp" />
+          <put name="body" value="/pages/catalog/catalogitem.jsp" />
+          <put name="body.footer" value="/pages/catalog/catalog-body-footer.jsp" />          
+     </definition>
+     
+     <definition name="page.cart" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-Shop" />
+          <put name="header.tag" value="/pages/cart/cart-header-tag.jsp" />
+          <put name="body.header" value="/pages/cart/cart-body-header.jsp" />
+          <put name="body" value="/pages/cart/cart.jsp" />
+          <put name="body.footer" value="/pages/cart/cart-body-footer.jsp" />          
+     </definition>
+
+     <definition name="page.shippingoptions" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-Shop" />
+          <put name="body" value="/pages/cart/shippingoptions.jsp" />
+          <put name="body.footer" value="/pages/cart/cart-body-footer.jsp" />          
+     </definition>
+
+     <definition name="page.product" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-Products" />
+          <put name="header.tag" value="/pages/cart/category-header-tag.jsp" />          
+          <put name="body" value="/pages/cart/Product.jsp" />
+     </definition>
+     
+     <definition name="page.trade" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-Trade" />
+          <put name="body" value="/pages/trade/trade-body.jsp" />
+     </definition>
+          
+     <definition name="page.about" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-About" />
+          <put name="body" value="/pages/about/about-body.jsp" />
+     </definition>    
+     
+     <definition name="page.contact" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-Contact" />
+          <put name="body" value="/pages/contact/contact-body.jsp" />
+     </definition>
+
+     <definition name="page.login.form" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-Login" />
+          <put name="body" value="/pages/users/LoginPage.jsp" />
+     </definition>     
+
+     <definition name="page.myaccount" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-MyAccount" />
+          <put name="body" value="/pages/users/MyAccount.jsp" />
+     </definition>   
+     
+     <definition name="page.changepassword" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-ChangePassword" />
+          <put name="body" value="/pages/users/ChangePassword.jsp" />
+     </definition>       
+     
+     <definition name="page.changeprofile" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-ChangeProfile" />
+          <put name="body" value="/pages/users/ChangeProfile.jsp" />
+     </definition>     
+     
+     <definition name="page.gallery" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-Gallery" />
+          <put name="body" value="/pages/gallery/Gallery.jsp" />
+     </definition>    
+     <definition name="page.gallery.picture" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-Gallery" />
+          <put name="body" value="/pages/gallery/GalleryPicture.jsp" />
+     </definition>      
+     
+     <definition name="page.trade.attar" extends="Common.Layout">
+          <put name="title" type="string" value="iFaru-Perfumes" />
+          <put name="body" value="/pages/trade/attar/trade-body-attar.jsp" />
+     </definition>           
+          
+
+     <!-- Trade tabbed layout -->
+     <definition name="trade.tabs" path="/pages/layout/tabsLayout.jsp">
+       <put name="pageTitle" type="string" value="iFaru - Trade"/>
+       <put name="pageTitleColor" value="#333333"/>           
+       <put name="tabURL" value="trade"/>       
+       <put name="parameterName" value="selected"/>
+       <put name="selectedColor" value="#806D7E"/>     
+       <put name="notSelectedColor" value="#C8BBBE"/>             
+       <put name="tabFontColor" value="#ffffff"/>                
+       <putList name="tabList">
+         <item value="Fragrances" link="/pages/trade/attar.jsp"
+               classType="org.apache.struts.tiles.beans.SimpleMenuItem"/>
+         <item value="Card Making" link="/pages/trade/cardmaking.jsp"
+               classType="org.apache.struts.tiles.beans.SimpleMenuItem"/>
+       </putList>     
+     </definition>
+          
+     <!-- Trade - Attar tabbed layout -->
+     <definition name="attar.trade.tabs" path="/pages/layout/tabsLayout.jsp">
+       <put name="pageTitle" type="string" value="iFaru - Perfumes"/>
+       <put name="pageTitleColor" value="#E9AB17"/>        
+       <put name="tabURL" value="tradeAttar"/>        
+       <put name="parameterName" value="selected"/>
+       <put name="selectedColor" value="#E9AB17"/>     
+       <put name="notSelectedColor" value="#FFF8C6"/>      
+       <put name="tabFontColor" value="#254117"/>             
+       <putList name="tabList">
+         <item value="Products" link="/pages/trade/attar/products.jsp"
+               classType="org.apache.struts.tiles.beans.SimpleMenuItem"/>
+         <item value="Gallery" link="/pages/trade/attar/gallery.jsp"
+               classType="org.apache.struts.tiles.beans.SimpleMenuItem"/>
+         <item value="Pricing" link="/pages/trade/attar/pricing.jsp"
+               classType="org.apache.struts.tiles.beans.SimpleMenuItem"/>               
+         <item value="Shipping" link="/pages/trade/attar/shipping.jsp"
+               classType="org.apache.struts.tiles.beans.SimpleMenuItem"/>
+         <item value="Contact" link="/pages/trade/attar/contact.jsp"
+               classType="org.apache.struts.tiles.beans.SimpleMenuItem"/>       
+         <item value="Ethics" link="/pages/trade/attar/ethics.jsp"
+               classType="org.apache.struts.tiles.beans.SimpleMenuItem"/>  
+         <item value="About" link="/pages/trade/attar/about.jsp"
+               classType="org.apache.struts.tiles.beans.SimpleMenuItem"/>                                 
+       </putList>     
+     </definition>
+     
+     
+     
+<!-- ============================ ADMIN STUFF ============================= -->
+     <definition name="Admin.Layout" page="/admin/layout/adminLayout.jsp">
+          <put name="title" type="string" value="iFaru Administration Interface" />
+          <put name="header.tag" value="/admin/layout/common-header-tag.jsp" />
+          <put name="header" value="/admin/layout/blank.jsp" />
+          <put name="left.menu" value="/admin/layout/left-menu.jsp" />
+          <put name="body.header" value="/admin/layout/blank.jsp" />
+          <put name="body" value="/admin/layout/blank.jsp.jsp" />
+          <put name="body.footer" value="/admin/layout/blank.jsp" />          
+          <put name="user.location" value="/admin/layout/blank.jsp" />
+          <put name="alt.services.location" value="/admin/layout/blank.jsp" />
+          <put name="footer" value="/admin/layout/blank.jsp" /> 
+     </definition>  
+     
+     <definition name="page.admin.login" extends="Admin.Layout">
+          <put name="body" value="/admin/login/login.jsp" />      
+     </definition>       
+     
+     <definition name="page.admin.options" extends="Admin.Layout">
+          <put name="title" type="string" value="iFaru Administration Interface - Main Menu" />
+          <put name="body" value="/admin/layout/main-menu.jsp" />
+     </definition>  
+     <definition name="page.admin.edititems" extends="Admin.Layout">
+          <put name="title" type="string" value="iFaru Administration Interface - Edit Items" />
+          <put name="body" value="/admin/catalog/edit-items.jsp" />
+     </definition>  
+     <definition name="page.admin.additem" extends="Admin.Layout">
+          <put name="title" type="string" value="iFaru Administration Interface - Add Item" />
+          <put name="body" value="/admin/catalog/add-item.jsp" />
+     </definition> 
+     <definition name="page.admin.editcategories" extends="Admin.Layout">
+          <put name="title" type="string" value="iFaru Administration Interface - Edit Categories" />
+          <put name="body" value="/admin/catalog/edit-categories.jsp" />
+     </definition>  
+     <definition name="page.admin.addcategory" extends="Admin.Layout">
+          <put name="title" type="string" value="iFaru Administration Interface - Edit Categories" />
+          <put name="body" value="/admin/catalog/add-category.jsp" />
+     </definition>    
+     <definition name="page.admin.editbrands" extends="Admin.Layout">
+          <put name="title" type="string" value="iFaru Administration Interface - Edit Categories" />
+          <put name="body" value="/admin/catalog/edit-brands.jsp" />
+     </definition> 
+     <definition name="page.admin.addbrand" extends="Admin.Layout">
+          <put name="title" type="string" value="iFaru Administration Interface - Edit Categories" />
+          <put name="body" value="/admin/catalog/add-brand.jsp" />
+     </definition> 
+               ommon
+     <definition name="page.update.catalog" extends="Admin.Layout">
+          <put name="title" type="string" value="iFaru Administration Interface - Update-Catalog" />
+          <put name="body" value="/admin/catalog/controlled/update-catalog.jsp" />
+     </definition> 
+
+</tiles-definitions>

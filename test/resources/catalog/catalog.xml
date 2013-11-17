@@ -1,0 +1,1411 @@
+<catalog>
+  <items>
+    <item id="41006001000" name="Amber" description="A classic amber fragrance - A sweet rich amber earthy odor." categoryIds="1-11-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="3">
+      <size size="3" stock="7" salePrice="3.5" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="6.7" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="12.7" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="24.1" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.5" measurementUnit="ml" />
+      <information url="/pages/html/amber.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/amber.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_amber.jpg" />
+    </item>
+    <item id="41006001001" name="Champa" description="Deep  Rich Floral Golden Champa flowers. Rich magnolia-like floral fragrance with hints of spice" categoryIds="1-11-14" brandId="1" status="disabled" gender="Unisex" measurementUnit="ml" quantityAvailable="3">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/champa.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/champa.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_champa.jpg" />
+    </item>
+    <item id="41006001002" name="Amber 960" description="Amber" categoryIds="1-11-14-15" brandId="1" status="disabled" gender="Unisex" measurementUnit="ml" quantityAvailable="6">
+      <size size="3" stock="7" salePrice="4.99" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="9.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="18.1" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="34.4" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="2.1" measurementUnit="ml" />
+      <information url="/pages/html/amber960.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/amber960.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_amber960.jpg" />
+    </item>
+    <item id="41006001003" name="Khus - Vetiver" description="100% Pure Rich woody earthy/mysterious sweet and satisfying warm " categoryIds="1-11-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="0">
+      <size size="3" stock="7" salePrice="4.1" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="7.8" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="14.8" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="28.1" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.7" measurementUnit="ml" />
+      <information url="/pages/html/khus.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/khus.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_khus.jpg" />
+    </item>
+    <item id="41006001004" name="Lily" description="A soft sheer effervescence and sweetly sophisticated floral bouquet." categoryIds="1-11-14" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="15">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/lily.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/lily.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_lily.jpg" />
+    </item>
+    <item id="41006001005" name="Majmua" description="Rich smoky bold earthy scent with sweet and wild musky undertones " categoryIds="1-11-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="15">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/majmua.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/majmua.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_majmua.jpg" />
+    </item>
+    <item id="41006001006" name="Mitti - Baked Earth" description="That incredible fragrance of earth when the rain begins  " categoryIds="1-11-14" brandId="1" status="disabled" gender="Unisex" measurementUnit="ml" quantityAvailable="3">
+      <size size="3" stock="7" salePrice="4.3" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="8.2" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="15.6" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="29.6" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.8" measurementUnit="ml" />
+      <information url="/pages/html/mitti.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/mitti.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_mitti.jpg" />
+    </item>
+    <item id="41006001007" name="Strawberry Kisses" description="Fresh Fruity and Floral - A fabulous tropical fruity floral blend. " categoryIds="1-11-14" brandId="1" status="disabled" gender="Unisex" measurementUnit="ml" quantityAvailable="0">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/strawberry-kisses.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/strawberry-kisses.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_strawberry-kisses.jpg" />
+    </item>
+    <item id="41006001008" name="Night queen" description="Heavy and Floral - A sweet heady effervescence of exotic Night blooming jessamine flowers." categoryIds="1-11-14" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="6">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/raat-rani.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/raat-rani.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_raat-rani.jpg" />
+    </item>
+    <item id="41006001009" name="Rose" description="Fragrant Traditional Hydro-Distilled Rose Attar" categoryIds="1-11-14" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="9">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/rose.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/rose.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_rose.jpg" />
+    </item>
+    <item id="41006001010" name="Sandalwood" description="Rich sweet fragrant yet delicate woody floral" categoryIds="1-11-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="6">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/sandalwood.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/sandalwood.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_sandalwood.jpg" />
+    </item>
+    <item id="41006001011" name="Mysore White Sandalwood" description="Rich sweet fragrant yet delicate woody floral" categoryIds="1-11-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="6">
+      <size size="3" stock="7" salePrice="3.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="7.4" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="14.1" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="26.8" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.6" measurementUnit="ml" />
+      <information url="/pages/html/white-sandalwood.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/sandalwood.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_sandalwood.jpg" />
+    </item>
+    <item id="41006001012" name="Sandalwood Absolute" description="Pure Absolute Mysore sandalwood" categoryIds="1-11-14" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="9.2" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="17.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="33.3" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="63.3" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="3.8" measurementUnit="ml" />
+      <information url="/pages/html/sandalwood-pure.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/sandalwood.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_sandalwood.jpg" />
+    </item>
+    <item id="41006001013" name="Tea rose" description="Refined Warm Floral Spicy Fragrance" categoryIds="1-11-14" brandId="1" status="disabled" gender="Unisex" measurementUnit="ml" quantityAvailable="0">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/tearose.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/tearose.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_tearose.jpg" />
+    </item>
+    <item id="41006001014" name="Tuberose" description="Very floral rich sweet and warm exquisitely exotic " categoryIds="1-11-14" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="1">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/tuberose.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/tuberose.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_tuberose.jpg" />
+    </item>
+    <item id="41006001015" name="White Amber" description="Clear sensual warm and very delicate Will lift your spirits" categoryIds="1-11-14-15" brandId="1" status="disabled" gender="Unisex" measurementUnit="ml" quantityAvailable="1">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/white-amber.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/white-amber.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_white-amber.jpg" />
+    </item>
+    <item id="41006001016" name="White Musk" description="Soft velvet and forever sensual" categoryIds="1-11-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/white-musk.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/white-musk.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_white-musk.jpg" />
+    </item>
+    <item id="41006001017" name="Marigold" description="Fresh - Floral. Made from humble marigolds of gold and orange but its fragrance is gloriously green " categoryIds="1-11-14" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="10">
+      <size size="3" stock="7" salePrice="3.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="7.4" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="14.1" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="26.8" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.6" measurementUnit="ml" />
+      <information url="/pages/html/marigold.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/marigold.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_marigold.jpg" />
+    </item>
+    <item id="41006001018" name="Rose Isparta" description="Fragrant traditional hydro-distilled attar from Rosa damascena (Damask Rose) with a deep rosy fresh aroma." categoryIds="1-11-14" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="35">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/rose-isparta.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/rose-isparta.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_rose-isparta.jpg" />
+    </item>
+    <item id="41006001019" name="Saffron" description="A rich  warm  exotic spicy fragrance of prized Kashmiri saffron from India" categoryIds="1-11-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="21">
+      <size size="3" stock="7" salePrice="3.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="7.4" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="14.1" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="26.8" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.6" measurementUnit="ml" />
+      <information url="/pages/html/saffron.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/saffron.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_saffron.jpg" />
+    </item>
+    <item id="41006001020" name="Innocence" description="A soft floral rose fragrance blended with pure White flower to create a truly beautiful sparkling classic.
+" categoryIds="1-11-14" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="25">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/innocence.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/innocence.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_innocence.jpg" />
+    </item>
+    <item id="41006001021" name="Bulgarian Rose" description="Warm  floral  specifically dense  fine with honey notes  specific for Bulgarian Rose oil. " categoryIds="1-11-14" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="35">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/bulgarian-rose.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/bulgarian-rose.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_bulgarian-rose.jpg" />
+    </item>
+    <item id="41006001022" name="Amber Royal" description="A classic Pure Amber fragrance - A Pure sweet  rich  amber  earthy fragrance." categoryIds="1-11-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="0">
+      <size size="3" stock="7" salePrice="5.85" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="11.1" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="21.1" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="40.1" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="2.4" measurementUnit="ml" />
+      <information url="/pages/html/amber-royal.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/amber-royal.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_amber-royal.jpg" />
+    </item>
+    <item id="41006001023" name="Geranium" description="Floral  Fresh  Sweet  and minty with a fruity note. " categoryIds="1-11-14" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="15">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/geranium.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/geranium.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_geranium.jpg" />
+    </item>
+    <item id="41006001024" name="Fancy Bouquet" description="A charming scent of a bouquet of fresh flowers with an exclusive blend of floral tones and exotic spices." categoryIds="1-11-14" brandId="1" status="disabled" gender="Unisex" measurementUnit="ml" quantityAvailable="0">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/fancy-bouquet.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/fancy-bouquet.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_fancy-bouquet.jpg" />
+    </item>
+    <item id="41006001025" name="Jasmine" description="Captivating fragrance of delicate white blossoms of Jasmine flowers! Sheer and Intensely Floral" categoryIds="1-11-14" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="9">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/jasmine.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/jasmine.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_jasmine.jpg" />
+    </item>
+    <item id="41006001026" name="Kachi Kali" description="The intoxicating Kachi Kali is a blend of Green Aldehydes And Floral Jasmine. " categoryIds="1-11-14" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="25">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/kachi-kali.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/kachi-kali.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_kachi-kali.jpg" />
+    </item>
+    <item id="41006001027" name="White Lotus" description="An ethereal and slightly delicate sweet attar  with a soft warm radiance." categoryIds="1-11-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="9">
+      <size size="3" stock="7" salePrice="3.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="7.4" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="14.1" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="26.8" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.6" measurementUnit="ml" />
+      <information url="/pages/html/white-lotus.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/white-lotus.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_white-lotus.jpg" />
+    </item>
+    <item id="41006001028" name="Like Kasturi Musk - (Like Wild Deer Musk)" description="Musky Sensual Sweet and Warm. The Scent of Kasturi is the strong scented secretion found in rare deer musk . " categoryIds="1-11-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="3">
+      <size size="3" stock="7" salePrice="3.75" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="7.1" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="13.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="25.7" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.6" measurementUnit="ml" />
+      <information url="/pages/html/original-kasturi-musk.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/original-kasturi.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_original-kasturi.jpg" />
+    </item>
+    <item id="41006001029" name="Attar Full" description="Rich  Sweet  Heady  Deep and Intensely Floral  classic Jasmine fragrance" categoryIds="1-11-14" brandId="1" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="6">
+      <size size="3" stock="7" salePrice="3.7" measurementUnit="unit" />
+      <size size="Tester" stock="15" salePrice="1.5" measurementUnit="unit" />
+      <information url="/pages/html/attar-full.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/attar-full.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_attar-full.jpg" />
+    </item>
+    <item id="41006001030" name="Majmua 96 - Nemat" description="Rich smoky bold earthy scent with sweet and wild musky undertones" categoryIds="1-11-14-15" brandId="6" status="disabled" gender="Unisex" measurementUnit="unit" quantityAvailable="0">
+      <size size="5" stock="4" salePrice="4.8" measurementUnit="unit" />
+      <information url="/pages/html/majmua96-nemat.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/majmua96.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_majmua96.jpg" />
+    </item>
+    <item id="41006001031" name="Green Lotus" description="An ethereal and slightly delicate sweet powdery attar with a soft warm radiance." categoryIds="1-11-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="6">
+      <size size="3" stock="7" salePrice="3.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="7.4" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="14.1" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="26.8" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.6" measurementUnit="ml" />
+      <information url="/pages/html/green-lotus.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/green-lotus.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_green-lotus.jpg" />
+    </item>
+    <item id="41006001032" name="Krishna Musk" description="A warm Spicy-Sweet-musky fragrance." categoryIds="1-11-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="6">
+      <size size="3" stock="7" salePrice="3.49" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="6.6" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="12.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="23.8" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.5" measurementUnit="ml" />
+      <information url="/pages/html/krishna-musk.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/krishna-musk.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_krishna-musk.jpg" />
+    </item>
+    <item id="41006001033" name="Vanilla" description="Rich sweet fragrance of  french vanilla pods and creamy vanilla musk.
+" categoryIds="1-11-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="3">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/vanilla.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/vanilla.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_vanilla.jpg" />
+    </item>
+    <item id="41006001034" name="Jannat-Ul-Firdaus" description="Jannatul Firdaus means the fragrance of the garden of heaven. A Fresh and Mildly Sweet fragrance" categoryIds="1-11-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/jannat-ul-firdaus.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/jannat-ul-firdaus.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_jannat-ul-firdaus.jpg" />
+    </item>
+    <item id="41006001035" name="Jasmin (Sambac)" description="Traditional hydro-distilled fragrance of snowy white Jasmine blossoms! Sweet, Heady and Intensely Floral. " categoryIds="1-11-14" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="0">
+      <size size="3" stock="7" salePrice="3.99" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="7.6" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="14.4" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="27.4" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.7" measurementUnit="ml" />
+      <information url="/pages/html/jasmine-sambac.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/jasmine-sambac.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_jasmine-sambac.jpg" />
+    </item>
+    <item id="41006001036" name="Lilac" description="A distinctive and flowery scent of pure fresh lilacs in full spring bloom." categoryIds="1-11-14" brandId="1" status="disabled" gender="Unisex" measurementUnit="ml" quantityAvailable="0">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/lilac.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/lilac.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_lilac.jpg" />
+    </item>
+    <item id="41006001037" name="Festive Musk" description="A concotion of the most precious and secret blend of sweet spicy oils. " categoryIds="1-11-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="0">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/festive-musk.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/festive-musk.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_festive-musk.jpg" />
+    </item>
+    <item id="41006002000" name="Pure Dehnal Oudh Ameeri" description="100% Pure Organic pleasing oriental deep earthy woody masculine fragrance. " categoryIds="1-12-14-15-16" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="15">
+      <size size="3" stock="7" salePrice="72.0" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="136.8" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="259.9" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="493.8" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="3.5" measurementUnit="ml" />
+      <information url="/pages/html/dehnal-ameeri.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/dehnal-ameeri.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_dehnal-ameeri.jpg" />
+    </item>
+    <item id="41006002001" name="Pure Dehnal Oudh Maliki " description="100% Pure Organic pungent sweet slightly woody and well refined." categoryIds="1-12-14-15-16" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="15">
+      <size size="3" stock="7" salePrice="53.0" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="100.7" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="191.3" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="363.5" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="3.25" measurementUnit="ml" />
+      <information url="/pages/html/dehnal-maliki.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/dehnal-maliki.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_dehnal-maliki.jpg" />
+    </item>
+    <item id="41006002002" name="Cambodian Dehnal Oudh Super " description="Its warm foresty fragrance is mysteriously rich with astonishing complexity. " categoryIds="1-12-14-15-16" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="15">
+      <size size="3" stock="7" salePrice="38.0" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="72.2" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="137.2" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="260.7" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="15.8" measurementUnit="ml" />
+      <information url="/pages/html/dehnal-cambodi.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/dehnal-cambodi.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_dehnal-cambodi.jpg" />
+    </item>
+    <item id="41006002003" name="Dehnal Oudh Hindi" description="Rich mystical earthy fragrance with exotic light and deep notes" categoryIds="1-12-14-15-16" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="15">
+      <size size="3" stock="7" salePrice="9.25" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="17.6" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="33.4" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="63.5" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="3.9" measurementUnit="ml" />
+      <information url="/pages/html/indian-oudh.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/indian-oudh.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_indian-oudh.jpg" />
+    </item>
+    <item id="41006002004" name="Oudh-Al-Matheel" description="Rich pleasing oriental organic agarwood based fragrance" categoryIds="1-12-14-15-16" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="6">
+      <size size="3" stock="7" salePrice="4.5" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="8.6" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="16.3" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="31.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.9" measurementUnit="ml" />
+      <information url="/pages/html/oudh-al-matheel.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/oudh-al-matheel.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_oudh-al-matheel.jpg" />
+    </item>
+    <item id="41006002005" name="Mukhallat Rayyan" description="A unique floral-woody smoky fragrance wrapped in rich dehnal oudh" categoryIds="1-12-14-15-16" brandId="1" status="disabled" gender="Unisex" measurementUnit="ml" quantityAvailable="0">
+      <size size="3" stock="7" salePrice="5.0" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="9.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="18.1" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="34.4" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="2.1" measurementUnit="ml" />
+      <information url="/pages/html/mukhallat-rayyan.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/mukhallat-rayyan.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_mukhallat-rayyan.jpg" />
+    </item>
+    <item id="41006002006" name="Mukhallat Shamsara" description="A velvety warm oriental based blend with sweet vanilla and honey based mukhallat that connotes richness and luxury.
+" categoryIds="1-12-14" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="25">
+      <size size="3" stock="7" salePrice="5.0" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="9.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="18.1" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="34.4" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="2.1" measurementUnit="ml" />
+      <information url="/pages/html/mukhallat-shamsara.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/mukhallat-shamsara.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_mukhallat-shamsara.jpg" />
+    </item>
+    <item id="41006002007" name="Mukhallat Zaid" description="Floral-woody fragrance blended in rich dehnal oudh" categoryIds="1-12-15-16" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="25">
+      <size size="3" stock="7" salePrice="5.0" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="9.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="18.1" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="34.4" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="2.1" measurementUnit="ml" />
+      <information url="/pages/html/mukhallat-zaid.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/mukhallat-zaid.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_mukhallat-zaid.jpg" />
+    </item>
+    <item id="41006002008" name="Muskulward - Musk Rose" description="A powerful blend of musk softened with sweet and fresh roses" categoryIds="1-12-14" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="25">
+      <size size="3" stock="7" salePrice="4.5" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="8.6" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="16.3" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="31.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.9" measurementUnit="ml" />
+      <information url="/pages/html/musk-ul-ward.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/musk-ul-ward.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_musk-ul-ward.jpg" />
+    </item>
+    <item id="41006002009" name="Sultan" description="Rich oriental blend with rare Indian agarwood and exotic musk" categoryIds="1-12-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="6">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/sultan.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/sultan.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_sultan.jpg" />
+    </item>
+    <item id="41006002010" name="Zeenat" description="Floral and woody with subtle warmth richness and a velvety softness" categoryIds="1-12-14" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="25">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/zeenat.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/zeenat.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_zeenat.jpg" />
+    </item>
+    <item id="41006002011" name="Arabian Musk" description="Woody Musk " categoryIds="1-12-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="25">
+      <size size="3" stock="7" salePrice="3.75" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="7.1" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="13.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="25.7" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.6" measurementUnit="ml" />
+      <information url="/pages/html/arabian-musk.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/arabian-musk.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_arabian-musk.jpg" />
+    </item>
+    <item id="41006002012" name="Touch-Me - Nabeel" description="Warm spicy musky Sweet-Agarwoody fragrance. " categoryIds="1-12-14-15-16" brandId="4" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="2">
+      <size size="12" stock="2" salePrice="8.8" measurementUnit="unit" />
+      <size size="Tester" stock="15" salePrice="1.8" measurementUnit="unit" />
+      <information url="/pages/html/touch-me.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/touch-me.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_touch-me.jpg" />
+    </item>
+    <item id="41006002013" name="Dana" description="Warm sweet pleasing floral rich and velvety vanilla fragrance." categoryIds="1-12-14" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="35">
+      <size size="3" stock="7" salePrice="3.75" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="7.1" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="13.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="25.7" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.6" measurementUnit="ml" />
+      <information url="/pages/html/dana.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/dana.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_dana.jpg" />
+    </item>
+    <item id="41006002014" name="Elegance" description="This Blissfully rich fragrance has a beautiful feminine woody fragrance, irresistible like an aphrodisiac.  " categoryIds="1-12-14-16" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="4.3" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="8.2" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="15.6" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="29.6" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.8" measurementUnit="ml" />
+      <information url="/pages/html/elegance.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/elegance.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_elegance.jpg" />
+    </item>
+    <item id="41006002015" name="Dark Secret" description="Warm sweet woody oriental scent." categoryIds="1-12-14-16" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="25">
+      <size size="3" stock="7" salePrice="3.75" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="7.1" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="13.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="25.7" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.6" measurementUnit="ml" />
+      <information url="/pages/html/dark-secret.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/dark-secret.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_dark-secret.jpg" />
+    </item>
+    <item id="41006002016" name="Dehnal Oudh - Nabeel" description="Warm spicy musky Sweet-Agarwoody" categoryIds="1-12-14-15-16" brandId="4" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="2">
+      <size size="3" stock="7" salePrice="3.8" measurementUnit="unit" />
+      <size size="Tester" stock="15" salePrice="1.6" measurementUnit="unit" />
+      <information url="/pages/html/dhanal-nabeel.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/dhanal-nabeel.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_dhanal-nabeel.jpg" />
+    </item>
+    <item id="41006002017" name="Dehnal Oudh - Nayab" description="Warm spicy musky Sweet-Agarwoody" categoryIds="1-12-14-15-16" brandId="5" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="1">
+      <size size="6" stock="4" salePrice="4.99" measurementUnit="unit" />
+      <information url="/pages/html/dehnal-nayaab.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/dehnal-nayaab.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_dehnal-nayaab.jpg" />
+    </item>
+    <item id="41006002018" name="Dreams" description="Warm sweet woody oriental scent." categoryIds="1-12-14-15-16" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="12">
+      <size size="3" stock="7" salePrice="4.6" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="8.7" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="16.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="31.4" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.9" measurementUnit="ml" />
+      <information url="/pages/html/dreams.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/dreams.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_dreams.jpg" />
+    </item>
+    <item id="41006002019" name="Saif-al-Arab" description="Woody musky spicy" categoryIds="1-12-15-16" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="3">
+      <size size="3" stock="7" salePrice="4.5" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="8.6" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="16.3" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="31.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.9" measurementUnit="ml" />
+      <information url="/pages/html/saif-al-arab.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/saif-al-arab.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_saif-al-arab.jpg" />
+    </item>
+    <item id="41006002020" name="Saif-al-Hind" description="Woody musky floral spicy" categoryIds="1-12-15-16" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="6">
+      <size size="3" stock="7" salePrice="3.75" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="7.1" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="13.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="25.7" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.6" measurementUnit="ml" />
+      <information url="/pages/html/saif-al-hind.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/saif-al-hind.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_saif-al-hind.jpg" />
+    </item>
+    <item id="41006002021" name="Ragheed" description="A heavy Oriental blend with rare Indian Agarwood and Turkish Rose" categoryIds="1-12-15-16" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="25">
+      <size size="3" stock="7" salePrice="5.5" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="10.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="20.0" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="38.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="2.3" measurementUnit="ml" />
+      <information url="/pages/html/ragheed.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ragheed.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ragheed.jpg" />
+    </item>
+    <item id="41006002022" name="Mukhallat-Aseel" description="Agarwoody Oriental" categoryIds="1-12-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="3">
+      <size size="3" stock="7" salePrice="3.75" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="7.1" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="13.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="25.7" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.6" measurementUnit="ml" />
+      <information url="/pages/html/mukhallat-aseel.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/mukhallat-aseel.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_mukhallat-aseel.jpg" />
+    </item>
+    <item id="41006002023" name="Mukhallat-al-Ameer" description="Rich fragrance built around an harmony of aromatic and woody notes enriched with sensual amber." categoryIds="1-12-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="3">
+      <size size="3" stock="7" salePrice="5.5" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="10.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="20.0" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="38.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="2.3" measurementUnit="ml" />
+      <information url="/pages/html/mukhallat-al-ameer.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/mukhallat-al-ameer.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_mukhallat-al-ameer.jpg" />
+    </item>
+    <item id="41006002024" name="Musk-ul-Rooh" description="A musk-based fragrance sweetened with soft sandalwood" categoryIds="1-12-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="3">
+      <size size="3" stock="7" salePrice="3.3" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="6.3" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="12.0" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="22.8" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.4" measurementUnit="ml" />
+      <information url="/pages/html/musk-ul-rooh.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/musk-ul-rooh.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_musk-ul-rooh.jpg" />
+    </item>
+    <item id="41006002025" name="Nasaem - Nabeel" description="Warm spicy musky Sweet-Agarwoody" categoryIds="1-12-14-15-16" brandId="4" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="2">
+      <size size="15" stock="3" salePrice="19.99" measurementUnit="unit" />
+      <information url="/pages/html/nasaem-perfume.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/nasaem-perfume.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_nasaem-perfume.jpg" />
+    </item>
+    <item id="41006002026" name="Jalwa - Nabeel" description="Refreshing subtle oriental fragrance" categoryIds="1-12-15" brandId="4" status="disabled" gender="Unisex" measurementUnit="unit" quantityAvailable="0">
+      <size size="12" stock="2" salePrice="8.99" measurementUnit="unit" />
+      <information url="/pages/html/jalwa12ml.html " />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/jalwa12ml.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_jalwa12ml.jpg" />
+    </item>
+    <item id="41006002027" name="Jalwa - Nabeel" description="Refreshing subtle oriental fragrance" categoryIds="1-12-15" brandId="4" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="10">
+      <size size="3" stock="7" salePrice="3.75" measurementUnit="unit" />
+      <size size="Tester" stock="15" salePrice="1.6" measurementUnit="unit" />
+      <information url="/pages/html/jalwa3ml.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/jalwa3ml.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_jalwa3ml.jpg" />
+    </item>
+    <item id="41006002028" name="Hajr-e-Aswad" description="Very rich and intoxicating and long lasting blend of woody floral overtones" categoryIds="1-12-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="4.5" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="8.6" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="16.3" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="31.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.9" measurementUnit="ml" />
+      <information url="/pages/html/hajr-e-aswad.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/hajr-e-aswad.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_hajr-e-aswad.jpg" />
+    </item>
+    <item id="41006002029" name="Fawakey" description="A romantic Citrus and fruity scent of grace" categoryIds="1-12-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/fawakey.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/fawakey.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_fawakey.jpg" />
+    </item>
+    <item id="41006002030" name="Etisalbi - Nabeel" description="Sensual subtle oriental fragrance" categoryIds="1-12-14-15-16" brandId="4" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="1">
+      <size size="15" stock="3" salePrice="9.5" measurementUnit="unit" />
+      <information url="/pages/html/etisalbi-perfume.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/etisalbi-perfume.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_etisalbi-perfume.jpg" />
+    </item>
+    <item id="41006002031" name="Jannet-el-Firdaus - Nabeel" description="Fresh and mildly sweet. A high tone of jasmine" categoryIds="1-12-14-15" brandId="4" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="3">
+      <size size="3" stock="7" salePrice="3.1" measurementUnit="unit" />
+      <information url="/pages/html/jannet-el-firdaus3ml.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/jannet-el-firdaus3ml.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_jannet-el-firdaus3ml.jpg" />
+    </item>
+    <item id="41006002032" name="Jannat-al-Firdous - Nabeel" description="Fresh and mildly sweet. A high tone of jasmine" categoryIds="1-12-14-15" brandId="4" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="3">
+      <size size="3" stock="7" salePrice="3.1" measurementUnit="unit" />
+      <information url="/pages/html/jannat-al-firdous8ml.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/jannat-al-firdous8ml.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_jannat-al-firdous8ml.jpg" />
+    </item>
+    <item id="41006002033" name="Jannat-el-Baqui - Nabeel" description="Sweet Musky Floral Powdery" categoryIds="1-12-14" brandId="4" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="2">
+      <size size="3" stock="7" salePrice="3.1" measurementUnit="unit" />
+      <information url="/pages/html/jannet-el-baqui3ml.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/jannet-el-baqui3ml.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_jannet-el-baqui3ml.jpg" />
+    </item>
+    <item id="41006002034" name="Jannat-el-Baqui - Nabeel" description="Sweet Musky Floral Powdery" categoryIds="1-12-14" brandId="4" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="2">
+      <size size="11" stock="2" salePrice="7.99" measurementUnit="unit" />
+      <information url="/pages/html/jannet-el-baqui11ml.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/jannet-el-baqui11ml.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_jannet-el-baqui11ml.jpg" />
+    </item>
+    <item id="41006002035" name="Lamya - Nabeel" description="Refreshing subtle oriental fragrance enhanced by the unique combination of Arabian musk. " categoryIds="1-12-14-15" brandId="4" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="2">
+      <size size="20" stock="2" salePrice="14.5" measurementUnit="unit" />
+      <information url="/pages/html/lamya.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/lamya.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_lamya.jpg" />
+    </item>
+    <item id="41006002036" name="Passion" description="Fresh tangy spicy fragrance wrapped in rare dehnal oudh" categoryIds="1-12-14-15-16" brandId="1" status="disabled" gender="Unisex" measurementUnit="ml" quantityAvailable="0">
+      <size size="3" stock="7" salePrice="3.75" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="7.1" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="13.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="25.7" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.6" measurementUnit="ml" />
+      <information url="/pages/html/passion.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/passion.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_passion.jpg" />
+    </item>
+    <item id="41006002037" name="Ala Baali-Nabeel" description="Sweet Floral with hints of creamy jasmine wrapped in rare dehnal oudh" categoryIds="1-12-14-15-16" brandId="4" status="disabled" gender="Unisex" measurementUnit="unit" quantityAvailable="0">
+      <size size="12" stock="2" salePrice="18.5" measurementUnit="unit" />
+      <information url="/pages/html/ala-baali.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ala-baali.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ala-baali.jpg" />
+    </item>
+    <item id="41006002038" name="Rooh-Al-Oudh" description="Rich woody bold scent with sweet and wild musky undertones" categoryIds="1-12-14-15-16" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="6">
+      <size size="3" stock="7" salePrice="3.5" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="6.7" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="12.7" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="24.1" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.5" measurementUnit="ml" />
+      <information url="/pages/html/rooh-al-oudh.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/rooh-al-oudh.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_rooh-al-oudh.jpg" />
+    </item>
+    <item id="41006002039" name="Velvet Touch" description="Sweet Floral with hints of powdery feminine fragrance" categoryIds="1-12-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="6">
+      <size size="3" stock="7" salePrice="2.99" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.7" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.8" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.5" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/velvet-touch.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/velvet-touch.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_velvet-touch.jpg" />
+    </item>
+    <item id="41006002040" name="Black Musk" description="Spicy oriental (deep) DANGEROUS.. FORBIDDEN.. SENSUAL.. INTOXICATING and VERY ADDICTIVE. " categoryIds="1-12-14-15" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="500">
+      <size size="3" stock="7" salePrice="3.8" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="7.2" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="13.7" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="26.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.6" measurementUnit="ml" />
+      <information url="/pages/html/black-musk.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/black-musk.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_black-musk.jpg" />
+    </item>
+    <item id="41006002041" name="Majmu Aal 55" description="A warm  Sweet-green fragrance with hints of rich spices." categoryIds="1-12-14-15" brandId="4" status="disabled" gender="Unisex" measurementUnit="unit" quantityAvailable="0">
+      <size size="3" stock="7" salePrice="3.7" measurementUnit="unit" />
+      <information url="/pages/html/majmu-aal55.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/majmu-aal55.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_majmu-aal55.jpg" />
+    </item>
+    <item id="41006002042" name="Wainak Habibi" description="A epitome of rich  deep  earthy oriental Agarwood based fragrance.Steeped in luxury. " categoryIds="1-12-14-15-16" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="4.99" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="9.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="18.1" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="34.4" measurementUnit="ml" />
+      <information url="/pages/html/wainak-habibi.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/wainak-habibi.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_wainak-habibi.jpg" />
+    </item>
+    <item id="41006002043" name="Desire" description="Dreamy scent anchored beautifully with sandalwood and a complex blend of floral and musky notes." categoryIds="1-12-14-16" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="4.3" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="7.2" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="13.7" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="26.0" measurementUnit="ml" />
+      <information url="/pages/html/desire.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/desire.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_desire.jpg" />
+    </item>
+    <item id="41006002044" name="Hadeel" description="An intoxicating sweet oriental fragrance Hadeel is a modern classic with a sophisticated elegance." categoryIds="1-12-14-15" brandId="4" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="1">
+      <size size="40" stock="2" salePrice="35.0" measurementUnit="unit" />
+      <information url="/pages/html/hadeel.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/hadeel.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_hadeel.jpg" />
+    </item>
+    <item id="41006002045" name="Maitha" description="A fresh oriental elixir overwhelming the senses and embracing the skin with a sweet kiss " categoryIds="1-12-14-15-16" brandId="4" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="1">
+      <size size="30" stock="1" salePrice="25.0" measurementUnit="unit" />
+      <information url="/pages/html/maitha.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/maitha.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_maitha.jpg" />
+    </item>
+    <item id="41006002046" name="Maalum" description="A mysterious fragrance that has soaring citrus notes with an irresistible subtle sweetness" categoryIds="1-12-14-15-16" brandId="4" status="disabled" gender="Unisex" measurementUnit="unit" quantityAvailable="0">
+      <size size="15" stock="3" salePrice="19.99" measurementUnit="unit" />
+      <information url="/pages/html/maalum.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/maalum.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_maalum.jpg" />
+    </item>
+    <item id="41006002047" name="Moondrops" description="A brilliant burst of precious floral tones based on an artful blend of smooth floral essences." categoryIds="1-12-14" brandId="1" status="enabled" gender="Female" measurementUnit="ml" quantityAvailable="0">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/moondrops.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/moondrops.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_moondrops.jpg" />
+    </item>
+    <item id="41006002048" name="Love Spell" description="This fragrance is a sumptuous floral, revealing delicious noble accents of sweet florals and warming musk and amber" categoryIds="1-12-14" brandId="1" status="enabled" gender="Female" measurementUnit="ml" quantityAvailable="6">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/love-spell.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/love-spell.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_love-spell.jpg" />
+    </item>
+    <item id="41006002049" name="Alf Zahra" description="An exotic fresh-floral and sophisticated blend of the world's rarest flowers and essential oils:" categoryIds="1-12-14" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="6">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/alf-zahra.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/alf-zahra.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_alf-zahra.jpg" />
+    </item>
+    <item id="41006002050" name="Sandal Musk" description="A soft woody  floral fragrance that blends elegance and sensuality." categoryIds="1-12-14-15" brandId="1" status="disabled" gender="Unisex" measurementUnit="ml" quantityAvailable="24">
+      <size size="3" stock="7" salePrice="3.7" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="7.0" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="13.3" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="25.3" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.5" measurementUnit="ml" />
+      <information url="/pages/html/sandal-musk.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/sandal-musk.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_sandal-musk.jpg" />
+    </item>
+    <item id="41006002051" name="Summer Mist" description="An aromatic-Fresh citrusy fragrance, the essence of which is fragile." categoryIds="1-12-15-16" brandId="1" status="enabled" gender="Mens" measurementUnit="ml" quantityAvailable="15">
+      <size size="3" stock="7" salePrice="3.5" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="6.7" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="12.7" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="24.1" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.5" measurementUnit="ml" />
+      <information url="/pages/html/summer-mist.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/summer-mist.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_summer-mist.jpg" />
+    </item>
+    <item id="41006002052" name="Aroosa" description="An sensual romantic floral fragrance most appropriate for that special day with that special someone." categoryIds="1-12-14" brandId="1" status="enabled" gender="Female" measurementUnit="ml" quantityAvailable="25">
+      <size size="3" stock="7" salePrice="5.5" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="10.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="20.0" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="38.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="2.3" measurementUnit="ml" />
+      <information url="/pages/html/aroosa.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/aroosa.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_aroosa.jpg" />
+    </item>
+    <item id="41006002053" name="Arabian Nights" description="This Unforgetable Fragrance is a Sensual Floral Blend that Evokes Elegance and Romance" categoryIds="1-12-14" brandId="1" status="enabled" gender="Female" measurementUnit="ml" quantityAvailable="25">
+      <size size="3" stock="7" salePrice="5.5" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="10.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="20.0" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="38.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="2.3" measurementUnit="ml" />
+      <information url="/pages/html/arabian-nights.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/arabian-nights.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_arabian-nights.jpg" />
+    </item>
+    <item id="41006002054" name="Mukhallat Rajaali" description="A masterly blend of very light dehnal oud, melodiously immersing into beautiful spicy citrusy floral notes. " categoryIds="1-12-15-16" brandId="1" status="enabled" gender="Mens" measurementUnit="ml" quantityAvailable="25">
+      <size size="3" stock="7" salePrice="3.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="7.4" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="14.1" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="26.8" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.6" measurementUnit="ml" />
+      <information url="/pages/html/mukhallat-rajaali.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/mukhallat-rajaali.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_mukhallat-rajaali.jpg" />
+    </item>
+    <item id="41006002055" name="Dehnal Oudh khossosi Qadeem - Haramain" description="Special type of Dehnal Oil preserved for five years to procure a thickness.A classic thats endured the test of time. " categoryIds="1-12-14-15-16" brandId="7" status="enabled" gender="unisex" measurementUnit="ml" quantityAvailable="2">
+      <size size="6" stock="4" salePrice="78.37" measurementUnit="ml" />
+      <information url="/pages/html/ah-dehnal-khossosi-qadeem.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-dehnal-khossosi-qadeem.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-dehnal-khossosi-qadeem.jpg" />
+    </item>
+    <item id="41006002056" name="Dehnal Oudh Shuyookhi - Haramain" description="Replete with a mysterious richness and deep foresty sweetness, this Oud is a collectors favourite." categoryIds="1-12-14-15-16" brandId="7" status="enabled" gender="unisex" measurementUnit="ml" quantityAvailable="2">
+      <size size="3" stock="7" salePrice="63.24" measurementUnit="ml" />
+      <information url="/pages/html/ah-dehnal-shuyookhi.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-dehnal-shuyookhi.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-dehnal-shuyookhi.jpg" />
+    </item>
+    <item id="41006002057" name="Dehnal Oudh Maliki - Haramain" description="Extracted from the very first boiling of Agarwood dust solution maliki is a fragrance to pamper and indulge yourself." categoryIds="1-12-14-15-16" brandId="7" status="enabled" gender="unisex" measurementUnit="ml" quantityAvailable="2">
+      <size size="4" stock="7" salePrice="45.26" measurementUnit="ml" />
+      <information url="/pages/html/ah-dehnal-maliki.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-dehnal-maliki.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-dehnal-maliki.jpg" />
+    </item>
+    <item id="41006002058" name="Dehnal Oudh Mubakhar - Haramain" description="A fascinating attar of unmatched depth and complexity. When you own it, you'll experience the real thing." categoryIds="1-12-14-15-16" brandId="7" status="enabled" gender="unisex" measurementUnit="ml" quantityAvailable="1">
+      <size size="6" stock="4" salePrice="63.23" measurementUnit="ml" />
+      <information url="/pages/html/ah-dehnal-mubakhar.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-dehnal-mubakhar.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-dehnal-mubakhar.jpg" />
+    </item>
+    <item id="41006002059" name="Mubakhar Ateeq - Haramain" description="Oriental-Agarwoody-Floral-Musk. Most addictively unique fragrance you'll ever come across. A connoisseurs' delight." categoryIds="1-12-14-15-16" brandId="7" status="enabled" gender="unisex" measurementUnit="ml" quantityAvailable="1">
+      <size size="60" stock="2" salePrice="399.0" measurementUnit="ml" />
+      <information url="/pages/html/ah-mubakhar-ateeq.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-mubakhar-ateeq.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-mubakhar-ateeq.jpg" />
+    </item>
+    <item id="41006002060" name="Mukhallat Al Quds - Haramain" description="A Blend of warm Amber, Motiyan, Dehnal Oudh, Sandal Musk and Khalta (rare extract from deep ravines of Saudi Hills)" categoryIds="1-12-14-15-16" brandId="7" status="enabled" gender="unisex" measurementUnit="ml" quantityAvailable="3">
+      <size size="9" stock="2" salePrice="38.17" measurementUnit="ml" />
+      <information url="/pages/html/ah-mukhallat-al-quds.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-mukhallat-al-quds.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-mukhallat-al-quds.jpg" />
+    </item>
+    <item id="41006002061" name="Al Buraq - Haramain" description="Nostalgic fusion of Dehnal Oudh,Saffron,Amber,Turkish Rose and Musk adds Gold and Silver wings to your imaginations." categoryIds="1-12-14-15-16" brandId="7" status="enabled" gender="unisex" measurementUnit="ml" quantityAvailable="2">
+      <size size="30" stock="1" salePrice="37.7" measurementUnit="ml" />
+      <information url="/pages/html/ah-al-buraq.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-al-buraq.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-al-buraq.jpg" />
+    </item>
+    <item id="41006002062" name="Attar Al Kabaa - Haramain" description="A sacred journey told through fragrance of Dehnal oud, Virgin Amber, Sandal with hints of Taif Rose and exotic Flowers. " categoryIds="1-12-14-15-16" brandId="7" status="enabled" gender="unisex" measurementUnit="ml" quantityAvailable="1">
+      <size size="25" stock="1" salePrice="25.87" measurementUnit="ml" />
+      <information url="/pages/html/ah-attar-al-kabaa.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-attar-al-kabaa.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_attar-al-kabaa.jpg" />
+    </item>
+    <item id="41006002063" name="Attar Lamha - Haramain" description="An Ethereal blend of fragrance notes. Darkly sensual on a man and dangerously sophisticated on a woman. " categoryIds="1-12-14-15-16" brandId="7" status="enabled" gender="unisex" measurementUnit="ml" quantityAvailable="3">
+      <size size="25" stock="1" salePrice="78.37" measurementUnit="ml" />
+      <information url="/pages/html/ah-attar-lamha.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-attar-lamha.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-attar-lamha.jpg" />
+    </item>
+    <item id="41006002064" name="Sheikh - Haramain" description="Sheikh by Al Haramain is a melange of exquisite oudh carefully selected to create the most exotic aroma." categoryIds="1-12-14-15-16" brandId="7" status="enabled" gender="unisex" measurementUnit="ml" quantityAvailable="1">
+      <size size="60" stock="2" salePrice="155.0" measurementUnit="ml" />
+      <information url="/pages/html/ah-sheikh.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-sheikh.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-sheikh.jpg" />
+    </item>
+    <item id="41006002065" name="Rahib - Haramain" description="A very invigorating blend of sweet fragrance notes with hints of very mild citrus." categoryIds="1-12-15-16" brandId="7" status="enabled" gender="unisex" measurementUnit="ml" quantityAvailable="5">
+      <size size="15" stock="3" salePrice="11.53" measurementUnit="ml" />
+      <information url="/pages/html/ah-rahib.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-rahib.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-rahib.jpg" />
+    </item>
+    <item id="41006002066" name="Affaf - Haramain" description="As pure as budding rose, before the first touch of caring bee. Feel it in the most romantic and sweet Affaf Perfume Oil" categoryIds="1-12-14-15-16" brandId="7" status="enabled" gender="unisex" measurementUnit="ml" quantityAvailable="2">
+      <size size="45" stock="2" salePrice="41.79" measurementUnit="ml" />
+      <information url="/pages/html/ah-affaf.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-affaf.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-affaf.jpg" />
+    </item>
+    <item id="41006002067" name="Marwah - Haramain" description="Sweet - spicy oriental blend of rose and oud. Intoxicating sweet summer breeze with hints of spice. A Best seller!!" categoryIds="1-12-14-15-16" brandId="7" status="enabled" gender="unisex" measurementUnit="ml" quantityAvailable="2">
+      <size size="25" stock="1" salePrice="32.97" measurementUnit="ml" />
+      <information url="/pages/html/ah-marwah.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-marwah.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-marwah.jpg" />
+    </item>
+    <item id="41006002068" name="Mena - Haramain" description="A sweet and charming essence of Roses, surrounded by spiritual oils of Dehnal Oudh, Amber, Sandalwood and Musk" categoryIds="1-12-14-15-16" brandId="7" status="enabled" gender="unisex" measurementUnit="ml" quantityAvailable="3">
+      <size size="25" stock="1" salePrice="32.97" measurementUnit="ml" />
+      <information url="/pages/html/ah-mena.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-mena.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-mena.jpg" />
+    </item>
+    <item id="41006002069" name="Marjan - Haramain" description="Citrus-floral tones, hints of orange and honey form a perfect harmony bringing to mind hot summer sun burnt meadows." categoryIds="1-12-14-15-16" brandId="7" status="enabled" gender="unisex" measurementUnit="ml" quantityAvailable="3">
+      <size size="15" stock="3" salePrice="14.05" measurementUnit="ml" />
+      <information url="/pages/html/ah-marjan.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-marjan.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-marjan.jpg" />
+    </item>
+    <item id="41006002070" name="Muzakkerat (Golden) - Haramain" description="Invigorating fragrance of rosewood, sandalwood, undertones of amber and cedar make this a very fresh, sweet pleasant fragrance. " categoryIds="1-12-14-15-16" brandId="7" status="enabled" gender="unisex" measurementUnit="ml" quantityAvailable="3">
+      <size size="12" stock="2" salePrice="14.05" measurementUnit="ml" />
+      <information url="/pages/html/ah-muzakkerat.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-muzakkerat.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-muzakkerat.jpg" />
+    </item>
+    <item id="41006002071" name="Night Dreams - Haramain" description="A gentle, wonderful blend of high quality pure Sandal and Dehnal oud." categoryIds="1-12-14-15-16" brandId="7" status="enabled" gender="unisex" measurementUnit="ml" quantityAvailable="6">
+      <size size="35" stock="2" salePrice="21.62" measurementUnit="ml" />
+      <information url="/pages/html/ah-night-dreams.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-night-dreams.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-night-dreams.jpg" />
+    </item>
+    <item id="41006002072" name="Haneen - Haramain" description="Warm oriental fragrance wrapped in sweet floral Ward Taifi (Taifi Roses) and rounded with pure dehnal oudh." categoryIds="1-12-14-15-16" brandId="7" status="enabled" gender="unisex" measurementUnit="ml" quantityAvailable="2">
+      <size size="20" stock="2" salePrice="20.86" measurementUnit="ml" />
+      <information url="/pages/html/ah-haneen.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-haneen.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-haneen.jpg" />
+    </item>
+    <item id="41006002073" name="Sheikha - Haramain" description="A very beautiful blend of Oriental Spicy Sweet Amber with a touch of Sandalwood." categoryIds="1-12-14-16" brandId="7" status="enabled" gender="Female" measurementUnit="ml" quantityAvailable="2">
+      <size size="12" stock="2" salePrice="10.27" measurementUnit="ml" />
+      <information url="/pages/html/ah-sheikha.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-sheikha.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-sheikha.jpg" />
+    </item>
+    <item id="41006002074" name="Musk Al Haramain - Haramain" description="A blend of of Musk and Pure Roses. It is holiness personified and embodies the devotion inherent inside every soul. " categoryIds="1-12-14-15-16" brandId="7" status="enabled" gender="unisex" measurementUnit="ml" quantityAvailable="2">
+      <size size="12" stock="2" salePrice="13.18" measurementUnit="ml" />
+      <information url="/pages/html/ah-musk-al-haramain.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-musk-al-haramain.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-musk-al-haramain.jpg" />
+    </item>
+    <item id="41006002075" name="Amira (Golden) - Haramain" description="A Sweet-Floral-Woody fragrance is a personification of ones enchanted and undisclosed feelings of hidden passion." categoryIds="1-12-14-16" brandId="7" status="disabled" gender="Female" measurementUnit="ml" quantityAvailable="0">
+      <size size="12" stock="2" salePrice="10.27" measurementUnit="ml" />
+      <information url="/pages/html/ah-amira.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-amira.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-amira.jpg" />
+    </item>
+    <item id="41006002076" name="Noora - Haramain" description="A rare exquisite Arabian perfume with sweet oriental spicy blend of Amber, Sandalwood, Dehnal Oudh notes." categoryIds="1-12-14-16" brandId="7" status="enabled" gender="Female" measurementUnit="ml" quantityAvailable="0">
+      <size size="12" stock="2" salePrice="10.27" measurementUnit="ml" />
+      <information url="/pages/html/ah-noora.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-noora.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-noora.jpg" />
+    </item>
+    <item id="41006002077" name="Rainbow - Haramain" description="Blend of warm musk with gentle Jasmine Vanilla, Sandal and Carnations put slight accents to it. " categoryIds="1-12-15-16" brandId="7" status="enabled" gender="Men" measurementUnit="ml" quantityAvailable="5">
+      <size size="12" stock="2" salePrice="10.27" measurementUnit="ml" />
+      <information url="/pages/html/ah-rainbow.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-rainbow.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-rainbow.jpg" />
+    </item>
+    <item id="41006002078" name="Twin Flower - Haramain" description="A pleasant light-compositon of musk, violet, vanilla, bourbon roses and sparkling accents of invigorating freshness. " categoryIds="1-12-14-16" brandId="7" status="enabled" gender="Female" measurementUnit="ml" quantityAvailable="4">
+      <size size="12" stock="2" salePrice="10.27" measurementUnit="ml" />
+      <information url="/pages/html/ah-twin-flower.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-twin-flower.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-twin-flower.jpg" />
+    </item>
+    <item id="41006002079" name="Lailati - Haramain" description="This fragrance is a very beautiful floral blend with hints of very mild citrus." categoryIds="1-12-14-15-16" brandId="7" status="enabled" gender="unisex" measurementUnit="ml" quantityAvailable="4">
+      <size size="12" stock="2" salePrice="9.76" measurementUnit="ml" />
+      <information url="/pages/html/ah-lailati.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-lailati.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-lailati.jpg" />
+    </item>
+    <item id="41006002080" name="Sultan - Haramain" description="Sweet - Woody fragrance which is very popular and highly recommnded. " categoryIds="1-12-15-16" brandId="7" status="disabled" gender="Men" measurementUnit="ml" quantityAvailable="0">
+      <size size="12" stock="2" salePrice="7.43" measurementUnit="ml" />
+      <information url="/pages/html/ah-sultan.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-sultan.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-sultan.jpg" />
+    </item>
+    <item id="41006002081" name="Jannah - Haramain" description="Exotic perfume oil with some sweet and woody fragrance notes. Highly recommended and excellent value for money. " categoryIds="1-12-14-15-16" brandId="7" status="disabled" gender="unisex" measurementUnit="ml" quantityAvailable="0">
+      <size size="12" stock="2" salePrice="7.74" measurementUnit="ml" />
+      <information url="/pages/html/ah-jannah.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-jannah.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-jannah.jpg" />
+    </item>
+    <item id="41006002082" name="Safeena Al Arab (Golden) - Haramain" description="A warm and harmonic pefume with head notes of Flowers and Indian Agarwood. A beguiling, spicy oriental fragrance. " categoryIds="1-12-14-16" brandId="7" status="disabled" gender="Female" measurementUnit="ml" quantityAvailable="0">
+      <size size="20" stock="2" salePrice="20.86" measurementUnit="ml" />
+      <information url="/pages/html/ah-safeena-al-arab.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-safeena-al-arab.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-safeena-al-arab.jpg" />
+    </item>
+    <item id="41006002083" name="Mukhamaria Malliki - Haramain" description="Saffron, Musk, Dehnal Oudh and Ward - the ingredients of this pure, natural wholesome skincare oil for the whole body. " categoryIds="1-12-14-15-16" brandId="7" status="enabled" gender="unisex" measurementUnit="ml" quantityAvailable="2">
+      <size size="36" stock="2" salePrice="27.92" measurementUnit="ml" />
+      <information url="/pages/html/ah-mukhamaria-maliki.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-mukhamaria-maliki.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-mukhamaria-maliki.jpg" />
+    </item>
+    <item id="41006003000" name="212 Caroline Herrera" description="Light floral feminine fragrance with musk undertones" categoryIds="1-13-14" brandId="1" status="disabled" gender="Female" measurementUnit="ml" quantityAvailable="0">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="http://www.ifaru.co.uk/catalog/pages/default.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/212caroline.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_212caroline.jpg" />
+    </item>
+    <item id="41006003001" name="Poison - Dior" description="Luxurious oriental floral fragrance with ambery woods, wild berries and Opopanax." categoryIds="1-13-14" brandId="1" status="enabled" gender="Female" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/poison.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/poison.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_poison.jpg" />
+    </item>
+    <item id="41006003002" name="Chance - Chanel " description="Powdery- Sheer- Floral" categoryIds="1-13-14" brandId="1" status="enabled" gender="Female" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/chance.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/chance.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_chance.jpg" />
+    </item>
+    <item id="41006003003" name="Chanel No.5" description="Aldehydic floral with an indefinable femininity" categoryIds="1-13-14" brandId="1" status="enabled" gender="Female" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/chanel5.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/chanel5.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_chanel5.jpg" />
+    </item>
+    <item id="41006003004" name="Chastity - Rasasi" description="A clean transparent fragrance with flowery sensual fresh notes" categoryIds="1-13-14" brandId="1" status="disabled" gender="Female" measurementUnit="ml" quantityAvailable="0">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="http://www.ifaru.co.uk/catalog/pages/default.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/default-clear.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_default-clear.jpg" />
+    </item>
+    <item id="41006003005" name="Coco - Chanel" description="Fresh oriental and delicately floral" categoryIds="1-13-14" brandId="1" status="enabled" gender="Female" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/coco.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/coco.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_coco.jpg" />
+    </item>
+    <item id="41006003006" name="Opium - YSL" description="Oriental feminine fragrance" categoryIds="1-13-14" brandId="1" status="enabled" gender="Female" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/opium.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/opium.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_opium.jpg" />
+    </item>
+    <item id="41006003007" name="Iceberg" description="Sweet and sexy feminine scent a blend of fresh cut watery bouquet" categoryIds="1-13-14" brandId="1" status="disabled" gender="Female" measurementUnit="ml" quantityAvailable="0">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="http://www.ifaru.co.uk/catalog/pages/default.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/default-clear.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_default-clear.jpg" />
+    </item>
+    <item id="41006003008" name="J Adore - Dior" description="Fruity - Floral" categoryIds="1-13-14" brandId="1" status="enabled" gender="Female" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/jadore.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/jadore.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_jadore.jpg" />
+    </item>
+    <item id="41006003009" name="Joop - Joop" description="Citrus floral fragrance" categoryIds="1-13-14" brandId="1" status="enabled" gender="Female" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/joop.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/joop.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_joop.jpg" />
+    </item>
+    <item id="41006003010" name="Pleasures - Estee lauder" description="Refreshing Flowery Fragrance " categoryIds="1-13-14" brandId="1" status="enabled" gender="Female" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/pleasures.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/pleasures.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_pleasures.jpg" />
+    </item>
+    <item id="41006003011" name="Amarige - Givenchy" description="Amarige is a searing floriental fragrance for women. " categoryIds="1-13-14" brandId="1" status="enabled" gender="Female" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/amarige.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/amarige.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_amarige.jpg" />
+    </item>
+    <item id="41006003012" name="Angel - Thierry Mugler" description="Angel is classified as a refreshing mystical oriental woody fragrance. " categoryIds="1-13-14" brandId="1" status="disabled" gender="Female" measurementUnit="ml" quantityAvailable="3">
+      <size size="3" stock="7" salePrice="3.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="7.4" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="14.1" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="26.8" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.6" measurementUnit="ml" />
+      <information url="/pages/html/angel.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/angel.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_angel.jpg" />
+    </item>
+    <item id="41006004000" name="Allure Homme Sport " description="Fresh-citrusy" categoryIds="1-13-15" brandId="1" status="enabled" gender="Men" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/allure-sports.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/allure-sports.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_allure-sports.jpg" />
+    </item>
+    <item id="41006004001" name="Armani" description="Luxurious fruity fragrance" categoryIds="1-13-15" brandId="1" status="enabled" gender="Men" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/armani.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/armani.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_armani.jpg" />
+    </item>
+    <item id="41006004002" name="Deep Blue - Lomani" description="Fresh spicy woody fragrance" categoryIds="1-13-15" brandId="1" status="disabled" gender="Men" measurementUnit="ml" quantityAvailable="0">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="http://www.ifaru.co.uk/catalog/pages/default.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/default-clear.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_default-clear.jpg" />
+    </item>
+    <item id="41006004003" name="Fahrenheit " description="Woody - Mossy" categoryIds="1-13-15" brandId="1" status="enabled" gender="Men" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="3.15" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="6.0" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="11.4" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="21.7" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.3" measurementUnit="ml" />
+      <information url="/pages/html/fahrenheit.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/fahrenheit.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_fahrenheit.jpg" />
+    </item>
+    <item id="41006004004" name="Hugo Soul" description="Fresh and Spicy " categoryIds="1-13-15" brandId="1" status="enabled" gender="Men" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="3.15" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="6.0" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="11.4" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="21.7" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.3" measurementUnit="ml" />
+      <information url="/pages/html/hugo-soul.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/hugo-soul.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_hugo-soul.jpg" />
+    </item>
+    <item id="41006004005" name="Xs black" description="Fresh sensual woody fragrance" categoryIds="1-13-15" brandId="1" status="enabled" gender="Men" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="3.15" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="6.0" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="11.4" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="21.7" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.3" measurementUnit="ml" />
+      <information url="/pages/html/xs-black.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/xs-black.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_xs-black.jpg" />
+    </item>
+    <item id="41006005000" name="Lavender" description="Fresh lavender flower sweet and floral" categoryIds="1-14-15-17" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="50">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/lavender.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/lavender.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_lavender.jpg" />
+    </item>
+    <item id="41006005001" name="Patchouli" description="A pungent powerful mossy musty fragrance" categoryIds="1-14-15-17" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="6">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/patchouli.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/patchouli.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_patchouli.jpg" />
+    </item>
+    <item id="41006005002" name="Ylang-Ylang" description="Heavy Sweet Floral voluptuous Exotic" categoryIds="1-14-15-17" brandId="1" status="disabled" gender="Unisex" measurementUnit="ml" quantityAvailable="2">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/ylang-ylang.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ylang-ylang.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ylang-ylang.jpg" />
+    </item>
+    <item id="41006005003" name="Tea Tree" description="Medicinal" categoryIds="1-14-15-17" brandId="1" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="9">
+      <size size="3" stock="7" salePrice="2.9" measurementUnit="ml" />
+      <size size="6" stock="4" salePrice="5.5" measurementUnit="ml" />
+      <size size="12" stock="2" salePrice="10.5" measurementUnit="ml" />
+      <size size="24" stock="3" salePrice="20.0" measurementUnit="ml" />
+      <size size="Tester" stock="15" salePrice="1.2" measurementUnit="ml" />
+      <information url="/pages/html/teatree.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/teatree.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_teatree.jpg" />
+    </item>
+    <item id="4106006000" name="Ood Maamul" description="Beautiful blend of light sweet oudh pieces soaked in sandalwood amber etc" categoryIds="1-14-15-16-18-19-22" brandId="4" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="2">
+      <size size="See Info" stock="7" salePrice="8.5" measurementUnit="unit" />
+      <information url="/pages/html/ood-maamul.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ood-maamul.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ood-maamul.jpg" />
+    </item>
+    <item id="4106006001" name="Touch Me Bakhoor- Nabeel" description="Beautiful blend of light sweet oudh pieces soaked in sandalwood amber etc" categoryIds="1-14-15-16-18-19-22" brandId="4" status="disabled" gender="Unisex" measurementUnit="unit" quantityAvailable="2">
+      <size size="See Info" stock="7" salePrice="3.9" measurementUnit="unit" />
+      <information url="/pages/html/bakhoor-touchme.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/bakhoor-touchme.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_bakhoor-touchme.jpg" />
+    </item>
+    <item id="4106006002" name="Etisalbi Bakhoor- Nabeel" description="Beautiful blend of light sweet oudh pieces soaked in sandalwood amber etc" categoryIds="1-14-15-16-18-19-22" brandId="4" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="5">
+      <size size="See Info" stock="7" salePrice="3.9" measurementUnit="unit" />
+      <information url="/pages/html/bakhoor-etisalbi.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/bakhoor-etisalbi.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_bakhoor-etisalbi.jpg" />
+    </item>
+    <item id="4106006003" name="Nasaem Bakhoor- Nabeel" description="Beautiful blend of light sweet oudh pieces soaked in sandalwood amber etc" categoryIds="1-14-15-16-18-19-22" brandId="4" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="5">
+      <size size="See Info" stock="7" salePrice="3.95" measurementUnit="unit" />
+      <information url="/pages/html/bakhoor-nasaem.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/bakhoor-nasaem.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_bakhoor-nasaem.jpg" />
+    </item>
+    <item id="4106006004" name="Heritage Bakhoor- Nabeel" description="Beautiful blend of light sweet oudh pieces soaked in sandalwood amber etc" categoryIds="1-14-15-16-18-19-22" brandId="4" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="5">
+      <size size="See Info" stock="7" salePrice="3.8" measurementUnit="unit" />
+      <information url="/pages/html/bakhoor-heritage.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/bakhoor-heritage.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_bakhoor-heritage.jpg" />
+    </item>
+    <item id="4106006005" name="Mulhum Bakhoor- Nabeel" description="Beautiful blend of light sweet oudh pieces soaked in sandalwood amber etc" categoryIds="1-14-15-16-18-19-22" brandId="4" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="1">
+      <size size="See Info" stock="7" salePrice="3.95" measurementUnit="unit" />
+      <information url="/pages/html/bakhoor-mulhum.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/bakhoor-mulhum.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_bakhoor-mulhum.jpg" />
+    </item>
+    <item id="4106006006" name="Bakhoor-Al-Hind" description="Beautiful blend of light sweet oudh pieces soaked in sandalwood amber etc" categoryIds="1-14-15-16-18-19-22" brandId="1" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="3">
+      <size size="See Info" stock="7" salePrice="8.5" measurementUnit="unit" />
+      <information url="/pages/html/bakhoor-al-hind.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/bakhoor-al-hind.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_bakhoor-al-hind.jpg" />
+    </item>
+    <item id="4106006007" name="Mabthuth Turabi" description="Beautiful blend of light sweet oudh pieces soaked in sandalwood amber etc" categoryIds="1-14-15-16-18-19-22" brandId="3" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="0">
+      <size size="See Info" stock="7" salePrice="8.25" measurementUnit="unit" />
+      <information url="/pages/html/bakhoor-turabi.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/bakhoor-turabi.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_bakhoor-turabi.jpg" />
+    </item>
+    <item id="4106006008" name="Bakhoor Malikha" description="Beautiful blend of light sweet oudh pieces soaked in sandalwood amber etc" categoryIds="1-14-15-16-18-19-22" brandId="1" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="1">
+      <size size="See Info" stock="7" salePrice="8.5" measurementUnit="unit" />
+      <information url="/pages/html/bakhoor-malikha.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/bakhoor-malikha.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_bakhoor-malikha.jpg" />
+    </item>
+    <item id="4106006009" name="Oudh Touch Me" description="Beautiful blend of natural cambodian sweet oudh pieces soaked in amber and fragrant oils" categoryIds="1-14-15-16-18-19-22" brandId="4" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="1">
+      <size size="See Info" stock="7" salePrice="12.5" measurementUnit="unit" />
+      <information url="/pages/html/oudh-touchme.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/oudh-touchme.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_oudh-touchme.jpg" />
+    </item>
+    <item id="4106006010" name="Oudh Etisalbi" description="Beautiful blend of natural cambodian sweet oudh pieces soaked in amber and fragrant oils" categoryIds="1-14-15-16-18-19-22" brandId="4" status="disabled" gender="Unisex" measurementUnit="unit" quantityAvailable="1">
+      <size size="See Info" stock="7" salePrice="12.5" measurementUnit="unit" />
+      <information url="/pages/html/oudh-etisalbi.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/oudh-etisalbi.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_oudh-etisalbi.jpg" />
+    </item>
+    <item id="4106006011" name="Oudh Nasaem" description="Beautiful blend of natural cambodian sweet oudh pieces soaked in amber and fragrant oils" categoryIds="1-14-15-16-18-19-22" brandId="4" status="disabled" gender="Unisex" measurementUnit="unit" quantityAvailable="1">
+      <size size="See Info" stock="7" salePrice="12.5" measurementUnit="unit" />
+      <information url="/pages/html/oudh-etisalbi.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/oudh-etisalbi.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_oudh-etisalbi.jpg" />
+    </item>
+    <item id="4106006012" name="Bukhoor Bormi  (50gms) - Haramain" description="Agarwood is mixed with a special kind of Bourmi Oudh attar to produce this dreamy fragrance." categoryIds="1-14-15-16-18-19-22" brandId="7" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="0">
+      <size size="See Info" stock="7" salePrice="27.92" measurementUnit="unit" />
+      <information url="/pages/html/ah-bukhoor-bourmi.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-bukhoor-bourmi.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-bukhoor-bourmi.jpg" />
+    </item>
+    <item id="4106006013" name="Bukhoor Emirates  (75gms) - Haramain" description="These heart shaped tablets are a creation with care from Al Haramain." categoryIds="1-14-15-16-18-19-22" brandId="7" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="0">
+      <size size="See Info" stock="7" salePrice="5.44" measurementUnit="unit" />
+      <information url="/pages/html/ah-bukhoor-emirates.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-bukhoor-emirates.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-bukhoor-emirates.jpg" />
+    </item>
+    <item id="4106006014" name="Agarwood Khussosi Duggat (50gms) - Haramain" description="A fine bukhoor incense with a mysterious richness. Its superior aroma imparts an aura of strength and nobility." categoryIds="1-14-15-16-18-19-22" brandId="7" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="9">
+      <size size="See Info" stock="7" salePrice="8.38" measurementUnit="unit" />
+      <information url="/pages/html/ah-bukhoor-agarwood-khussosi.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-bukhoor-agarwood-khussosi.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-bukhoor-agarwood-khussosi.jpg" />
+    </item>
+    <item id="4106006015" name="Duggat Al Oudh Cambodi (100gms) - Haramain" description="Beautiful blend of natural cambodian sweet oudh pieces soaked in amber and fragrant oils" categoryIds="1-14-15-16-18-19-22" brandId="7" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="0">
+      <size size="See Info" stock="7" salePrice="11.17" measurementUnit="unit" />
+      <information url="/pages/html/ah-bukhoor-duggatal-oudh-cambodi.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-ah-bukhoor-duggatal-oudh-cambodi.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-ah-bukhoor-duggatal-oudh-cambodi.jpg" />
+    </item>
+    <item id="4106006016" name="Duggat Al Oudh With Wardh Taifi (50gms) - Haramain" description="Fine meshed quality Oudh Chips wrapped in medium spiced floral fragrance made from the famous Roses of Taif." categoryIds="1-14-15-16-18-19-22" brandId="7" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="9">
+      <size size="See Info" stock="7" salePrice="8.94" measurementUnit="unit" />
+      <information url="/pages/html/ah-bukhoor-duggatal-wardh-taifi.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-bukhoor-duggatal-wardh-taifi.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-bukhoor-duggatal-wardh-taifi.jpg" />
+    </item>
+    <item id="4106006017" name="Majmuat Al Bukhoor (12cd) - Haramain" description="Add to your dream the collection of 12 different Fragrance Cds.of bukhoor with Majmuat Bukhoor." categoryIds="1-14-15-16-18-19-22" brandId="7" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="0">
+      <size size="See Info" stock="7" salePrice="22.37" measurementUnit="unit" />
+      <information url="/pages/html/ah-bukhoor-majmuat.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-bukhoor-majmuat.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-bukhoor-majmuat.jpg" />
+    </item>
+    <item id="4106006018" name="Bukhoor Marwah (18 Tablets) - Haramain" description="These 18 tablets of bukhoor are a creation with care from Al Haramain." categoryIds="1-14-15-16-18-19-22" brandId="7" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="3">
+      <size size="See Info" stock="7" salePrice="11.53" measurementUnit="unit" />
+      <information url="/pages/html/ah-bukhoor-marwah.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-bukhoor-marwah.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-bukhoor-marwah.jpg" />
+    </item>
+    <item id="4106006019" name="Bakhoor Al Buraq (28 Tablets) - Haramain" description="These 28 tablets of bukhoor are a creation with care from Al Haramain." categoryIds="1-14-15-16-18-19-22" brandId="7" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="3">
+      <size size="See Info" stock="7" salePrice="11.53" measurementUnit="unit" />
+      <information url="/pages/html/ah-bukhoor-al-buraq.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-bukhoor-al-buraq.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-bukhoor-al-buraq.jpg" />
+    </item>
+    <item id="4106006020" name="Duggat Al Oudh Ma'al Amber (100gms) - Haramain" description="Beautiful blend of natural sweet oudh pieces soaked in rich amber and fragrant oils" categoryIds="1-14-15-16-18-19-22" brandId="7" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="3">
+      <size size="See Info" stock="7" salePrice="11.53" measurementUnit="unit" />
+      <information url="/pages/html/ah-bukhoor-duggatal-oudh-maal-ambor.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-bukhoor-duggatal-oudh-maal-ambor.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-bukhoor-duggatal-oudh-maal-ambor.jpg" />
+    </item>
+    <item id="4106006021" name="Oudh Ma'Al Attar (50gms) - Haramain" description="Add to your dream the collection of bukhoor with Oudh Ma'al Attar." categoryIds="1-14-15-16-18-19-22" brandId="7" status="disabled" gender="Unisex" measurementUnit="unit" quantityAvailable="0">
+      <size size="See Info" stock="7" salePrice="12.5" measurementUnit="unit" />
+      <information url="/pages/html/ah-bukhoor-duggatal-oudh-maal-attar.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-bukhoor-duggatal-oudh-maal-attar.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-bukhoor-oudh-maal-attar.jpg" />
+    </item>
+    <item id="4106006022" name="Oudh Hindi Ma'al Attar  (50gms) - Haramain" description="Quality agarwood is mixed with a special kind of attar to produce this rich dreamy fragrance." categoryIds="1-14-15-16-18-19-22" brandId="7" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="2">
+      <size size="See Info" stock="7" salePrice="14.52" measurementUnit="unit" />
+      <information url="/pages/html/ah-bukhoor-oudh-hindi-maal-attar.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-bukhoor-oudh-hindi-maal-attar.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-bukhoor-oudh-hindi-maal-attar.jpg" />
+    </item>
+    <item id="4106006023" name="Oudh Ma'jun Maliki (100gms) - Haramain" description="Quality fine grained woodchips soaked in rich amber and fragrant oils." categoryIds="1-14-15-16-18-19-22" brandId="7" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="3">
+      <size size="See Info" stock="7" salePrice="11.53" measurementUnit="unit" />
+      <information url="/pages/html/ah-bukhoor-oudh-majun-maliki.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-bukhoor-oudh-majun-maliki.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-bukhoor-oudh-majun-maliki.jpg" />
+    </item>
+    <item id="4106006024" name="Agarwood/Aloeswood Cambodian Royal Super" description="High quality natural cambodian Agarwood. This Oudh is a collectors favourite. " categoryIds="1-14-15-16-18-19-22" brandId="1" status="enabled" gender="Unisex" measurementUnit="gms" quantityAvailable="0">
+      <size size="25" stock="1" salePrice="22.0" measurementUnit="gms" />
+      <information url="/pages/html/cambodian-agarwood.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/cambodian-agarwood.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_cambodian-agarwood.jpg" />
+    </item>
+    <item id="4106006025" name="Agarwood Cambodi No.1 (25gms) - Haramain" description="High quality Agarwood Cambodi No.1 is presented in a beautiful box. A creation with care from Al Haramain." categoryIds="1-14-15-16-18-19-22" brandId="7" status="enabled" gender="Unisex" measurementUnit="gms" quantityAvailable="3">
+      <size size="25" stock="1" salePrice="25.4" measurementUnit="gms" />
+      <information url="/pages/html/ah-agarwood-cambodi.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-agarwood-cambodi.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-agarwood-cambodi.jpg" />
+    </item>
+    <item id="4106006026" name="Stainless Steel Bakhoor Burner" description="Beautiful stainless steel burner" categoryIds="1-14-15-16-18-19-22" brandId="1" status="enabled" gender="Unisex" measurementUnit="unit" quantityAvailable="1">
+      <size size="See Info" stock="7" salePrice="8.5" measurementUnit="unit" />
+      <information url="/pages/html/bakhoor-burner.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/bakhoor-burner.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_bakhoor-burner.jpg" />
+    </item>
+    <item id="4106008000" name="Tohfa - Haramain" description="A soft feminine ambery rose fragrance. A beautiful blend of Taif rose, amber, saffron, sandal, musk with hints of oudh." categoryIds="1-12-14-16-20" brandId="7" status="enabled" gender="Female" measurementUnit="ml" quantityAvailable="3">
+      <size size="100" stock="2" salePrice="12.79" measurementUnit="ml" />
+      <information url="/pages/html/ah-tohfa-spray.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-tohfa-spray.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-tohfa-spray.jpg" />
+    </item>
+    <item id="4106008001" name="Classic - Haramain" description="An exquisite Sweet - Floral  fragrance with a blend of forest flowers and warm spices. " categoryIds="1-12-14-16-20" brandId="7" status="enabled" gender="Female" measurementUnit="ml" quantityAvailable="4">
+      <size size="50" stock="2" salePrice="10.27" measurementUnit="ml" />
+      <information url="/pages/html/ah-classic-spray.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-classic-spray.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-classic-spray.jpg" />
+    </item>
+    <item id="4106008002" name="Night Dreams - Haramain" description="A warm oriental fragrance wrapped in sweet, gentle blend of floral notes with pure sandal and faint agarwood notes." categoryIds="1-12-14-16-20" brandId="7" status="enabled" gender="Female" measurementUnit="ml" quantityAvailable="4">
+      <size size="60" stock="2" salePrice="15.31" measurementUnit="ml" />
+      <information url="/pages/html/ah-night-dreams-spray.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-night-dreams-spray.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-night-dreams-spray.jpg" />
+    </item>
+    <item id="4106008003" name="Shefon - Haramain" description="A perfect invigorating perfume with balanced oriental and modern fragrance notes for both men and women." categoryIds="1-12-14-15-16-20" brandId="7" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="1">
+      <size size="60" stock="2" salePrice="14.05" measurementUnit="ml" />
+      <information url="/pages/html/ah-shefon-spray.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-shefon-spray.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-shefon-spray.jpg" />
+    </item>
+    <item id="4106008004" name="Arch - Haramain" description="A very a fresh masculine oriental perfume." categoryIds="1-12-15-16-20" brandId="7" status="enabled" gender="Men" measurementUnit="ml" quantityAvailable="2">
+      <size size="100" stock="2" salePrice="9.01" measurementUnit="ml" />
+      <information url="/pages/html/ah-arch-spray.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-arch-spray.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-arch-spray.jpg" />
+    </item>
+    <item id="4106008005" name="Burj Al Haramain - Haramain" description="A warm, refreshing oriental fragrance comes in a beautiful bottle. A creation with care from Al Haramain" categoryIds="1-12-15-16-20" brandId="7" status="enabled" gender="Men" measurementUnit="ml" quantityAvailable="2">
+      <size size="55" stock="2" salePrice="17.83" measurementUnit="ml" />
+      <information url="/pages/html/ah-burj-al-haramain-spray.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-burj-al-haramain-spray.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-burj-al-haramain-spray.jpg" />
+    </item>
+    <item id="4106008006" name="Barakah - Haramain" description="A rich Dehnal Oudh fragrance with a gentle blend of sweet notes of warm Amber, Rose and Sandalwood" categoryIds="1-12-14-15-16-20" brandId="7" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="4">
+      <size size="100" stock="2" salePrice="11.78" measurementUnit="ml" />
+      <information url="/pages/html/ah-barakah-spray.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-barakah-spray.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-barakah-spray.jpg" />
+    </item>
+    <item id="4106008007" name="Mashkoor - Haramain" description="A captivating sweet,floral fragrance combining the best ingredients: Amber, Sandal, Dehnal Oudh and Istanbul Rose." categoryIds="1-12-14-15-16-20" brandId="7" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="4">
+      <size size="55" stock="2" salePrice="15.31" measurementUnit="ml" />
+      <information url="/pages/html/ah-mashkoor-spray.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-mashkoor-spray.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-mashkoor-spray.jpg" />
+    </item>
+    <item id="4106006013" name="A One (Blue) - Haramain" description="This Fresh - Masculine fragrance will lift your spirits. A fragrance like no other. Worth a try." categoryIds="1-12-15-16-20" brandId="7" status="enabled" gender="Men" measurementUnit="ml" quantityAvailable="1">
+      <size size="100" stock="2" salePrice="15.31" measurementUnit="ml" />
+      <information url="/pages/html/ah-aone-men-spray.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-aone-men-spray.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah--aone-men.jpg" />
+    </item>
+    <item id="4106006014" name="Barq - Haramain" description="A captivating Oriental - Fresh fragrance presented in a attractive bottle making it an ideal and highly recommended gift." categoryIds="1-12-14-15-16-20" brandId="7" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="4">
+      <size size="65" stock="2" salePrice="15.31" measurementUnit="ml" />
+      <information url="/pages/html/ah-barq-spray.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-barq-spray.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-barq-spray.jpg" />
+    </item>
+    <item id="4106001100" name="Marwah - Haramain" description="A creation with care from Al Haramain." categoryIds="1-11-12-14-15-16-21" brandId="7" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="3">
+      <size size="50" stock="2" salePrice="8.38" measurementUnit="ml" />
+      <information url="/pages/html/ah-bodylotion-marwah.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-bodylotion-marwah.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-bodylotion-marwah.jpg" />
+    </item>
+    <item id="4106001200" name="Mukhallath - Haramain" description="Special blend of exotic ingredients like Dehnal Oudh, Ambor, Ward (Rose), Sandalwood and Musk." categoryIds="1-11-12-14-15-16-21" brandId="7" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="2">
+      <size size="50" stock="2" salePrice="8.38" measurementUnit="ml" />
+      <information url="/pages/html/ah-bodylotion-mukhallath.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-bodylotion-mukhallath.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-bodylotion-mukhallath.jpg" />
+    </item>
+    <item id="4106001201" name="Al Buraq - Haramain" description="The fusion of Dehnal Oudh,Saffron,Turkish Rose, Musk and all elements of exclusiveness are prevalent in this bodylotion. " categoryIds="1-11-12-14-15-16-21" brandId="7" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="3">
+      <size size="50" stock="2" salePrice="8.38" measurementUnit="ml" />
+      <information url="/pages/html/ah-bodylotion-al-buraq.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-bodylotion-al-buraq.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-bodylotion-al-buraq.jpg" />
+    </item>
+    <item id="4106001202" name="Dehnal Oudh - Haramain" description="An exquisite dehnal oudh based body lotion" categoryIds="1-11-12-14-15-16-21" brandId="7" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="3">
+      <size size="50" stock="2" salePrice="8.38" measurementUnit="ml" />
+      <information url="/pages/html/ah-bodylotion-dehnal-oudh.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-bodylotion-dehnal-oudh.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/thumbs/tn_ah-bodylotion-dehnal-oudh.jpg" />
+    </item>
+    <item id="4106001200" name="Wardh Taif (Rose) - Haramain" description="A creation with care from Al Haramain." categoryIds="1-11-12-14-15-22" brandId="7" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="7">
+      <size size="250" stock="2" salePrice="6.04" measurementUnit="ml" />
+      <information url="/pages/html/ah-airfreshner-dehnal-oudh.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-airfreshner-dehnal-oudh.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/tn_ah-airfreshner-dehnal-oudh.jpg" />
+    </item>
+    <item id="4106001201" name="Dehnal Oudh - Haramain" description="A creation with care from Al Haramain." categoryIds="1-11-12-14-15-22" brandId="7" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="7">
+      <size size="250" stock="2" salePrice="6.04" measurementUnit="ml" />
+      <information url="/pages/html/ah-airfreshner-barakah.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-airfreshner-barakah.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/tn_ah-airfreshner-barakah.jpg" />
+    </item>
+    <item id="4106001202" name="Barakah - Haramain" description="A creation with care from Al Haramain." categoryIds="1-11-12-14-15-22" brandId="7" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="7">
+      <size size="250" stock="2" salePrice="6.04" measurementUnit="ml" />
+      <information url="/pages/html/ah-airfreshner-al-haramain-collection.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-airfreshner-al-haramain-collection.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/tn_ah-airfreshner-al-haramain-collection.jpg" />
+    </item>
+    <item id="4106001203" name="Al Haramain Collection - Haramain" description="A creation with care from Al Haramain." categoryIds="1-11-12-14-15-22" brandId="7" status="enabled" gender="Unisex" measurementUnit="ml" quantityAvailable="7">
+      <size size="250" stock="2" salePrice="6.04" measurementUnit="ml" />
+      <information url="/pages/html/ah-airfreshner-mukhallath.html" />
+      <image src="http://www.ifaru.com/website/images/products/fragrance/ah-airfreshner-mukhallath.jpg" thumbnail="http://www.ifaru.com/website/images/products/fragrance/tn_ah-airfreshner-mukhallath.jpg" />
+    </item>
+  </items>
+  
+  
+  <categories>
+    <category id="1" name="Fragrances" subcategories="11-12-13-14-15-16-17-18-19-20-21">
+      <keywords keywords="attar,itr,perfume,oil,perfume oil,fragrance,scent,luxury,relax,pamper"></keywords>
+    </category>
+    <category id="11" name="Indian Attar" subcategories="">
+      <keywords keywords="indian,india,hindi,hind,assam,attar,itr,perfume,oil,perfume oil,fragrance,scent,luxury,relax,pamper"></keywords>
+    </category>
+    <category id="12" name="Arabian Attar" subcategories="">
+      <keywords keywords="arabian,arab,arabic,attar,itr,perfume,oil,perfume oil,fragrance,scent,luxury,relax,pamper"></keywords>
+    </category>
+    <category id="13" name="Designer Alternatives" subcategories="">
+      <keywords keywords="designer,alternatives,alternate,attar,itr,perfume,oil,perfume oil,fragrance,scent,luxury,relax,pamper"></keywords>
+    </category>
+    <category id="14" name="For Her" subcategories="">
+      <keywords keywords="her,women,woman,she,feminine,female,girl,mother,sister,girl-friend,girlfriend,girl friend,attar,itr,perfume,oil,perfume oil,fragrance,scent,luxury,relax,pamper"></keywords>
+    </category>              
+    <category id="15" name="For Him" subcategories="">
+      <keywords keywords="him,men,man,he,masculine,male,boy,father,brother,boy-friend,boyfriend,boy friend,attar,itr,perfume,oil,perfume oil,fragrance,scent,luxury,relax,pamper"></keywords>
+    </category>
+    <category id="16" name="Oudh" subcategories="">
+      <keywords keywords="oudh,dehnl,dehnal,denal-oudh,oodh,odh,udh,agarwood,agar,arabian,arab,arabic,attar,itr,perfume,oil,perfume oil,fragrance,scent,luxury,relax,pamper"></keywords>
+    </category>      
+    <category id="17" name="Essential Oils" subcategories="">
+      <keywords keywords="essential,aroma,therapy,attar,itr,perfume,oil,perfume oil,fragrance,scent,luxury,relax,pamper"></keywords>
+    </category>         
+    <category id="18" name="Bakhoor/Incense" subcategories="">
+      <keywords keywords="bakhoor,incense,smoke,burn"></keywords>
+    </category>
+    <category id="19" name="Agarwood-Aloeswood" subcategories="">
+      <keywords keywords="agarwood,bakhoor,incense,oudh,smoke,smoke,burn"></keywords>
+    </category> 
+    <category id="20" name="EDP Spray" subcategories="">
+      <keywords keywords="eau de parfum,parfum,edp,edp spray,spray"></keywords>
+    </category> 
+    <category id="21" name="Body Lotion" subcategories="">
+      <keywords keywords="body lotion,lotion,body,moisture,moisturise,dry skin,skin,dry"></keywords>
+    </category>    
+  </categories>
+  
+  <brands>
+    <brand id="1" name="iFaru">
+      <keywords keywords="ifaru"></keywords>
+    </brand> 
+   <brand id="7" name="Al Haramain">
+      <keywords keywords="al haramain,haramain,haramin"></keywords>
+    </brand>    
+    <brand id="4" name="Al Nabeel">
+      <keywords keywords="nabeel,alnabeel,al,al nabeel"></keywords>
+    </brand>
+    <brand id="2" name="Ajmal">
+      <keywords keywords="ajmal"></keywords>
+    </brand>     
+    <brand id="3" name="Al Anfar">
+      <keywords keywords="anfar,alanfar,al,al anfar"></keywords>
+    </brand>   
+    <brand id="5" name="Nayaab">
+      <keywords keywords="nayab,nayaab"></keywords>
+    </brand>  
+    <brand id="6" name="Nemat">
+      <keywords keywords="al haramain,haramain,haramin"></keywords>
+    </brand>       
+  </brands>    
+</catalog>

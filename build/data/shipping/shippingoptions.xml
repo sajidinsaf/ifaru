@@ -1,0 +1,40 @@
+<shippingoptions>
+  <shippingoption id="15017301" name="Royal Mail First Class Standard" duration="24-48 Hours" international="false">
+    <rates>
+      <rate>
+      </rate>
+    <rates>
+  </shippingoption>
+  <shippingoption id="15017302" name="Royal Mail Second Class Standard" duration="72-96 Hours" international="false">
+    <rates>
+      <rate>
+      </rate>
+    <rates>
+  </shippingoption>  
+  <shippingoption id="15017303" name="Royal Mail AirMail Standard" duration="72-96 Hours" international="true">
+    <rates>
+      <rate>
+      </rate>
+    <rates>
+  </shippingoption>    
+  <shippingoption id="15017303" name="Royal Mail AirMail Standard" duration="72-96 Hours" international="true">
+    <rates>
+      <rate>
+      </rate>
+    <rates>
+  </shippingoption>     
+  <zones>
+    <zone id="1" name="UK and Channel Islands">
+      <countries=""/>
+    </zone>
+    <zone id="2" name="European Union">
+      <countries=""/>
+    </zone>    
+    <zone id="3" name="World Zone 1">
+      <countries=""/>    
+    </zone>
+    <zone id="3" name="World Zone 2">
+      <countries=""/>    
+    </zone>    
+  </zones>
+</shippingoptions>

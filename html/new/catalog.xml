@@ -1,0 +1,957 @@
+<catalog>
+  <items>
+    <item id="41006001000" name="Amber" description="A classic amber fragrance - A sweet rich amber earthy odor." categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.50" />
+      <price size="6ml" stock="3" salePrice="6.70" />
+      <price size="12ml" stock="2" salePrice="12.70" />
+      <price size="24ml" stock="1" salePrice="24.10" />
+      <price size="Tester-1ml" stock="5" salePrice="1.50" />
+      <information url="http://www.ifaru.com/catalogue/pages/amber.html" />
+      <image src="/ifaru/images/products/fragrance/amber.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_amber.jpg" />
+    </item>
+    <item id="41006001001" name="Champa" description="Deep  Rich Floral Golden Champa flowers. Rich magnolia-like floral fragrance with hints of spice" categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/champa.html" />
+      <image src="/ifaru/images/products/fragrance/champa.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_champa.jpg" />
+    </item>
+    <item id="41006001002" name="Jasmine" description="Fragrant traditional hydro-distilled Jasmin sambac " categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/jasmine.html" />
+      <image src="/ifaru/images/products/fragrance/jasmine.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_jasmine.jpg" />
+    </item>
+    <item id="41006001003" name="Khus - Vetiver" description="Rich woody earthy/mysterious sweet and satisfying warm " categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="4.00" />
+      <price size="6ml" stock="3" salePrice="7.60" />
+      <price size="12ml" stock="2" salePrice="14.40" />
+      <price size="24ml" stock="1" salePrice="27.40" />
+      <price size="Tester-1ml" stock="5" salePrice="1.70" />
+      <information url="http://www.ifaru.com/catalogue/pages/khus.html" />
+      <image src="/ifaru/images/products/fragrance/khus.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_khus.jpg" />
+    </item>
+    <item id="41006001004" name="Lily" description="A soft  sheer effervescence and sweetly sophisticated floral bouquet." categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/lily.html" />
+      <image src="/ifaru/images/products/fragrance/lily.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_lily.jpg" />
+    </item>
+    <item id="41006001005" name="Majmua" description="Rich smoky bold earthy scent with sweet and wild musky undertones " categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/majmua.html" />
+      <image src="/ifaru/images/products/fragrance/majmua.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_majmua.jpg" />
+    </item>
+    <item id="41006001006" name="Mitti - Baked Earth" description="That incredible fragrance of earth when the rain begins  " categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="4.30" />
+      <price size="6ml" stock="3" salePrice="8.20" />
+      <price size="12ml" stock="2" salePrice="15.60" />
+      <price size="24ml" stock="1" salePrice="29.60" />
+      <price size="Tester-1ml" stock="5" salePrice="1.80" />
+      <information url="http://www.ifaru.com/catalogue/pages/mitti.html" />
+      <image src="/ifaru/images/products/fragrance/mitti.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_mitti.jpg" />
+    </item>
+    <item id="41006001007" name="Strawberry Kisses" description="Fresh Fruity and Floral" categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/strawberrykisses.html" />
+      <image src="/ifaru/images/products/fragrance/strawberry-kisses.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_strawberry-kisses.jpg" />
+    </item>
+    <item id="41006001008" name="Night queen" description="Rich Deep and Exotic" categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/raatrani.html" />
+      <image src="/ifaru/images/products/fragrance/raat-rani.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_raat-rani.jpg" />
+    </item>
+    <item id="41006001009" name="Rose" description="Fragrant Traditional Hydro-Distilled Rose Attar" categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/rose.html" />
+      <image src="/ifaru/images/products/fragrance/rose.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_rose.jpg" />
+    </item>
+    <item id="41006001010" name="Sandalwood" description="Rich sweet fragrant yet delicate woody floral" categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/sandal.html" />
+      <image src="/ifaru/images/products/fragrance/sandalwood.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_sandalwood.jpg" />
+    </item>
+    <item id="41006001011" name="Sandalwood Absolute" description="Pure Absolute Mysore sandalwood" categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="9.20" />
+      <price size="6ml" stock="3" salePrice="17.50" />
+      <price size="12ml" stock="2" salePrice="33.30" />
+      <price size="24ml" stock="1" salePrice="63.30" />
+      <price size="Tester-1ml" stock="5" salePrice="3.80" />
+      <information url="http://www.ifaru.com/catalogue/pages/sandalpure.html" />
+      <image src="/ifaru/images/products/fragrance/sandalwood.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_sandalwood.jpg" />
+    </item>
+    <item id="41006001012" name="Tea rose" description="Refined Warm Floral Spicy Fragrance" categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/tearose.html" />
+      <image src="/ifaru/images/products/fragrance/tearose.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_tearose.jpg" />
+    </item>
+    <item id="41006001013" name="Tuberose" description="Very floral rich sweet and warm exquisitely exotic " categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/tuberose.html" />
+      <image src="/ifaru/images/products/fragrance/tuberose.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_tuberose.jpg" />
+    </item>
+    <item id="41006001014" name="White Amber" description="Clear sensual warm and very delicate Will lift your spirits" categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/whiteamber.html" />
+      <image src="/ifaru/images/products/fragrance/white-amber.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_white-amber.jpg" />
+    </item>
+    <item id="41006001015" name="White Musk" description="Soft velvet and forever sensual" categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/whitemusk.html" />
+      <image src="/ifaru/images/products/fragrance/white-musk.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_white-musk.jpg" />
+    </item>
+    <item id="41006001016" name="Marigold" description="Soft velvet and forever sensual" categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.90" />
+      <price size="6ml" stock="3" salePrice="7.40" />
+      <price size="12ml" stock="2" salePrice="14.10" />
+      <price size="24ml" stock="1" salePrice="26.80" />
+      <price size="Tester-1ml" stock="5" salePrice="1.60" />
+      <information url="http://www.ifaru.com/catalogue/pages/marigold.html" />
+      <image src="/ifaru/images/products/fragrance/marigold.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_marigold.jpg" />
+    </item>
+    <item id="41006001017" name="Rose Isparta" description="Fragrant Traditional Hydro-Distilled Rose Attar" categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/roseisparta.html" />
+      <image src="/ifaru/images/products/fragrance/rose-isparta.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_rose-isparta.jpg" />
+    </item>
+    <item id="41006001018" name="Saffron" description="A rich  warm  exotic spicy fragrance of prized Kashmiri saffron from India" categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.90" />
+      <price size="6ml" stock="3" salePrice="7.40" />
+      <price size="12ml" stock="2" salePrice="14.10" />
+      <price size="24ml" stock="1" salePrice="26.80" />
+      <price size="Tester-1ml" stock="5" salePrice="1.60" />
+      <information url="http://www.ifaru.com/catalogue/pages/saffron.html" />
+      <image src="/ifaru/images/products/fragrance/saffron.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_saffron.jpg" />
+    </item>
+    <item id="41006001019" name="Innocence" description="A soft floral rose fragrance blended with pure White flower to create a truly beautiful sparkling classic." categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/innocence.html" />
+      <image src="/ifaru/images/products/fragrance/innocence.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_innocence.jpg" />
+    </item>
+    <item id="41006001020" name="Bulgarian Rose" description="Warm  floral  specifically dense  fine with honey notes  specific for Bulgarian Rose oil. " categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/bulgarianrose.html" />
+      <image src="/ifaru/images/products/fragrance/bulgarian-rose.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_bulgarian-rose.jpg" />
+    </item>
+    <item id="41006001021" name="Amber Royal" description="A classic Pure Amber fragrance - A Pure sweet  rich  amber  earthy fragrance." categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="5.85" />
+      <price size="6ml" stock="3" salePrice="11.10" />
+      <price size="12ml" stock="2" salePrice="21.10" />
+      <price size="24ml" stock="1" salePrice="40.10" />
+      <price size="Tester-1ml" stock="5" salePrice="2.40" />
+      <information url="http://www.ifaru.com/catalogue/pages/amber-royal.html" />
+      <image src="/ifaru/images/products/fragrance/amber-royal.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_amber-royal.jpg" />
+    </item>
+    <item id="41006001022" name="Geranium" description="Floral  Fresh  Sweet  and minty with a fruity note. " categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/geranium.html" />
+      <image src="/ifaru/images/products/fragrance/geranium.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_geranium.jpg" />
+    </item>
+    <item id="41006001023" name="Fancy Bouquet" description="A charming scent of a bouquet of fresh flowers with an exclusive blend of floral tones and exotic spices." categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/fancybouquet.html" />
+      <image src="/ifaru/images/products/fragrance/fancy-bouquet.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_fancy-bouquet.jpg" />
+    </item>
+    <item id="41006001024" name="Jasmine" description="Fragrant traditional hydro-distilled Indian Jasmine. Rich  Sweet  Heady  Deep and Intensely Floral. " categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/juhi.html" />
+      <image src="/ifaru/images/products/fragrance/juhi.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_juhi.jpg" />
+    </item>
+    <item id="41006001025" name="Kachi Kali" description="The intoxicating Kachi Kali is a blend of Green Aldehydes And Floral Jasmine. " categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/kachikali.html" />
+      <image src="/ifaru/images/products/fragrance/kachi-kali.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_kachi-kali.jpg" />
+    </item>
+    <item id="41006001026" name="White Lotus" description="An ethereal and slightly delicate sweet attar  with a soft warm radiance." categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.90" />
+      <price size="6ml" stock="3" salePrice="7.40" />
+      <price size="12ml" stock="2" salePrice="14.10" />
+      <price size="24ml" stock="1" salePrice="26.80" />
+      <price size="Tester-1ml" stock="5" salePrice="1.60" />
+      <information url="http://www.ifaru.com/catalogue/pages/whitelotus.html" />
+      <image src="/ifaru/images/products/fragrance/white-lotus.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_white-lotus.jpg" />
+    </item>
+    <item id="41006001027" name="Alf Zahra" description="An exotic fresh-floral and sophisticated blend of the world's rarest flowers and essential oils:" categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/alfzahra.html" />
+      <image src="/ifaru/images/products/fragrance/alf-zahra.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_alf-zahra.jpg" />
+    </item>
+    <item id="41006001028" name="Original Musk - Kasturi" description="Musky  Sensual  Sweet and Warm" categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.75" />
+      <price size="6ml" stock="3" salePrice="7.10" />
+      <price size="12ml" stock="2" salePrice="13.50" />
+      <price size="24ml" stock="1" salePrice="25.70" />
+      <price size="Tester-1ml" stock="5" salePrice="1.60" />
+      <information url="http://www.ifaru.com/catalogue/pages/original-kasturi-musk.html" />
+      <image src="/ifaru/images/products/fragrance/original-kasturi.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_original-kasturi.jpg" />
+    </item>
+    <item id="41006001029" name="Attar Full" description="Rich  Sweet  Heady  Deep and Intensely Floral  classic Jasmine fragrance" categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.70" />
+      <price size="Tester-1ml" stock="5" salePrice="1.50" />
+      <information url="http://www.ifaru.com/catalogue/pages/attarfull.html" />
+      <image src="/ifaru/images/products/fragrance/attar-full.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_attar-full.jpg" />
+    </item>
+    <item id="41006001030" name="Majmua 96 - Nemat" description="Rich smoky bold earthy scent with sweet and wild musky undertones" categoryIds="1-11-14-15" brandId="6" gender="Unisex" >
+      <price size="5ml" stock="4" salePrice="4.80" />
+      <information url="http://www.ifaru.com/catalogue/pages/majmua96-nemat.html" />
+      <image src="/ifaru/images/products/fragrance/majmua96.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_majmua96.jpg" />
+    </item>
+    <item id="41006001031" name="Green Lotus" description="An ethereal and slightly delicate sweet powdery attar with a soft warm radiance." categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.90" />
+      <price size="6ml" stock="3" salePrice="7.40" />
+      <price size="12ml" stock="2" salePrice="14.10" />
+      <price size="24ml" stock="1" salePrice="26.80" />
+      <price size="Tester-1ml" stock="5" salePrice="1.60" />
+      <information url="http://www.ifaru.com/catalogue/pages/green lotus.html" />
+      <image src="/ifaru/images/products/fragrance/green-lotus.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_green-lotus.jpg" />
+    </item>
+    <item id="41006001032" name="Krishna Musk" description="A warm  Spicy-Sweet-musky fragrance." categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.49" />
+      <price size="6ml" stock="3" salePrice="6.60" />
+      <price size="12ml" stock="2" salePrice="12.50" />
+      <price size="24ml" stock="1" salePrice="23.80" />
+      <price size="Tester-1ml" stock="5" salePrice="1.50" />
+      <information url="http://www.ifaru.com/catalogue/pages/krishnamusk.html" />
+      <image src="/ifaru/images/products/fragrance/krishna-musk.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_krishna-musk.jpg" />
+    </item>
+    <item id="41006001033" name="Sandal Musk" description="A soft woody  floral fragrance that blends elegance and sensuality." categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.70" />
+      <price size="6ml" stock="3" salePrice="7.00" />
+      <price size="12ml" stock="2" salePrice="13.30" />
+      <price size="24ml" stock="1" salePrice="25.30" />
+      <price size="Tester-1ml" stock="5" salePrice="1.50" />
+      <information url="http://www.ifaru.com/catalogue/pages/sandalmusk.html" />
+      <image src="/ifaru/images/products/fragrance/sandal-musk.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_sandal-musk.jpg" />
+    </item>
+    <item id="41006001034" name="Vanilla" description="Rich sweet fragrance of  french vanilla pods and creamy vanilla musk." categoryIds="" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/vanilla.html" />
+      <image src="/ifaru/images/products/fragrance/vanilla.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_vanilla.jpg" />
+    </item>
+    <item id="41006001035" name="Jannat-Ul-Firdaus" description="Jannatul Firdaus means the fragrance of the garden of heaven. A Fresh and Mildly Sweet fragrance" categoryIds="" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/jannatulfirdaus.html" />
+      <image src="/ifaru/images/products/fragrance/jannatul-firdaus.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_jannatul-firdaus.jpg" />
+    </item>
+    <item id="41006001036" name="Juhi" description="A captivating fragrance of delicate white blossoms of Juhi flowers! Sheer and Intensely Floral " categoryIds="" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/juhi.html" />
+      <image src="/ifaru/images/products/fragrance/juhi.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_juhi.jpg" />
+    </item>
+    <item id="41006002000" name="Pure Dehnal Oudh Ameeri" description="Pleasing organic oriental woody masculine fragrance" categoryIds="1-11-14-15-16" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="72.00" />
+      <price size="6ml" stock="3" salePrice="136.80" />
+      <price size="12ml" stock="2" salePrice="259.90" />
+      <price size="24ml" stock="1" salePrice="493.80" />
+      <price size="Tester-1ml" stock="5" salePrice="3.50" />
+      <information url="http://www.ifaru.com/catalogue/pages/dehnalameeri.html" />
+      <image src="/ifaru/images/products/fragrance/aguilaria.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_aguilaria.jpg" />
+    </item>
+    <item id="41006002001" name="Pure Dehnal Oudh Maliki " description="Organic pungent sweet slightly woody and well refined" categoryIds="1-11-14-15-16" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="53.00" />
+      <price size="6ml" stock="3" salePrice="100.70" />
+      <price size="12ml" stock="2" salePrice="191.30" />
+      <price size="24ml" stock="1" salePrice="363.50" />
+      <price size="Tester-1ml" stock="5" salePrice="3.25" />
+      <information url="http://www.ifaru.com/catalogue/pages/dehnalmaliki.html" />
+      <image src="/ifaru/images/products/fragrance/aguilaria.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_aguilaria.jpg" />
+    </item>
+    <item id="41006002002" name="Dehnal Oudh Hindi" description="Rich mystical earthy fragrance with exotic light and deep notes" categoryIds="1-11-14-15-16" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="9.25" />
+      <price size="6ml" stock="3" salePrice="17.60" />
+      <price size="12ml" stock="2" salePrice="33.40" />
+      <price size="24ml" stock="1" salePrice="63.50" />
+      <price size="Tester-1ml" stock="5" salePrice="3.90" />
+      <information url="http://www.ifaru.com/catalogue/pages/indianoudh.html" />
+      <image src="/ifaru/images/products/fragrance/aguilaria.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_aguilaria.jpg" />
+    </item>
+    <item id="41006002003" name="Oudh-Al-Matheel" description="Rich pleasing oriental organic agarwood based fragrance" categoryIds="1-11-12-14-15-16" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="4.50" />
+      <price size="6ml" stock="3" salePrice="8.60" />
+      <price size="12ml" stock="2" salePrice="16.30" />
+      <price size="24ml" stock="1" salePrice="31.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.90" />
+      <information url="http://www.ifaru.com/catalogue/pages/oudhmatheel.html" />
+      <image src="/ifaru/images/products/fragrance/oudh-matheel.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_oudh-matheel.jpg" />
+    </item>
+    <item id="41006002004" name="Mukhallat Rayyan" description="A unique floral-woody smoky fragrance wrapped in rich dehnal oudh" categoryIds="1-11-14-15-16" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="5.00" />
+      <price size="6ml" stock="3" salePrice="9.50" />
+      <price size="12ml" stock="2" salePrice="18.10" />
+      <price size="24ml" stock="1" salePrice="34.40" />
+      <price size="Tester-1ml" stock="5" salePrice="2.10" />
+      <information url="http://www.ifaru.com/catalogue/pages/mukhallatrayyan.html" />
+      <image src="/ifaru/images/products/fragrance/mukhallat-rayyan.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_mukhallat-rayyan.jpg" />
+    </item>
+    <item id="41006002005" name="Mukhallat Shamsara" description="A rich oriental Agarwood based Floral blend" categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="5.00" />
+      <price size="6ml" stock="3" salePrice="9.50" />
+      <price size="12ml" stock="2" salePrice="18.10" />
+      <price size="24ml" stock="1" salePrice="34.40" />
+      <price size="Tester-1ml" stock="5" salePrice="2.10" />
+      <information url="http://www.ifaru.com/catalogue/pages/mukhallatshamsara.html" />
+      <image src="/ifaru/images/products/fragrance/mukhallat-shamsara.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_mukhallat-shamsara.jpg" />
+    </item>
+    <item id="41006002006" name="Mukhallat Zaid" description="Floral-woody fragrance blended in rich dehnal oudh" categoryIds="1-11-15-16" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="5.00" />
+      <price size="6ml" stock="3" salePrice="9.50" />
+      <price size="12ml" stock="2" salePrice="18.10" />
+      <price size="24ml" stock="1" salePrice="34.40" />
+      <price size="Tester-1ml" stock="5" salePrice="2.10" />
+      <information url="http://www.ifaru.com/catalogue/pages/mukhallatzaid.html" />
+      <image src="/ifaru/images/products/fragrance/mukhallat-zaid.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_mukhallat-zaid.jpg" />
+    </item>
+    <item id="41006002007" name="Muskulward - Musk Rose" description="A powerful blend of musk softened with sweet and fresh roses" categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="4.50" />
+      <price size="6ml" stock="3" salePrice="8.60" />
+      <price size="12ml" stock="2" salePrice="16.30" />
+      <price size="24ml" stock="1" salePrice="31.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.90" />
+      <information url="http://www.ifaru.com/catalogue/pages/muskulward.html" />
+      <image src="/ifaru/images/products/fragrance/muskulward.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_muskulward.jpg" />
+    </item>
+    <item id="41006002008" name="Sultan" description="Rich oriental blend with rare Indian agarwood and exotic musk" categoryIds="1-11-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/sultan.html" />
+      <image src="/ifaru/images/products/fragrance/sultan.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_sultan.jpg" />
+    </item>
+    <item id="41006002009" name="Zeenat" description="Floral and woody with subtle warmth richness and a velvety softness" categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/zeenat.html" />
+      <image src="/ifaru/images/products/fragrance/zeenat.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_zeenat.jpg" />
+    </item>
+    <item id="41006002010" name="Arabian Musk" description="Woody Musk " categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.75" />
+      <price size="6ml" stock="3" salePrice="7.10" />
+      <price size="12ml" stock="2" salePrice="13.50" />
+      <price size="24ml" stock="1" salePrice="25.70" />
+      <price size="Tester-1ml" stock="5" salePrice="1.60" />
+      <information url="http://www.ifaru.com/catalogue/pages/arabian-musk.html" />
+      <image src="/ifaru/images/products/fragrance/arabian-musk.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_arabian-musk.jpg" />
+    </item>
+    <item id="41006002011" name="Touch-Me - Nabeel" description="Warm spicy musky Sweet-Agarwoody fragrance. " categoryIds="1-11-14-15" brandId="2" gender="Unisex" >
+      <price size="12ml" stock="2" salePrice="8.80" />
+      <price size="Tester-1ml" stock="5" salePrice="1.80" />
+      <information url="http://www.ifaru.com/catalogue/pages/a_touch-me.html" />
+      <image src="/ifaru/images/products/fragrance/touch-me.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_touch-me.jpg" />
+    </item>
+    <item id="41006002012" name="Dana" description="Warm sweet pleasing floral rich and velvety vanilla fragrance." categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.75" />
+      <price size="6ml" stock="3" salePrice="7.10" />
+      <price size="12ml" stock="2" salePrice="13.50" />
+      <price size="24ml" stock="1" salePrice="25.70" />
+      <price size="Tester-1ml" stock="5" salePrice="1.60" />
+      <information url="http://www.ifaru.com/catalogue/pages/dana.html" />
+      <image src="/ifaru/images/products/fragrance/dana.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_dana.jpg" />
+    </item>
+    <item id="41006002013" name="Dark Secret" description="Warm sweet woody oriental scent." categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.75" />
+      <price size="6ml" stock="3" salePrice="7.10" />
+      <price size="12ml" stock="2" salePrice="13.50" />
+      <price size="24ml" stock="1" salePrice="25.70" />
+      <price size="Tester-1ml" stock="5" salePrice="1.60" />
+      <information url="http://www.ifaru.com/catalogue/pages/dark-secret.html" />
+      <image src="/ifaru/images/products/fragrance/dark-secret.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_dark-secret.jpg" />
+    </item>
+    <item id="41006002014" name="Dehnal Oudh - Nabeel" description="Warm spicy musky Sweet-Agarwoody" categoryIds="1-11-12-14-15-16" brandId="2" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.80" />
+      <price size="Tester-1ml" stock="5" salePrice="1.60" />
+      <information url="http://www.ifaru.com/catalogue/pages/dehnal-nabeel.html" />
+      <image src="/ifaru/images/products/fragrance/dhanal-nabeel.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_dhanal-nabeel.jpg" />
+    </item>
+    <item id="41006002015" name="Dehnal Oudh - Nayab" description="Warm spicy musky Sweet-Agarwoody" categoryIds="1-11-12-14-15-16" brandId="5" gender="Unisex" >
+      <price size="6ml" stock="3" salePrice="4.00" />
+      <information url="http://www.ifaru.com/catalogue/pages/dehnal-nayaab.html" />
+      <image src="/ifaru/images/products/fragrance/dehnal-nayaab.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_dehnal-nayaab.jpg" />
+    </item>
+    <item id="41006002016" name="Dreams" description="Warm sweet woody oriental scent." categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.75" />
+      <price size="6ml" stock="3" salePrice="7.10" />
+      <price size="12ml" stock="2" salePrice="13.50" />
+      <price size="24ml" stock="1" salePrice="25.70" />
+      <price size="Tester-1ml" stock="5" salePrice="1.60" />
+      <information url="http://www.ifaru.com/catalogue/pages/dreams.html" />
+      <image src="/ifaru/images/products/fragrance/dreams.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_dreams.jpg" />
+    </item>
+    <item id="41006002017" name="Saif-al-Arab" description="Woody musky spicy" categoryIds="1-11-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="4.50" />
+      <price size="6ml" stock="3" salePrice="8.60" />
+      <price size="12ml" stock="2" salePrice="16.30" />
+      <price size="24ml" stock="1" salePrice="31.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.90" />
+      <information url="http://www.ifaru.com/catalogue/pages/saifalarab.html" />
+      <image src="/ifaru/images/products/fragrance/saif-al-arab.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_ saif-al-arab.jpg" />
+    </item>
+    <item id="41006002018" name="Saif-al-Hind" description="Woody musky floral spicy" categoryIds="1-11-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.75" />
+      <price size="6ml" stock="3" salePrice="7.10" />
+      <price size="12ml" stock="2" salePrice="13.50" />
+      <price size="24ml" stock="1" salePrice="25.70" />
+      <price size="Tester-1ml" stock="5" salePrice="1.60" />
+      <information url="http://www.ifaru.com/catalogue/pages/saifalhind.html" />
+      <image src="/ifaru/images/products/fragrance/saif-al-hind.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_saif-al-hind.jpg" />
+    </item>
+    <item id="41006002019" name="Ragheed" description="A heavy Oriental blend with rare Indian Agarwood and Turkish Rose" categoryIds="1-11-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="5.50" />
+      <price size="6ml" stock="3" salePrice="10.50" />
+      <price size="12ml" stock="2" salePrice="20.00" />
+      <price size="24ml" stock="1" salePrice="38.00" />
+      <price size="Tester-1ml" stock="5" salePrice="2.30" />
+      <information url="http://www.ifaru.com/catalogue/pages/ragheed.html" />
+      <image src="/ifaru/images/products/fragrance/ragheed.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_ragheed.jpg" />
+    </item>
+    <item id="41006002020" name="Mukhallat-Aseel" description="Agarwoody Oriental" categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.75" />
+      <price size="6ml" stock="3" salePrice="7.10" />
+      <price size="12ml" stock="2" salePrice="13.50" />
+      <price size="24ml" stock="1" salePrice="25.70" />
+      <price size="Tester-1ml" stock="5" salePrice="1.60" />
+      <information url="http://www.ifaru.com/catalogue/pages/mukhallat-aseel.html" />
+      <image src="/ifaru/images/products/fragrance/mukhallat-aseel.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_mukhallat-aseel.jpg" />
+    </item>
+    <item id="41006002021" name="Mukhallat-al-Ameer" description="Rich fragrance built around an harmony of aromatic and woody notes enriched with sensual amber." categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="5.50" />
+      <price size="6ml" stock="3" salePrice="10.50" />
+      <price size="12ml" stock="2" salePrice="20.00" />
+      <price size="24ml" stock="1" salePrice="38.00" />
+      <price size="Tester-1ml" stock="5" salePrice="2.30" />
+      <information url="http://www.ifaru.com/catalogue/pages/mukhallat-al-ameer.html" />
+      <image src="/ifaru/images/products/fragrance/mukhallat-al-ameer.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_mukhallat-al-ameer.jpg" />
+    </item>
+    <item id="41006002022" name="Musk-ul-Rooh" description="A musk-based fragrance sweetened with soft sandalwood" categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.30" />
+      <price size="6ml" stock="3" salePrice="6.30" />
+      <price size="12ml" stock="2" salePrice="12.00" />
+      <price size="24ml" stock="1" salePrice="22.80" />
+      <price size="Tester-1ml" stock="5" salePrice="1.40" />
+      <information url="http://www.ifaru.com/catalogue/pages/muskululrooh.html" />
+      <image src="/ifaru/images/products/fragrance/musk-ul-rooh.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_musk-ul-rooh.jpg" />
+    </item>
+    <item id="41006002023" name="Nasaem - Nabeel" description="Warm spicy musky Sweet-Agarwoody" categoryIds="1-11-14-15" brandId="2" gender="Unisex" >
+      <price size="15ml" stock="2" salePrice="19.99" />
+      <information url="http://www.ifaru.com/catalogue/pages/nasaem-attar.html" />
+      <image src="/ifaru/images/products/fragrance/nasaem-perfume.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_nasaem-perfume.jpg" />
+    </item>
+    <item id="41006002024" name="Jalwa - Nabeel" description="Refreshing subtle oriental fragrance" categoryIds="1-11-15" brandId="2" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.75" />
+      <price size="6ml" stock="3" salePrice="7.10" />
+      <price size="12ml" stock="2" salePrice="13.50" />
+      <price size="24ml" stock="1" salePrice="25.70" />
+      <price size="Tester-1ml" stock="5" salePrice="1.60" />
+      <information url="http://www.ifaru.com/catalogue/pages/jalwa.html" />
+      <image src="/ifaru/images/products/fragrance/jalwa3ml.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_jalwa3ml.jpg" />
+    </item>
+    <item id="41006002025" name="Jalwa - Nabeel" description="Refreshing subtle oriental fragrance" categoryIds="1-11-15" brandId="2" gender="Unisex" >
+      <price size="12ml" stock="2" salePrice="8.99" />
+      <information url="http://www.ifaru.com/catalogue/pages/jalwa.html" />
+      <image src="/ifaru/images/products/fragrance/jalwa12ml.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_jalwa12ml.jpg" />
+    </item>
+    <item id="41006002026" name="Hajr-e-Aswad" description="Very rich and intoxicating and long lasting blend of woody floral overtones" categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="4.50" />
+      <price size="6ml" stock="3" salePrice="8.60" />
+      <price size="12ml" stock="2" salePrice="16.30" />
+      <price size="24ml" stock="1" salePrice="31.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.90" />
+      <information url="http://www.ifaru.com/catalogue/pages/hajre-aswad.html" />
+      <image src="/ifaru/images/products/fragrance/hajre-aswad.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_ hajre-aswad.jpg" />
+    </item>
+    <item id="41006002027" name="Fawakey" description="A romantic Citrus and fruity scent of grace" categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/fawakey.html" />
+      <image src="/ifaru/images/products/fragrance/fawakey.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_fawakey.jpg" />
+    </item>
+    <item id="41006002028" name="Etisalbi - Nabeel" description="Sensual subtle oriental fragrance" categoryIds="1-11-14-15" brandId="2" gender="Unisex" >
+      <price size="15ml" stock="2" salePrice="9.50" />
+      <information url="http://www.ifaru.com/catalogue/pages/etisalbi-perfume.html" />
+      <image src="/ifaru/images/products/fragrance/etisalbi-perfume.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_etisalbi-perfume.jpg" />
+    </item>
+    <item id="41006002029" name="Jannat-el-Firdaus - Nabeel" description="Fresh and mildly sweet. A high tone of jasmine" categoryIds="1-11-14-15" brandId="2" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.10" />
+      <price size="Tester-1ml" stock="5" salePrice="1.30" />
+      <information url="http://www.ifaru.com/catalogue/pages/jannetelfirdaus-nabeel.html" />
+      <image src="/ifaru/images/products/fragrance/jannet-el-firdaus.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_jannet-el-firdaus.jpg" />
+    </item>
+    <item id="41006002030" name="Jannat-el-Baqui - Nabeel" description="Sweet Musky Floral Powdery" categoryIds="1-11-14" brandId="2" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.10" />
+      <price size="Tester-1ml" stock="5" salePrice="1.30" />
+      <information url="http://www.ifaru.com/catalogue/pages/jannetel-baqui.html" />
+      <image src="/ifaru/images/products/fragrance/jannet-el-baqui.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_jannet-el-baqui.jpg" />
+    </item>
+    <item id="41006002031" name="Lamya - Nabeel" description="Refreshing subtle oriental fragrance enhanced by the unique combination of Arabian musk. " categoryIds="1-11-14-15" brandId="2" gender="Unisex" >
+      <price size="20ml" stock="2" salePrice="14.50" />
+      <information url="http://www.ifaru.com/catalogue/pages/lamya.html" />
+      <image src="/ifaru/images/products/fragrance/ lamya.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_ lamya.jpg" />
+    </item>
+    <item id="41006002032" name="Passion" description="Fresh tangy spicy fragrance wrapped in rare dehnal oudh" categoryIds="1-11-12-14-15-16" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.75" />
+      <price size="6ml" stock="3" salePrice="7.10" />
+      <price size="12ml" stock="2" salePrice="13.50" />
+      <price size="24ml" stock="1" salePrice="25.70" />
+      <price size="Tester-1ml" stock="5" salePrice="1.60" />
+      <information url="http://www.ifaru.com/catalogue/pages/passion.html" />
+      <image src="/ifaru/images/products/fragrance/passion.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_passion.jpg" />
+    </item>
+    <item id="41006002033" name="Ala Baali-Nabeel" description="Sweet Floral with hints of creamy jasmine wrapped in rare dehnal oudh" categoryIds="1-11-12-14-15-16" brandId="2" gender="Unisex" >
+      <price size="12ml" stock="2" salePrice="19.99" />
+      <price size="24ml" stock="1" salePrice="38.00" />
+      <information url="http://www.ifaru.com/catalogue/pages/ala-baali.html" />
+      <image src="/ifaru/images/products/fragrance/ala-baali.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_ala-baali.jpg" />
+    </item>
+    <item id="41006002034" name="Rooh-Al-Oudh" description="Rich woody bold scent with sweet and wild musky undertones" categoryIds="1-11-12-14-15-16" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.50" />
+      <price size="6ml" stock="3" salePrice="6.70" />
+      <price size="12ml" stock="2" salePrice="12.70" />
+      <price size="24ml" stock="1" salePrice="24.10" />
+      <price size="Tester-1ml" stock="5" salePrice="1.50" />
+      <information url="http://www.ifaru.com/catalogue/pages/rooh-al-oudh.html" />
+      <image src="/ifaru/images/products/fragrance/aguilaria.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_aguilaria.jpg" />
+    </item>
+    <item id="41006002035" name="Velvet Touch" description="Sweet Floral with hints of powdery feminine fragrance" categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.99" />
+      <price size="6ml" stock="3" salePrice="5.70" />
+      <price size="12ml" stock="2" salePrice="10.80" />
+      <price size="24ml" stock="1" salePrice="20.50" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/velvet-touch.html" />
+      <image src="/ifaru/images/products/fragrance/velvet-touch.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_velvet-touch.jpg" />
+    </item>
+    <item id="41006002036" name="Black Musk" description="Spicy oriental (deep) DANGEROUS..FORBIDDEN..SENSUAL..INTOXICATING and VERY ADDICTIVE. " categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.80" />
+      <price size="6ml" stock="3" salePrice="7.20" />
+      <price size="12ml" stock="2" salePrice="13.70" />
+      <price size="24ml" stock="1" salePrice="26.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.60" />
+      <information url="http://www.ifaru.com/catalogue/pages/black-musk.html" />
+      <image src="/ifaru/images/products/fragrance/black-musk.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_black-musk.jpg" />
+    </item>
+    <item id="41006002037" name="Majmu Aal 55" description="A warm  Sweet-green fragrance with hints of rich spices." categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="3.70" />
+      <information url="http://www.ifaru.com/catalogue/pages/majmu-aal55.html" />
+      <image src="/ifaru/images/products/fragrance/majmu-aal55.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_majmu-aal55.jpg" />
+    </item>
+    <item id="41006002038" name="Wainak Habibi" description="A epitome of rich  deep  earthy oriental Agarwood based fragrance.Steeped in luxury. " categoryIds="1-11-14-15" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="4.99" />
+      <price size="6ml" stock="3" salePrice="9.50" />
+      <price size="12ml" stock="2" salePrice="18.10" />
+      <price size="24ml" stock="1" salePrice="34.40" />
+      <information url="http://www.ifaru.com/catalogue/pages/wainak-habibi.html" />
+      <image src="/ifaru/images/products/fragrance/wainak-habibi.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_wainak-habibi.jpg" />
+    </item>
+    <item id="41006002039" name="Desire" description="Dreamy scent anchored beautifully with sandalwood and a complex blend of floral and musky notes." categoryIds="1-11-14" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="4.30" />
+      <price size="6ml" stock="3" salePrice="7.20" />
+      <price size="12ml" stock="2" salePrice="13.70" />
+      <price size="24ml" stock="1" salePrice="26.00" />
+      <information url="http://www.ifaru.com/catalogue/pages/desire.html" />
+      <image src="/ifaru/images/products/fragrance/desire.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_desire.jpg" />
+    </item>
+    <item id="41006003000" name="212 Caroline Herrera" description="Light floral feminine fragrance with musk undertones" categoryIds="1-11-14" brandId="1" gender="Female" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.co.uk/catalog/pages/default.html" />
+      <image src="/ifaru/images/products/fragrance/212caroline.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_212caroline.jpg" />
+    </item>
+    <item id="41006003001" name="Poison" description="luxurious  oriental  floral fragrance with ambry woods  wild berries and Opopanax." categoryIds="1-11-14" brandId="1" gender="Female" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/poison.html" />
+      <image src="/ifaru/images/products/fragrance/poison.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_poison.jpg" />
+    </item>
+    <item id="41006003002" name="Chanel Chance" description="Powdery- Sheer- Floral" categoryIds="1-11-14" brandId="1" gender="Female" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/chance.html" />
+      <image src="/ifaru/images/products/fragrance/chance.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_chance.jpg" />
+    </item>
+    <item id="41006003003" name="Chanel No.5" description="Aldehydic floral with an indefinable femininity" categoryIds="1-11-14" brandId="1" gender="Female" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/chanel5.html" />
+      <image src="/ifaru/images/products/fragrance/chanel5.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_chanel5.jpg" />
+    </item>
+    <item id="41006003004" name="Chastity - Rasasi" description="A clean transparent fragrance with flowery sensual fresh notes" categoryIds="1-11-14" brandId="1" gender="Female" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.co.uk/catalog/pages/default.html" />
+      <image src="/ifaru/images/products/fragrance/default-clear.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_default-clear.jpg" />
+    </item>
+    <item id="41006003005" name="Coco Madame" description="Fresh oriental and delicately floral" categoryIds="1-11-14" brandId="1" gender="Female" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/cocomadame.html" />
+      <image src="/ifaru/images/products/fragrance/coco.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_coco.jpg" />
+    </item>
+    <item id="41006003006" name="Opium" description="Oriental feminine fragrance" categoryIds="1-11-14" brandId="1" gender="Female" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/opium.html" />
+      <image src="/ifaru/images/products/fragrance/opium.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_opium.jpg" />
+    </item>
+    <item id="41006003007" name="Iceberg" description="Sweet and sexy feminine scent a blend of fresh cut watery bouquet" categoryIds="1-11-14" brandId="1" gender="Female" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.co.uk/catalog/pages/default.html" />
+      <image src="/ifaru/images/products/fragrance/default-clear.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_default-clear.jpg" />
+    </item>
+    <item id="41006003008" name="J Adore" description="Fruity - Floral" categoryIds="1-11-14" brandId="1" gender="Female" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/jadore.html" />
+      <image src="/ifaru/images/products/fragrance/jadore.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_jadore.jpg" />
+    </item>
+    <item id="41006003009" name="Joop" description="Citrus floral fragrance" categoryIds="1-11-14" brandId="1" gender="Female" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/joop.html" />
+      <image src="/ifaru/images/products/fragrance/joop.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_joop.jpg" />
+    </item>
+    <item id="41006003010" name="Pleasures-Estee lauder" description="Refreshing Flowery Fragrance " categoryIds="1-11-14" brandId="1" gender="Female" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/pleasures.html" />
+      <image src="/ifaru/images/products/fragrance/pleasures.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_pleasures.jpg" />
+    </item>
+    <item id="41006003011" name="Amarige - Givenchy" description="Amarige is a searing floriental fragrance for women. " categoryIds="1-11-14" brandId="1" gender="Female" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/amarige.html" />
+      <image src="/ifaru/images/products/fragrance/amarige.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_amarige.jpg" />
+    </item>
+    <item id="41006003012" name="Angel - Thierry Mugler" description="Angel is classified as a refreshing  mystical  oriental  woody fragrance. " categoryIds="1-11-14" brandId="1" gender="Female" >
+      <price size="3ml" stock="10" salePrice="3.90" />
+      <price size="6ml" stock="3" salePrice="7.40" />
+      <price size="12ml" stock="2" salePrice="14.10" />
+      <price size="24ml" stock="1" salePrice="26.80" />
+      <price size="Tester-1ml" stock="5" salePrice="1.60" />
+      <information url="http://www.ifaru.com/catalogue/pages/angel.html" />
+      <image src="/ifaru/images/products/fragrance/angel.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_angel.jpg" />
+    </item>
+    <item id="41006004000" name="Allure Sports" description="Fresh-citrusy" categoryIds="1-11-15" brandId="1" gender="Men" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/alluresports.html" />
+      <image src="/ifaru/images/products/fragrance/allure-sports.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_allure-sports.jpg" />
+    </item>
+    <item id="41006004001" name="Armani" description="Luxurious fruity fragrance" categoryIds="1-11-15" brandId="1" gender="Men" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/armani.html" />
+      <image src="/ifaru/images/products/fragrance/armani.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_armani.jpg" />
+    </item>
+    <item id="41006004002" name="Deep Blue by Lomani" description="Fresh spicy woody fragrance" categoryIds="1-11-15" brandId="1" gender="Men" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.co.uk/catalog/pages/default.html" />
+      <image src="/ifaru/images/products/fragrance/default-clear.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_default-clear.jpg" />
+    </item>
+    <item id="41006004003" name="Fahrenheit" description="Woody - Mossy" categoryIds="1-11-15" brandId="1" gender="Men" >
+      <price size="3ml" stock="10" salePrice="3.15" />
+      <price size="6ml" stock="3" salePrice="6.00" />
+      <price size="12ml" stock="2" salePrice="11.40" />
+      <price size="24ml" stock="1" salePrice="21.70" />
+      <price size="Tester-1ml" stock="5" salePrice="1.30" />
+      <information url="http://www.ifaru.com/catalogue/pages/fahrenheit.html" />
+      <image src="/ifaru/images/products/fragrance/fahrenheit.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_fahrenheit.jpg" />
+    </item>
+    <item id="41006004004" name="Hugo Soul" description="Fresh and Spicy " categoryIds="1-11-15" brandId="1" gender="Men" >
+      <price size="3ml" stock="10" salePrice="3.15" />
+      <price size="6ml" stock="3" salePrice="6.00" />
+      <price size="12ml" stock="2" salePrice="11.40" />
+      <price size="24ml" stock="1" salePrice="21.70" />
+      <price size="Tester-1ml" stock="5" salePrice="1.30" />
+      <information url="http://www.ifaru.com/catalogue/pages/hugosoul.html" />
+      <image src="/ifaru/images/products/fragrance/hugo-soul.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_hugo-soul.jpg" />
+    </item>
+    <item id="41006004005" name="Xs black" description="Fresh sensual woody fragrance" categoryIds="1-11-15" brandId="1" gender="Men" >
+      <price size="3ml" stock="10" salePrice="3.15" />
+      <price size="6ml" stock="3" salePrice="6.00" />
+      <price size="12ml" stock="2" salePrice="11.40" />
+      <price size="24ml" stock="1" salePrice="21.70" />
+      <price size="Tester-1ml" stock="5" salePrice="1.30" />
+      <information url="http://www.ifaru.com/catalogue/pages/xsblack.html" />
+      <image src="/ifaru/images/products/fragrance/xs-black.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_xs-black.jpg" />
+    </item>
+    <item id="41006005000" name="Lavender" description="Fresh lavender flower sweet and floral" categoryIds="1-11-14-15-17" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/lavender.html" />
+      <image src="/ifaru/images/products/fragrance/lavender.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_lavender.jpg" />
+    </item>
+    <item id="41006005001" name="Patchouli" description="A pungent powerful mossy musty fragrance" categoryIds="1-11-14-15-17" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/patchouli.html" />
+      <image src="/ifaru/images/products/fragrance/patchouli.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_patchouli.jpg" />
+    </item>
+    <item id="41006005002" name="Ylang-Ylang" description="Heavy Sweet Floral voluptuous Exotic" categoryIds="1-11-14-15-17" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/ylangylang.html" />
+      <image src="/ifaru/images/products/fragrance/ylang-ylang.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_ylang-ylang.jpg" />
+    </item>
+    <item id="41006005003" name="Tea Tree" description="Medicinal" categoryIds="1-11-14-15-17" brandId="1" gender="Unisex" >
+      <price size="3ml" stock="10" salePrice="2.90" />
+      <price size="6ml" stock="3" salePrice="5.50" />
+      <price size="12ml" stock="2" salePrice="10.50" />
+      <price size="24ml" stock="1" salePrice="20.00" />
+      <price size="Tester-1ml" stock="5" salePrice="1.20" />
+      <information url="http://www.ifaru.com/catalogue/pages/teatree.html" />
+      <image src="/ifaru/images/products/fragrance/teatree.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_teatree.jpg" />
+    </item>
+    <item id="4106006000" name="Ood Maamul" description="Beautiful blend of light sweet oudh pieces soaked in sandalwood amber etc" categoryIds="1-12-16-18" brandId="4" gender="Unisex" >
+      <price size="See Info" stock="5" salePrice="8.50" />
+      <information url="http://www.ifaru.com/catalogue/pages/ood-maamul.html" />
+      <image src="/ifaru/images/products/fragrance/ood-maamul.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_ood-maamul.jpg" />
+    </item>
+    <item id="4106006001" name="Touch Me Bakhoor- Nabeel" description="Beautiful blend of light sweet oudh pieces soaked in sandalwood amber etc" categoryIds="1-12-16-18" brandId="2" gender="Unisex" >
+      <price size="See Info" stock="5" salePrice="3.90" />
+      <information url="http://www.ifaru.com/catalogue/pages/bakhoor-touchme.html" />
+      <image src="/ifaru/images/products/fragrance/bakhoor-touchme.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_bakhoor-touchme.jpg" />
+    </item>
+    <item id="4106006002" name="Etisalbi Bakhoor- Nabeel" description="Beautiful blend of light sweet oudh pieces soaked in sandalwood amber etc" categoryIds="1-12-16-18" brandId="2" gender="Unisex" >
+      <price size="See Info" stock="5" salePrice="3.90" />
+      <information url="http://www.ifaru.com/catalogue/pages/bakhoor-etisalbi.html" />
+      <image src="/ifaru/images/products/fragrance/bakhoor-etisalbi.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_bakhoor-etisalbi.jpg" />
+    </item>
+    <item id="4106006003" name="Nasaem Bakhoor- Nabeel" description="Beautiful blend of light sweet oudh pieces soaked in sandalwood amber etc" categoryIds="1-12-16-18" brandId="2" gender="Unisex" >
+      <price size="See Info" stock="5" salePrice="3.95" />
+      <information url="http://www.ifaru.com/catalogue/pages/bakhoor-nasaem.html" />
+      <image src="/ifaru/images/products/fragrance/bakhoor-nasaem.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_bakhoor-nasaem.jpg" />
+    </item>
+    <item id="4106006004" name="Heritage Bakhoor- Nabeel" description="Beautiful blend of light sweet oudh pieces soaked in sandalwood amber etc" categoryIds="1-12-16-18" brandId="2" gender="Unisex" >
+      <price size="See Info" stock="5" salePrice="3.80" />
+      <information url="http://www.ifaru.com/catalogue/pages/bakhoor-heritage.html" />
+      <image src="/ifaru/images/products/fragrance/bakhoor-heritage.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_bakhoor-heritage.jpg" />
+    </item>
+    <item id="4106006005" name="Mulhum Bakhoor- Nabeel" description="Beautiful blend of light sweet oudh pieces soaked in sandalwood amber etc" categoryIds="1-12-16-18" brandId="2" gender="Unisex" >
+      <price size="See Info" stock="5" salePrice="3.95" />
+      <information url="http://www.ifaru.com/catalogue/pages/bakhoor-mulhum.html" />
+      <image src="/ifaru/images/products/fragrance/bakhoor-mulhum.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_bakhoor-mulhum.jpg" />
+    </item>
+    <item id="4106006006" name="Bakhoor-Al-Hind" description="Beautiful blend of light sweet oudh pieces soaked in sandalwood amber etc" categoryIds="1-12-16-18" brandId="1" gender="Unisex" >
+      <price size="See Info" stock="5" salePrice="8.50" />
+      <information url="http://www.ifaru.com/catalogue/pages/bakhoor-al-hind.html" />
+      <image src="/ifaru/images/products/fragrance/bakhoor-al-hind.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_bakhoor-al-hind.jpg" />
+    </item>
+    <item id="4106006007" name="Mabthuth Turabi" description="Beautiful blend of light sweet oudh pieces soaked in sandalwood amber etc" categoryIds="1-16-18" brandId="3" gender="Unisex" >
+      <price size="See Info" stock="5" salePrice="8.25" />
+      <information url="http://www.ifaru.com/catalogue/pages/mabthuth-turabi.html" />
+      <image src="/ifaru/images/products/fragrance/bakhoor-turabi.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_bakhoor-turabi.jpg" />
+    </item>
+    <item id="4106006008" name="Bakhoor Malikha" description="Beautiful blend of light sweet oudh pieces soaked in sandalwood amber etc" categoryIds="1-16-18" brandId="1" gender="Unisex" >
+      <price size="See Info" stock="5" salePrice="8.50" />
+      <information url="http://www.ifaru.com/catalogue/pages/bakhoor-malikha.html" />
+      <image src="/ifaru/images/products/fragrance/bakhoor-malikha.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_bakhoor-malikha.jpg" />
+    </item>
+    <item id="4106006009" name="Stainless Steel Bakhoor Burner" description="Beautiful stainless steel burner" categoryIds="1-16-18" brandId="1" gender="Unisex" >
+      <price size="See Info" stock="5" salePrice="8.50" />
+      <information url="http://www.ifaru.com/catalogue/pages/bakhoor-burner.html" />
+      <image src="/ifaru/images/products/fragrance/bakhoor-burner.jpg" thumbnail="/ifaru/images/products/fragrance/thumbs/tn_bakhoor-burner.jpg" />
+    </item>
+  </items>
+  
+  <categories>
+    <category id="1" name="Fragrances" subcategories="11-12-13-14-15-16-17-18">
+      <keywords keywords="attar,itr,perfume,oil,perfume oil,fragrance,scent,luxury,relax,pamper"></keywords>
+    </category>
+    <category id="11" name="Indian Attar" subcategories="">
+      <keywords keywords="indian,india,hindi,hind,assam,attar,itr,perfume,oil,perfume oil,fragrance,scent,luxury,relax,pamper"></keywords>
+    </category>
+    <category id="12" name="Arabian Attar" subcategories="">
+      <keywords keywords="arabian,arab,arabic,attar,itr,perfume,oil,perfume oil,fragrance,scent,luxury,relax,pamper"></keywords>
+    </category>
+    <category id="13" name="Designer Alternatives" subcategories="">
+      <keywords keywords="designer,alternatives,alternate,attar,itr,perfume,oil,perfume oil,fragrance,scent,luxury,relax,pamper"></keywords>
+    </category>
+    <category id="14" name="For Her" subcategories="">
+      <keywords keywords="her,women,woman,she,feminine,female,girl,mother,sister,girl-friend,girlfriend,girl friend,attar,itr,perfume,oil,perfume oil,fragrance,scent,luxury,relax,pamper"></keywords>
+    </category>              
+    <category id="15" name="For Him" subcategories="">
+      <keywords keywords="him,men,man,he,masculine,male,boy,father,brother,boy-friend,boyfriend,boy friend,attar,itr,perfume,oil,perfume oil,fragrance,scent,luxury,relax,pamper"></keywords>
+    </category>
+    <category id="16" name="Oudh" subcategories="">
+      <keywords keywords="oudh,dehnl,dehnal,denal-oudh,oodh,odh,udh,agarwood,agar,arabian,arab,arabic,attar,itr,perfume,oil,perfume oil,fragrance,scent,luxury,relax,pamper"></keywords>
+    </category>      
+    <category id="17" name="Essential Oils" subcategories="">
+      <keywords keywords="essential,aroma,therapy,attar,itr,perfume,oil,perfume oil,fragrance,scent,luxury,relax,pamper"></keywords>
+    </category>         
+    <category id="18" name="Bakhoor" subcategories="">
+      <keywords keywords="bakhoor,incense"></keywords>
+    </category>
+  </categories>
+  
+  <brands>
+    <brand id="1" name="iFaru">
+      <keywords keywords="ifaru"></keywords>
+    </brand>  
+    <brand id="2" name="Al Nabeel">
+      <keywords keywords="nabeel,alnabeel,al,al nabeel"></keywords>
+    </brand>
+    <brand id="3" name="Al Anfar">
+      <keywords keywords="anfar,alanfar,al,al anfar"></keywords>
+    </brand>
+    <brand id="4" name="Ajmal">
+      <keywords keywords="ajmal,ajmaal"></keywords>
+    </brand>    
+    <brand id="5" name="Nayaab">
+      <keywords keywords="nayab,nayaab"></keywords>
+    </brand>
+    <brand id="6" name="Neemat">
+      <keywords keywords="neemat,nemat,nimat,nemaat"></keywords>
+    </brand>
+  </brands>  
+</catalog>

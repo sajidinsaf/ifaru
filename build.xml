@@ -1,0 +1,307 @@
+<project name="iFaru" default="compile" basedir=".">
+
+	<property file="build.properties"/>
+	<property name="app.name"            value="ifaru"/>
+	<property name="app.version"         value="${VERSION}"/>
+	<property name="build.home"          value="${basedir}/build"/>
+	<property name="dist.home"           value="${basedir}/dist"/>
+	<property name="docs.home"           value="${basedir}/docs"/>
+	<property name="src.home"            value="${basedir}/src"/>
+	<property name="lib.home"            value="${basedir}/lib"/>
+  <property name="bin.home"            value="${basedir}/classes"/>	
+	<property name="jsp.home"            value="${src.home}/jsp"/>
+	<property name="config.home"         value="${basedir}/config"/>
+	<property name="data.home"           value="${basedir}/data"/>	
+	<property name="css.home"            value="${basedir}/css"/>
+	<property name="struts.config.home"  value="${config.home}/struts"/>
+	<property name="jakarta.config.home" value="${config.home}/jakarta"/>
+	<property name="mailer.build.home"   value="${build.home}/mailer" />
+	<property name="gallery.home"        value="${basedir}/../gallery" />
+	<property name="images.home"         value="${basedir}/../ifaru-images"/>
+	<property name="resin.home"          value="${basedir}/../tools/resin-2.1.17"/>  
+	<property name="compile.debug"       value="true"/>
+	<property name="compile.deprecation" value="false"/>
+	<property name="compile.optimize"    value="true"/>
+	<property name="compile.debug"       value="true"/>
+	<property name="compile.deprecation" value="false"/>
+	<property name="compile.optimize"    value="true"/>
+
+	
+	<path id="compile.classpath">
+
+		<fileset dir="${lib.home}">
+			<include name="**/*.jar"/>
+		</fileset>
+
+	</path>
+	
+	<target name="all" depends="clean,compile"
+   description="Clean build and dist directories, then compile"/>
+
+	<target name="clean"
+   description="Delete old build and dist directories">
+		<delete dir="${build.home}"/>
+		<delete dir="${dist.home}"/>
+		<delete dir="${docs.home}"/>
+	</target>
+
+	<target name="compile" depends="prepare" description="Compile Java sources">
+
+		<!-- Compile Java classes as necessary -->
+		<mkdir dir="${build.home}/WEB-INF/classes" />
+		<javac srcdir="${src.home}/java" destdir="${build.home}/WEB-INF/classes" debug="${compile.debug}" deprecation="${compile.deprecation}" optimize="${compile.optimize}">
+			<classpath refid="compile.classpath" />
+		</javac>
+
+		<!-- Copy application resources -->
+		<copy todir="${build.home}/WEB-INF/classes" includeEmptyDirs="false">
+			<fileset dir="${src.home}/java">
+				<patternset id="non.test-source-jsp">
+					<include name="**/*.properties" />
+					<exclude name="**/*.java" />
+					<exclude name="**/*Test*" />
+					<exclude name="**/*jsp*" />
+				</patternset>
+			</fileset>
+      <fileset dir="${jakarta.config.home}">
+          <include name="log4j.properties" />
+      </fileset>			
+		</copy>
+	</target>
+
+	<target name="dist" depends="all, create-war" description="Create binary distribution">
+	</target>
+  
+	<target name="create-war">
+    <mkdir dir="${dist.home}" />		
+    <!-- Create WAR file -->
+    <jar jarfile="${dist.home}/${app.name}.war" basedir="${build.home}" />
+	</target>
+
+	<target name="javadoc" depends="compile" description="Create Javadoc API documentation">
+		<mkdir dir="${dist.home}/docs/api" />
+		<javadoc sourcepath="${src.home}" destdir="${dist.home}/docs/api" packagenames="*">
+			<classpath refid="compile.classpath" />
+		</javadoc>
+
+	</target>
+
+	<target name="copy-product-images">
+    <mkdir dir="${build.home}/images" />  
+    <!-- Copy images -->
+    <copy todir="${build.home}/images" includeEmptyDirs="false">
+      <fileset dir="${images.home}">
+        <include name="products/**/*" />
+      </fileset>    
+    </copy>   
+		
+	</target>
+	
+	<target name="prepare">
+		<!-- Create build directories -->
+		<mkdir dir="${build.home}" />	
+		<mkdir dir="${build.home}/WEB-INF" />
+		<mkdir dir="${build.home}/WEB-INF/lib" />
+		<mkdir dir="${build.home}/WEB-INF/classes" />
+		<!-- Copy static content of this web application -->
+		<copy todir="${build.home}" includeEmptyDirs="false">
+			<fileset dir="${jsp.home}">
+				<include name="**/*" />
+				<exclude name="index-mailer.jsp" />
+			</fileset>		
+		</copy>
+		
+		<!-- copy gallery files -->
+		<copy todir="${build.home}/gallery" includeEmptyDirs="false">
+			<fileset dir="${gallery.home}"/>			
+		</copy>
+
+		<copy todir="${build.home}/data" includeEmptyDirs="false">
+			<fileset dir="${data.home}">	
+			  <include name="**/*" />
+			</fileset>				
+		</copy>
+		
+    <copy todir="${build.home}/email" includeEmptyDirs="false">
+      <!-- web.xml  -->
+      <fileset dir="${basedir}/email" />
+    </copy>   
+		
+		<copy todir="${build.home}/css" includeEmptyDirs="false">
+			<fileset dir="${css.home}">	
+			  <include name="**/*" />
+			</fileset>				
+		</copy>
+
+    <copy todir="${build.home}/flash" includeEmptyDirs="false">
+      <!-- flash images  -->
+      <fileset dir="${basedir}/flash" />
+    </copy>   
+    	
+		<!-- WEB-INF root configuration files -->
+		<copy todir="${build.home}/WEB-INF" includeEmptyDirs="false">
+			<!-- web.xml  -->
+			<fileset dir="${config.home}" />
+			<!-- copy the struts configuration files -->
+			<fileset dir="${struts.config.home}" />
+			<fileset dir="${jakarta.config.home}" />
+		</copy>
+
+		<!-- Copy library files -->
+		<mkdir dir="${build.home}/WEB-INF/lib" />
+		<copy todir="${build.home}/WEB-INF/lib" includeEmptyDirs="false">
+			<fileset dir="${lib.home}">
+				<include name="mail.jar" />
+				<include name="activation.jar" />		
+			</fileset>
+			<fileset dir="${lib.home}/struts" />
+			<fileset dir="${lib.home}/jakarta" />		
+		</copy>		
+	</target>
+
+	<target name="dist-local" depends="all" description="Deploy WAR to app server">
+		<!-- @TODO rename catalog.test.xml catalog.xml -->
+		<move file="${build.home}/data/catalog/catalog.xml" tofile="${build.home}/data/catalog/catalog.remote.xml" />
+    <move file="${build.home}/data/catalog/catalog.test.xml" tofile="${build.home}/data/catalog/catalog.xml" />
+    <antcall target="create-war"/>
+		<copy todir="${resin.home}/webapps" includeEmptyDirs="false">
+			<fileset dir="${dist.home}" />
+		</copy>
+	</target>
+
+  <target name="dist-remote" depends="dist" description="Create binary distribution">
+    <copy todir="${resin.home}/webapps" includeEmptyDirs="false">
+      <fileset dir="${dist.home}" />
+    </copy>  	
+   </target>
+ 
+	
+	
+	<!-- =====================================
+	     SANDBOX APP
+	     
+	========================================== -->
+
+  <target name="dist-local-sandbox" depends="all" description="Build and Deploy Sandbox WAR to app server">
+    <!-- @TODO rename catalog.test.xml catalog.xml -->
+    <move file="${build.home}/data/catalog/catalog.xml" tofile="${build.home}/data/catalog/catalog.remote.xml" />
+    <move file="${build.home}/data/catalog/catalog.test.xml" tofile="${build.home}/data/catalog/catalog.xml" />
+    <echo message="Building sandbox references"/>
+  	<java classname="SandboxHelper" classpath="${bin.home}" output="${basedir}/sbhelper.log">
+  		<sysproperty key="sbFolder" value="${build.home}"/>
+  	</java>
+  	
+    <antcall target="create-sb-war"/>
+    <copy todir="${resin.home}/webapps" includeEmptyDirs="false">
+      <fileset dir="${dist.home}" />
+    </copy>
+  </target>	
+	
+  <target name="dist-remote-sandbox" depends="all" description="Build and Deploy Sandbox WAR to app server">
+    <!-- @TODO rename catalog.test.xml catalog.xml -->
+    <echo message="Building sandbox references"/>
+    <java classname="SandboxHelper" classpath="${bin.home}" output="${basedir}/sbhelper.log">
+      <sysproperty key="sbFolder" value="${build.home}"/>
+    </java>
+    
+    <antcall target="create-sb-war"/>
+    <copy todir="${resin.home}/webapps" includeEmptyDirs="false">
+      <fileset dir="${dist.home}" />
+    </copy>
+  </target> 
+	
+	
+	 <target name="create-sb-war">
+	    <mkdir dir="${dist.home}" />    
+	    <!-- Create WAR file -->
+	    <jar jarfile="${dist.home}/${app.name}sb.war" basedir="${build.home}" />
+	  </target>
+<!--	=============================================
+                    MAILER APPLICATION
+        =============================================	
+-->
+
+	<target name="mailer" depends="clean-mailer,compile-mailer"
+   description="Clean build and dist directories, then compile"/>
+	
+	<target name="clean-mailer"
+   description="Delete old build and dist directories">
+		<delete dir="${mailer.build.home}"/>
+		<delete dir="${dist.home}/mailer"/>
+		<delete dir="${docs.home}/mailer"/>
+	</target>
+	
+	<target name="prepare-mailer">
+	  <mkdir dir="${mailer.build.home}" />
+		<mkdir dir="${mailer.build.home}/WEB-INF" />
+		<mkdir dir="${mailer.build.home}/WEB-INF/lib" />
+		<mkdir dir="${mailer.build.home}/WEB-INF/classes" />
+		<mkdir dir="${mailer.build.home}/email" />
+		<!-- Copy static content of this web application -->
+		<copy todir="${mailer.build.home}" includeEmptyDirs="false">
+			<fileset dir="${jsp.home}">
+				<include name="index-mailer.jsp" />
+			</fileset>
+		</copy>		
+		
+		<!-- WEB-INF root configuration files -->
+		<copy todir="${mailer.build.home}/WEB-INF" includeEmptyDirs="false">
+			<!-- web.xml  -->
+			<fileset dir="${config.home}/mailer" />
+		</copy>
+
+		<!-- WEB-INF root configuration files -->
+		<copy todir="${mailer.build.home}/email" includeEmptyDirs="false">
+			<!-- web.xml  -->
+			<fileset dir="${basedir}/email" />
+		</copy>		
+		
+		<!-- Copy library files -->
+		<copy todir="${mailer.build.home}/WEB-INF/lib" includeEmptyDirs="false">
+			<fileset dir="${lib.home}">
+				<include name="mail.jar" />
+				<include name="activation.jar" />
+			</fileset>
+			<fileset dir="${lib.home}/struts" />
+		</copy>		
+	</target>
+
+	<target name="compile-mailer" depends="prepare-mailer" description="Compile Java sources">
+
+		<!-- Compile Java classes as necessary -->
+		<mkdir dir="${mailer.build.home}/WEB-INF/classes" />
+		<javac srcdir="${src.home}/java" destdir="${mailer.build.home}/WEB-INF/classes" debug="${compile.debug}" deprecation="${compile.deprecation}" optimize="${compile.optimize}">
+			<classpath refid="compile.classpath" />
+		</javac>
+
+		<!-- Copy application resources -->
+		<copy todir="${mailer.build.home}/WEB-INF/classes" includeEmptyDirs="false">
+			<fileset dir="${src.home}/java">
+				<patternset id="mailer-classes">
+					<include name="**/*.properties" />
+					<exclude name="**/*.java" />
+					<exclude name="**/*Test*" />
+					<exclude name="**/*jsp*" />
+				</patternset>
+			</fileset>
+		</copy>
+	</target>	
+
+	<target name="dist-mailer" depends="mailer" description="Create binary distribution">
+		<mkdir dir="${dist.home}/mailer" />
+		<!-- Create WAR file -->
+		<jar jarfile="${dist.home}/mailer/mailer.war" basedir="${mailer.build.home}" />
+	</target>	
+	
+	<target name="dist-local-mailer" depends="dist-mailer" description="Deploy WAR to app server">
+		<copy todir="${resin.home}/webapps" includeEmptyDirs="false">
+			<fileset dir="${dist.home}/mailer" />
+		</copy>
+	</target>	
+	
+	<target name="dist-local-gallery" description="build and deploy WAR to app server and copy gallery files">
+		<copy todir="${resin.home}/webapps/ifaru/gallery" includeEmptyDirs="false">
+			<fileset dir="${basedir}/../gallery" />
+		</copy>
+	</target>		
+</project>

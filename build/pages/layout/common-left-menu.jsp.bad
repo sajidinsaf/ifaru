@@ -1,0 +1,144 @@
+<%@ page language="java" %>
+<%@ taglib uri="/WEB-INF/struts-tiles.tld" prefix="tiles" %>
+<%@ taglib uri="http://displaytag.sf.net" prefix="display" %>
+<%@ taglib uri="/WEB-INF/struts-logic.tld" prefix="logic" %>
+<%@ taglib uri="/WEB-INF/taglibs-session.tld" prefix="session" %>
+<%@ taglib uri="/WEB-INF/struts-html.tld" prefix="html" %>
+<%@ taglib uri="/WEB-INF/struts-bean.tld" prefix="bean" %>
+<%@taglib uri="http://java.sun.com/jstl/core" prefix="c" %>
+
+    <div id="catmenu">  
+    <table>  
+    <tr id="cat">
+        <td id="cathome"><html:link forward="home">Home</html:link></td>
+    </tr>
+    <tr id="bat">
+        <td id="batshop"><html:link forward="catalog">Shop</html:link></td>
+    </tr> 
+    </table>     
+    </div>
+
+
+<%--
+<div id="catmenu">
+<div> 
+--%>
+<%-- set the value of the display style for the category and brand list depending upon whether 
+there was a brand search or category search or whether this is 
+some other mode of entry (first time, keyword search etc) into the page
+--%>
+<%--
+<logic:present name="categorySearch">
+  <bean:define id="catDisplay" value="block"/>
+</logic:present>
+
+<logic:notPresent name="categorySearch">
+  <bean:define id="catDisplay" value="none"/>
+</logic:notPresent>
+
+<logic:present name="brandSearch">
+  <bean:define id="brandDisplay" value="block"/>
+</logic:present>
+
+<logic:notPresent name="brandSearch">
+  <bean:define id="brandDisplay" value="none"/>
+</logic:notPresent>
+        
+        <a href="#" onclick="return showMenu('catMenuTable');"><span id="expCat">+</span></a>
+        <a href="#" onclick="return showMenu('catMenuTable');"><STRONG>Categories</STRONG></a>
+        <a id="catMenuTable" style="display:none" href="#">Fragrances</a>
+
+      <logic:present name="categories" scope="session">
+        <logic:notEmpty name="categories" property="topLevelCategories">
+          <bean:define id="topCats" name="categories" property="topLevelCategories"/>
+          <% int tCount=0; %>
+          <c:forEach var="element" items="${topCats}" varStatus="loop">    
+             <% 
+                String tId = "tCat"+ (++tCount); 
+             %>    --%>
+             <%-- Display the top level category --%><%--
+             <bean:define id="topCat" name="element" property="value"/>                  
+
+               <p id="catMenuTable" style="display:<bean:write name='catDisplay'/>">
+                 &nbsp;&nbsp;<a href="#" onclick="return showMenu('<%= tId %>');">+</a>
+                 <a href="<bean:write name='topCat' property='url'/>"><bean:write name="topCat" property="name"/></a>
+               </p> 
+          
+             <logic:notEmpty name="topCat" property="subCategories"> --%>
+             <%-- set the display value of the category the user is browsing --%><%--
+             <logic:present name="categorySearch">
+               <bean:define id="catSearch" name="categorySearch" scope="session" />
+             </logic:present>
+             <logic:notPresent name="categorySearch">
+               <bean:define id="catSearch" value="none" />
+             </logic:notPresent>
+
+               <c:if test="${catSearch == topCat.name}">         
+                 <c:set var="subCatDisplay" value="block"/>
+               </c:if>
+               
+               <c:if test="${catSearch != topCat.name}">      
+                 <c:set var="subCatDisplay" value="none"/>
+               </c:if>
+
+               <bean:define id="subCats" name="topCat" property="subCategories"/>
+               
+               <p id="<%=tId%>" style="display:<c:out value='${subCatDisplay}'/>">
+               <c:forEach var="subElement" items="${subCats}" varStatus="subLoop">  
+                 
+                 <bean:define id="subCat" name="subElement" property="value"/>   --%>          
+                 <%-- check if we need to makethis table visible by comparing the search keyword to the sub category name --%>
+ <%--                <c:if test="${catSearch == subCat.name}">  
+                   <script language="javascript">       
+                     showMenu('<%= tId %>');
+                   </script>
+                 </c:if>
+                   &nbsp;&nbsp;&nbsp;<a href="<bean:write name='subCat' property='url'/>"><bean:write name="subCat" property="name"/></a>
+                <br>
+               </c:forEach>
+                 </p>
+               
+             </logic:notEmpty>
+  
+          </c:forEach>
+        </logic:notEmpty>
+      </logic:present> 
+
+    </div>
+  </div>
+
+   <br> 
+    <div id="brandmenu">
+       <a href="#" onclick="return showMenu('brandMenuTable');"><span id="expCat">+</span></a>
+       <a href="#" onclick="return showMenu('brandMenuTable');"><STRONG>Brands</STRONG></a>
+     <table id="brandMenuTable" style="display:<bean:write name='brandDisplay'/>">          
+        <logic:present name="brands" scope="session">
+          <logic:notEmpty name="brands">
+            <bean:define id="brands" name="brands"/>
+            <c:forEach var="element" items="${brands}" varStatus="loop">
+              <bean:define id="brand" name="element" property="value"/>                           
+               <tr>
+                 <td>
+                   &nbsp;<a href="<bean:write name='brand' property='url'/>"><bean:write name="brand" property="name"/></a>
+                 </td>
+               </tr>
+            </c:forEach>
+          </logic:notEmpty>
+        </logic:present>     
+      </table>
+    </div>
+    <br>
+    <div id="searchbar">
+--%>
+      <%-- create the keyword search box --%><%--
+      <html:form action="/catalog/KeywordSearch">
+        <input type="text" name="text" length="15"/><br/><html:submit styleClass="SearchButton" property="Search">Search</html:submit>     
+      </html:form>
+    </div>
+<br><br><br>
+    <div id="onebay">
+            <a border="0" href="http://stores.ebay.co.uk/ifaru"><img border="0" src="/ifaru/images/pages/layout/tn_logoEbay_x45.gif" alt="eBay.co.uk"/></a>
+    </div>
+    
+    --%>
+    

@@ -1,0 +1,59 @@
+<HTML><HEAD><TITLE>Edit - <%=txtName%></TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+
+<LINK href="/ifaru/Common.css" rel=stylesheet>
+
+<META content="MSHTML 5.50.4134.100" name=GENERATOR></HEAD>
+<BODY bgColor=#ffffff leftMargin=0 topMargin=0 marginwidth="0" marginheight="0" onLoad="">
+<%@include file='incToolbar.jsp'%>
+<TABLE align=center width=759 cellspacing=0 cellpadding=0>
+	<TR>
+		<TD align=left valign=top width=100%>
+		
+			<TABLE cellpadding=15 cellspacing=0 border=0 width=100%>
+				<TR>
+					<TD>
+					
+					<!---------   Data Area ------------>
+					
+						Preferences Admin - <%=website.shopName%><BR>
+					
+						<TABLE class='Data' width=100% cellspacing=1 >
+							<TR>
+								<TH>Field</TH>
+								<TH>Value</TH>
+							</TR>
+							<FORM action="Edit.jsp" method="POST">
+							<input type=hidden name="txtName" value="<%=txtName%>">
+							<%
+								Vector members = prefpage.getMembers();
+								Enumeration enum = members.elements();
+								while(enum.hasMoreElements())
+								{
+									String name = (String)enum.nextElement();
+							%>
+									<TR>
+										<TD valign><STRONG><%=name%></STRONG></TD>
+										<TD><textarea cols=40 rows=5 name='<%=name%>'><%=prefpage.getMemberValue(name)%></textarea></TD>
+									</TR>
+							<%
+								}
+							%>
+							<TR>
+								<TD><input type=submit value='Save'></TD>
+								<TD></TD>
+							</TR>
+							</FORM>
+						</TABLE>
+						
+					<!---------   End of Data Area ------------>
+					
+					</TD>
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+</TABLE>
+
+</BODY>
+</HTML>

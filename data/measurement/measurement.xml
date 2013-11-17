@@ -1,0 +1,16 @@
+<ifaru>
+  <measurementunits>
+    <measurementunit id="100" name="millilitres"/>
+    <measurementunit id="200" name="millimeters"/>
+    <measurementunit id="201" name="centimeters""/>  
+    <measurementunit id="300" name="grams"/>
+    <measurementunit id="301" name="kilograms""/>      
+  </measurementunits>
+  
+  <shippingsizes>
+    <shippingsize>
+      <weight weight="" mesurementUnitId=""/>
+      <physicalsize standingHeight="" standingHeightMUId="" standingWidth="" standingWidthMUId="" standingDepth="" standingDepthMUId="" />
+    <shippingsize>
+  </shippingsizes>
+</ifaru>

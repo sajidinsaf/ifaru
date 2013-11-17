@@ -1,0 +1,122 @@
+<HTML><HEAD>
+<TITLE>Modify Status of Orders of <%=website.shopName%></TITLE>
+<LINK href="/ifaru/Common.css" rel=stylesheet>
+<BODY bgColor=#ffffff leftMargin=0 topMargin=0 marginwidth="0" marginheight="0" onLoad="">
+<%@include file='incToolbar.jsp'%>
+<TABLE align=center width=759 cellspacing=0 cellpadding=0>
+	<TR>
+		<TD align=left valign=top>
+		
+		
+			<TABLE width=100% cellpadding=10>
+				<TR>
+					<TD>
+							<!---------   Data Area ------------>
+
+						<TABLE width=100% cellpadding=2 cellspacing=1 class=Data>
+							<FORM action="EditTracking.jsp" method="POST" name="OrdersForm">
+							
+							<input type=hidden name=nStart value='<%=nStart%>'>
+							<input type=hidden name=nSize value='<%=nSize%>'>
+							<input type=hidden name=nOrderState value='<%=nOrderState%>'>
+							<input type=hidden name=nEnd_Day value='<%=nEnd_Day%>'>
+							<input type=hidden name=nEnd_Month value='<%=nEnd_Month%>'>
+							<input type=hidden name=nEnd_Year value='<%=nEnd_Year%>'>
+							<input type=hidden name=nStart_Day value='<%=nStart_Day%>'>
+							<input type=hidden name=nStart_Month value='<%=nStart_Month%>'>
+							<input type=hidden name=nStart_Year value='<%=nStart_Year%>'>
+							
+							<TR>
+								<TH colspan=5>Modify Following Order Details</TH>
+							</TR>
+							<TR>
+								<TH>ID</TH>
+								<TH>Date</TH>
+								<TH>Amount</TH>
+								<TH>Tracking</TH>
+								<TH>Service</TH>
+							</TR>
+							<%
+								Enumeration enum = pageorders.elements();
+								while(enum.hasMoreElements())
+								{
+									Order order = (Order) enum.nextElement();
+									com.ifaru.util.Date date = new com.ifaru.util.Date(order.tsDate);
+							%>
+							
+								<input type=hidden name='Order_nID' value='<%=order.nID%>'>
+								
+							<TR>
+								<TD><%=order.nID%></TD>
+								<TD><%=date.getShortDate()%></TD>
+								<TD><%=website.format(order.dblGrandTotal)%> GBP</TD>
+								<TD rowspan=2>
+									<TEXTAREA name='Order_txtTracking' cols=30 rows=3><%=order.txtTracking==null?"":order.txtTracking%></TEXTAREA>
+								</TD>
+								<TD rowspan=2>
+									Service :	<SELECT name="Order_txtTrackingCompanyID">
+												<%=website.shippingcompanies.txtDropDownOptions%>
+												</SELECT><BR>
+								</TD>
+							</TR>
+							<TR>
+								<TD colspan=3>
+									<SELECT name='Order_nOrderState'>
+										<OPTION Value='0'>Payment Pending</OPTION>
+										<OPTION Value='1'>Payment Awaited from CreditCard Processor</OPTION>
+										<OPTION Value='2'>Credit Card Authorization Failed</OPTION>
+										<OPTION Value='3'>Order Under Processing</OPTION>
+										<OPTION Value='4'>Order Processed & Shipped</OPTION>
+										<OPTION Value='7'>Order Processed & Tracking Updated</OPTION>
+										<OPTION Value='5'>Order Rejected</OPTION>
+									</SELECT>
+								</TD>
+							</TR>
+							<TR>
+								<TD colspan=5><hr size=1 color=black></TD>
+							</TR>
+							<%
+								}
+							%>
+							<TR>
+								<TD colspan=5>
+									<INPUT type=submit value='Save'>
+								</TD>
+							</TR>
+						</TABLE>
+						</FORM>
+					</TD>
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+</TABLE>
+<SCRIPT LANGUAGE=javascript>
+<!--
+
+
+	<%
+	if(pageorders.size()==1)
+	{
+		Order order = (Order)pageorders.elementAt(0);
+	%>
+	document.OrdersForm.Order_nOrderState.value = <%=order.nOrderState%>
+	<%
+	}
+	else
+	{
+		int i=0;
+		enum = pageorders.elements();
+		while(enum.hasMoreElements())
+		{
+			Order order = (Order) enum.nextElement();
+	%>
+	
+	document.OrdersForm.Order_nOrderState[<%=i++%>].value = <%=order.nOrderState%>
+	<%	}
+	}
+	%>
+//-->
+</SCRIPT>
+</body>
+</html>

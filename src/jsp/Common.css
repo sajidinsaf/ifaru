@@ -1,0 +1,518 @@
+  .CatalogTable
+  {
+    FONT-SIZE: 12px;
+    FONT-WEIGHT: normal;
+    FONT-FAMILY: Arial;    
+    COLOR: black;
+    VALIGN: TOP;
+    TEXT-ALIGN: LEFT;
+  }
+  
+  .CatalogTableHeader
+  {
+    FONT-SIZE: 12px;
+    FONT-WEIGHT: normal;
+    COLOR: black;
+    BACKGROUND-COLOR: CCCC99;
+    TEXT-ALIGN: CENTER;
+    padding: 4px 3px 4px 3px;
+  }
+  
+  .LeftMenuLink
+  {
+    FONT-SIZE: 12px;
+    FONT-WEIGHT: normal;
+    font-family: lucida calligraphy, Times New Roman, Verdana, Arial;
+    COLOR: #333333;
+    VALIGN: TOP;
+    TEXT-ALIGN: LEFT;
+    font-style:none;
+  }
+  
+  
+  .AddToCartButton
+  {
+    border: thin solid gold;
+    padding: 2px 2px 2px 2px;  
+    FONT-WEIGHT: normal;
+    FONT-SIZE: xx-small;
+    cursor: pointer; /* hand-shaped cursor */
+    cursor: hand; /* for IE 5.x */    
+    COLOR: #ffffff;
+    BACKGROUND-COLOR: CC3300;
+    TEXT-DECORATION: none;
+  }
+  
+  .SearchButton
+  {
+    BORDER-LEFT: medium none;
+    CURSOR: hand;
+    COLOR: #ffffff;
+    border: thin solid gold;
+    padding: 2px 2px 2px 2px;  
+    BACKGROUND-COLOR: #FF9933;
+    TEXT-DECORATION: none;
+    font-family: lucida calligraphy, Times New Roman, Verdana, Arial;
+    font-weight:bold; 
+    font-size:12px;   
+  }
+
+  .CartButton
+  {
+    FONT-WEIGHT: bold;
+    FONT-SIZE: xx-small;
+    BORDER-LEFT: medium none;
+    CURSOR: hand;
+    COLOR: #ffffff;
+    border: thin solid gold;
+    padding: 1px 1px 1px 1px;  
+    BACKGROUND-COLOR: brown;
+    TEXT-DECORATION: none;
+    margin: 1;    
+  }
+  
+  .CheckoutButton
+  {
+    FONT-WEIGHT: bold;
+    FONT-SIZE: medium;
+    BORDER-LEFT: medium none;
+    CURSOR: hand;
+    COLOR: #ffffff;
+    border: thin solid gold;
+    padding: 1px 1px 1px 1px;  
+    BACKGROUND-COLOR: brown;
+    TEXT-DECORATION: none;
+    margin: 1;    
+  }
+
+  .ContinueShoppingButton
+  {
+    FONT-WEIGHT: bold;
+    FONT-SIZE: medium;
+    BORDER-LEFT: medium none;
+    CURSOR: hand;
+    COLOR: #ffffff;
+    border: thin solid gold;
+    padding: 1px 1px 1px 1px;  
+    BACKGROUND-COLOR: blue;
+    TEXT-DECORATION: none;
+    margin: 1;    
+  }
+
+  .LoginButton
+  {
+    FONT-WEIGHT: normal;
+    FONT-SIZE: xx-small;
+    CURSOR: hand;    
+    COLOR: #ffffff;
+    border: thin solid gold;
+    padding: 1px 1px 1px 1px;     
+    BACKGROUND-COLOR: blue;
+    TEXT-ALIGN: CENTER;
+    margin: 1;    
+  }
+
+  .CommonServicesButton
+  {
+      BORDER-RIGHT: medium none;
+      BORDER-TOP: medium none;
+      FONT-WEIGHT: bold;
+      FONT-SIZE: x-small;
+      BORDER-LEFT: medium none;
+      CURSOR: hand;
+      COLOR: #ffffff;
+      border: thin solid gold;
+      padding: 2px 2px 2px 2px;    
+      BACKGROUND-COLOR: #254117;
+      TEXT-DECORATION: none;
+  }
+
+  #BrandingLocation {
+    float:left;
+  }
+
+  #NavigationLocation {
+     top: 0%;
+     font-weight: normal;
+     position: absolute;
+     left: 42%;
+     right: 30%;
+     background-image: none;
+     background-color: FFFFFF;
+     height: 4%;
+     width: 30%;
+     text-indent: 0em;
+     margin: 1px;
+     padding-top: 3px;
+     padding-left: 2px;
+     padding-right: 2px;   
+     padding-bottom: 3px;
+     text-align: center;
+     border: none;   
+  }
+
+  div#box {   
+   position: absolute;
+   left: 8px;
+   top: 21%;
+   width: 17%;
+   padding: 5px 5px 5px 5px;   
+   margin:0 auto;
+   text-align:center;
+   background: url(/ifaru/images/pages/layout/sidebarback-interlaced.png) repeat-x 0 -5px;
+  }
+  
+  
+  div#catmenu {
+   margin-top: 30px;
+   width: 80%;
+   padding: 5px 5px 5px 1px;   
+   font-family: lucida calligraphy, Times New Roman, Verdana, Arial;   
+   text-align:left;
+   font-size: 10pt;
+   font-style:italic;   
+   background: url(/ifaru/images/pages/layout/categoryback-interlaced.png) repeat-x;
+  }
+  
+  tr#cat,tr#cat td{list-style-type:none;margin:0;padding:0}
+  tr#cat td{float:left;margin-right: 3px;text-align: center}
+  tr#cat a{float:left;font-family: Verdana, Arial, courier new; font-weight:bold; font-size:12px;width: 60px;padding: 5px 0;text-decoration:none;color: black}
+  td#cathome a{background: #DCF1B9;color:grey}
+  tr#bat,tr#cat td{list-style-type:none;margin:0;padding:0}
+  tr#bat td{float:left;margin-right: 3px;text-align: center}
+  tr#bat a{float:left;font-family: Verdana, Arial, courier new; font-weight:bold; font-size:12px;width: 60px;padding: 5px 0;text-decoration:none;color: black}
+  td#batshop a{background: #F2E2BB}
+  div#catmenu tr{float:left}
+
+  div#brandmenu {   
+
+   margin-top: 30px;
+   width: 80%;
+   padding: 5px 5px 5px 1px;   
+   margin:0 auto;
+   text-align:left;
+   font-family: lucida calligraphy, Times New Roman, Verdana, Arial;
+   font-size: 10pt;
+   font-style:italic;   
+   background: url(/ifaru/images/pages/layout/brandback-interlaced.png) repeat-x 0 -5px;
+  }
+     
+  div#searchbar {   
+
+   width: 80%;
+   padding: 1px 1px 1px 1px;   
+   margin:0 auto;
+   text-align:left;
+   font-family: lucida calligraphy, Times New Roman, Verdana, Arial;
+   font-size: 10pt;
+   font-style:italic;   
+   background: url(/ifaru/images/pages/layout/keywordback-interlaced.png) repeat-x 0 -5px;
+  }
+  
+  div#onebay {   
+   width: 100%;
+   padding: 5px 5px 5px 1px;   
+   margin:0 auto;
+   text-align:center;
+   font-family: lucida calligraphy, Times New Roman, Verdana, Arial;
+   font-size: 10pt;
+   font-style:italic;   
+   background: none;
+  }  
+  
+  div#chequebox { 
+    text-align:left;
+    padding:2px 15px 3px 50px;
+    height:75%;
+    width:70%;
+    
+    border:thin solid gold;
+  }
+
+  div#chequeconfirmbox 
+  { 
+    text-align:left;
+    margin-left:8%;
+    margin-top:5%;
+    padding:2px 15px 3px 20px;
+    height:40%;
+    width:80%;
+    border:thin solid gold;
+  }
+
+  div#menu
+  {
+    position:absolute;float:left;width:35%;height:4%;margin-left:42%;right:23%;padding-top:5px;
+  }
+  tr#nav,tr#nav td{list-style-type:none;margin:0;padding:0}
+  tr#nav td{float:left;margin-right: 3px;text-align: center}
+  tr#nav a{float:left;font-family: lucida calligraphy, Times New Roman, Verdana, Arial; font-weight:bold; font-size:15px;font-style:normal;width: 60px;padding: 5 2px;text-decoration:none;color: #333333}
+  tr#nav a:hover{background: #FF9933;color: #FFF}
+  tr#nav td.activelink a{background: #000000}
+  tr#nav td.activelink a,b a:hover{color: black;font-weight:bold}  
+  td#home a{background: #DCF1B9}
+  td#shop a{background: #DCF1B9}
+  td#trade a{background: #DCF1B9}
+  td#about a{background: #DCF1B9}
+  td#contact a{background: #DCF1B9; border: thin solid #DCF1B9
+ }
+  
+  
+  #ContentHeaderLocation {
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: 0.9em;
+     top: 8%;
+     position: absolute;   
+     left: 15%;
+     right: 10%;   
+     height: 10%;
+     width: 75%;
+  }
+
+  #ContentBodyLocation {
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     FONT-WEIGHT: normal;
+     FONT-SIZE: x-small;
+     top: 14%;
+     position: relative;   
+     left: 19%;   
+     height: 90%;
+     width: 79%;
+     text-align: center;   
+     padding: 0px 0px 0px 7px;
+  }
+  
+  div#FooterLocation {
+     position:relative;
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: 10px;  
+     clear: left; 
+     float:left; 
+     height: 2%;
+     width: 100%;
+     background: #ccc;
+  }
+
+  #LeftMenuLocation {
+     font-size: xx-small;
+     color: blue;
+     position: absolute;
+     left: 0%;
+     top: 21%;
+     overflow: visible;
+     width: 15%;
+     height: 79%;
+     font-weight: normal;
+     background-image: none;
+     background-color: FFFF99;
+     text-align: left;
+     text-indent: 0px;
+     padding: 5px 5px 5px 2px;
+     margin-top: 0px;
+     margin-right: 0px;
+     margin-bottom: 0px;
+     margin-left: 5px;   
+     border: thin solid lightgrey;
+  }
+
+  #AltServiceLocation {
+     font-family: "courier New", Courier, mono;
+     font-size: 1.0em;
+     position: absolute;
+     left: 95%;
+     right:1%;
+     top: 20%;
+     width: 4%;
+     font-weight: normal;
+     background-image: none;
+     background-colour: #66FF99;
+     text-align: left;
+     text-indent: 2px;
+     padding: 5px 0px 0px 2px;
+     margin-top: 0px;
+     margin-right: 0px;
+     margin-bottom: 0px;
+  }
+
+
+  .CartTable {
+    width:70%;
+    border: thin solid #888888;
+    FONT-SIZE: 12px;
+    FONT-WEIGHT: normal;
+    FONT-FAMILY: Arial;   
+    VALIGN=CENTER;  
+    background:#FFFFFF;
+  }
+
+  .CartTableHeader {
+    background-color: FFFFFFF;
+    font-family: Arial; 
+    font-size: 14px;
+    color:#555555;  
+  }
+
+  .ContinueShoppingHeader {
+    background-color: 9966FF;
+    font-family: Arial; 
+    font-size: 14px;
+    color:FFFFFF;  
+    padding-top: 7px;
+    padding-bottom: 0px;
+  }
+
+  .CartSummaryRow {
+    background-color: FFFFCC;
+    font-family: Arial; 
+    font-size: 12px;
+  
+  }
+
+  .EmptyListMessage {
+    background-color: FFFF99;
+    font-family: Arial; 
+    font-size: 12px;
+  }
+
+  .AlphabeticLinks {
+    background-color: FFFF99;
+    font-family: Arial; 
+    font-size: 12px;
+    border: thin solid 990000;     
+  }
+
+
+  .HeaderLink {
+    background-color: FFFFFF;
+    font-family: Arial; 
+    font-size: 12px;
+    font-weight: bold;
+    font-effect: emboss;
+    border: thin solid 990000;   
+  }
+
+.NavigationImage {
+   height:11px;
+   width:11px; 
+}
+
+ #CheckPaypentProcessUL {
+   text-align:left;
+   margin-left:10%;
+   width:75%;    
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    line-height: 2em;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: #lightgrey;
+    text-decoration: none;
+    background-color: #CCCCCC;
+    text-indent: 5px;
+    list-style-position: inside;
+    list-style-image: url(arrow.gif);
+    list-style-type: square;
+    padding: 6px;
+ }
+ 
+ #ChequePaymentDialogue {
+   text-align:left;
+   font-family: Arial; 
+   font-size: 12px;
+   margin-left:10%;
+   width:60%;   
+ }
+ 
+ #ChequePaymentHR {
+  color: #f00;
+  background-color: #f00;
+  height: 5px;
+  width: 100%;   
+ }
+ 
+ body {
+   padding: 0px;
+   background: #707883;
+   color: #222;
+   text-align: center;
+   font: 85% "Trebuchet MS",Arial,sans-serif
+ }   
+  
+  div#container{
+    width:100% !important; 
+    width /**/:100%
+    margin: 0 auto;
+    padding:2px;
+    text-align:left;
+    background:#DCF1B9;
+  }
+  
+  div#header {
+    background: #DCF1B9;
+    text-align:left;
+    margin-bottom:5px;   
+  }
+ 
+  div#navigation {
+    width:158px;
+    background: #FFFFFF;
+    float: left;
+    padding: 4 0 4 0; 
+  }
+
+  #userlocation {
+     text-align:right; 
+     padding-left:265px;  
+  }
+
+  div#content { 
+    padding:2px; 
+    --margin-left: 163px;
+    --margin-right:155px;    
+    background: #FFFFFF;      
+  }
+    
+  #topmenu {
+    --padding-left: 275px;   
+  }    
+    
+  #rightbar {
+    margin-left:5px; 
+    width:150px;     
+    float: right;
+    text-align:center;
+    background: #FFFFFF;       
+  }
+    
+  #footer {
+    margin-top: 30px;
+    clear: left;
+    margin-left: 170px;
+    text-align:center;
+  }
+       
+  #footer p {
+    margin: 0;
+  }
+    
+  #offers {
+    margin-top:25px;
+    align:center;
+    width:120px;
+    height:600px;   
+  }
+     
+  .sitemapFont {  
+    font-family:Arial, Verdana;
+    font-size:10px;
+  }
+  
+  .rightbaritem {
+    font-size:12px;
+    font-family:Arial, Courier New, Times New Roman;   
+  }
+
+  a{color:#664499}
+  a:hover{color: #FF7711}   

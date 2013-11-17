@@ -1,0 +1,55 @@
+<HTML>
+<HEAD>
+<TITLE><%=title%></TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+
+<LINK href="/ifaru/Common.css" rel=stylesheet>
+
+<META content="MSHTML 5.50.4134.100" name=GENERATOR></HEAD>
+<BODY bgColor=#ffffff leftMargin=0 topMargin=0 marginwidth="0" marginheight="0" onLoad="">
+<%@include file='incToolbar.jsp'%>
+<TABLE align=center width=759 cellspacing=0 cellpadding=0>
+	<TR>
+		<TD align=left valign=top>
+		
+			<TABLE cellpadding=15 cellspacing=0 border=0>
+				<TR>
+					<FORM action='<%=action%>' method=post name='EditForm'>
+					<input type=hidden name='nStart' value="<%=nStart%>">
+					<input type=hidden name='nSize' value="<%=nSize%>">
+					<TD>
+					
+					<!---------   Data Area ------------>
+					<TABLE border=0 class=Data cellspacing=1 >
+						<TR>
+							<TH colspan=2>Enter details of ShippingCompany</TH>
+						</TR>
+								<INPUT TYPE=HIDDEN name='nID' value='<%=object.nID%>'>
+							<TR>
+								<TD>Name</TD>
+								<TD><INPUT TYPE=TEXT name='txtName' value='<%=object.txtName%>'></TD>
+							</TR>
+							<TR>
+								<TD>URL</TD>
+								<TD><INPUT TYPE=TEXT name='txtURL' value='<%=object.txtURL%>'></TD>
+							</TR>
+							<TR>
+								<TD>Tracking URL</TD>
+								<TD><INPUT TYPE=TEXT name='txtTrackingURL' value='<%=object.txtTrackingURL%>'></TD>
+							</TR>
+
+						<TR>
+							<TD colspan=2><INPUT TYPE=Submit name='Submit' Value='Submit'></TD>
+						</TR>
+					</TABLE>
+					<!---------   End of Data Area ------------>
+					
+					</TD>
+					</FORM>
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+</TABLE>
+</BODY>
+</HTML>

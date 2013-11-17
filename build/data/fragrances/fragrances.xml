@@ -1,0 +1,468 @@
+<fragrances>
+    <fragrance name="Tommy Girl" gender="female" category="Designer Alternative" businessPriority="0"> 
+      <grade id="0" name="Tommy Girl" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />  
+      <information>
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="TOMMY GIRL is classified as a refreshing, flowery fragrance. This feminine scent possesses a blend of a refreshing and energetic floral, with low notes of sandalwood and heather."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Family: Fresh/Floral"/>    
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Top Notes: Black currant bud, apple, tangerine, mandarin, and spearmint."/>        
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Heart Notes: In the middle, heather, honeysuckle, violet, rose, magnolia, jasmine and lily."/>  
+          <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Base Notes: Sandalwood and Cedarwood."/> 
+           <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="The following notes are combined to create this fresh floral perfume."/>
+           <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="It is recommended for daytime wear."/>          
+      </information>
+      <image src="/ifaru/images/perfumes/212.jpg" thumbnail="/ifaru/images/perfumes/212_s.jpg"/>
+    </fragrance>
+     
+    <fragrance name="Desire - Dunhill" gender="Male" category="Designer Alternative" businessPriority="0"> 
+      <grade id="0" name="Desire - Dunhill" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />  
+      <information>
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Dunhill Desire for men is powerful and bold, this lustful fragrance is fresh and sensual. A refreshing, oriental and woody fragrance. This masculine scent possesses a blend of warm and sensual blend of fruits and wood, with low notes of vanilla and musk."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Family: : Woody, Ambry."/> 
+          <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Style: Sexy."/>   
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Top Notes: Lime, Neroli, Apple, Bergamot."/>             <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Heart Notes: Patchouli, Rose, Teak."/>  
+          <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Base Notes: Vanilla, Musk, Labdanum."/> 
+           <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Become the object of Desire with this scent of seduction."/>
+           <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="It is recommended for romantic wear."/>          
+      </information>
+      <image src="/ifaru/images/perfumes/lomaniblue.jpg" thumbnail="/ifaru/images/perfumes/lomaniblue_s.jpg"/>
+    </fragrance>
+          
+<fragrance name="Boss - hugo" gender="Male" category="Designer Alternative" businessPriority="0"> 
+      <grade id="0" name="Boss hugo" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />     
+      <information>
+       <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Boss is Clean, Fresh, Woody. It is a multifaceted fragrance that combines a cool fresh sparkle of fruit with a warm sensuous undertone."/> 
+       <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Its fragrant nature explores essences of, apples and cinnamom. Blended with notes of clove, tagete and sandalwood.It has a clean and fresh top note which evolves into a warm, woody and sensual drydown."/> 
+        <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Family: Fresh, Green "/> 
+        <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Top Notes Apple, Bergamot, Cinnamon."/> 
+        <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Heart Notes: Geranium Leaves, Cloves, Cedarwood, Tagete. "/> 
+        <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Base Notes: Sandalwood, Cedarwood, Vetiver, Olivewood."/>          <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="An unmistakeable masculine scent for the man who redefines success, selfconfident and sensuous."/>   
+        <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Recommend Use: All Seasons."/>     
+       </information>
+       <image src="/ifaru/images/perfumes/coolwater.jpg" thumbnail="/ifaru/images/perfumes/coolwater_s.jpg"/>
+    </fragrance>
+        
+    <fragrance name="Acqua di Gio" gender="Male" category="Designer Alternative" businessPriority="0"> 
+      <grade id="0" name="Acqua di Gio" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />  
+      <information>
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Acqua di Gio for men is a light fresh modern clean scent that combines citrus notes, rosemary spiciness, jasmine, hint of wood and ocean breeze."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="It has some of the freshest aquatic notes with no notes of citrus. Simple, light, refreshing, long lasting."/> 
+           <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Family: Aromatic."/> 
+           <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Top Notes: Jasmine, Rosemary, Hespiradic Notes."/>  
+          <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Heart Notes: Persimmon Fruits, Marine Notes."/>
+          <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Base Notes: Cedar, Patchouli, White Musk, Rock Rose."/> 
+           <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Become the object of Desire with this scent of seduction."/>
+           <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="A Balanced Blend of Essential Oils That Gives A Luxurious Fragrance Experience.  It Captures The Essence Of Freedom, Inspired By a Mediterranean Island Refuge.  Enfold With Fresh Mingling Of Sea, Sun, and Earth In a Unique Fragrance Infused With Freshness, Purity and Vitality."/>
+          <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="It is recommended for All Seasons."/>      
+           <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Named BEST MEN'S FRAGRANCE  In Several Well Known Magazines, Such as Allure's 'Best Of Beauty' October 2006 Issue."/>     
+      </information>
+      <image src="/ifaru/images/perfumes/rose.jpg" thumbnail="/ifaru/images/perfumes/rose_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="212 - Carolina Herrera" gender="Male" category="Designer Alternative" businessPriority="0"> 
+      <grade id="0" name="212 - Carolina Herrera (Men)" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />  
+      <information>
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="212 for men is a refreshing, flowery fragrance possessing a blend of a floral, yet totally masculine tones . This sexy, spontaneous scent includes notes of citrus, musk and woods."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Family: Fresh"/>        
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Top Notes: Citrus Leaves, Cut Green Grass, Spice Leaves."/>     
+          <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Heart Notes: Grapefruit, Ginger, Mandarin, Green Pepper, Gardenia."/>        
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Base Notes: Sandalwood, Guaiac Wood, Insence, Transparent Musk."/>     
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="It  has a subtle, sensual and easy-to-wear fragrance with the personality of New York City."/>        
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="It is recommended for All Seasons."/>            
+      </information>
+      <image src="/ifaru/images/perfumes/212.jpg" thumbnail="/ifaru/images/perfumes/212_s.jpg"/>
+   </fragrance>
+      
+    <fragrance name="Lacoste - Red" gender="Male" category="Designer Alternative" businessPriority="0"> 
+      <grade id="0" name="Lacoste - Red" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />  
+      <information>
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="A fresh, masculine, playful scent Freshness of green apples and subtle floral accents are balanced with the ice of frozen Thuja and icy woods. Light and delicate oriental touches of Jasmine are interlaced with the spicy depth of cedarwood."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Mysterious patchouli toys with the masculine intoxication of exotic vetyver to explore a man's brooding sensuality."/>
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Family:Fresh, floral and woody"/>        
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Top Notes: Manzana Verde, Fresh Notes, Green Notes."/>     
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Heart Notes: Jasmine, Cedar Leaf."/>        
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Base Notes: Precious Woods, White Musk, Patchouli."/>            
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="A fragrance inspired by the contrasts of purity and intoxication. The pure bitter and icy facets contrast the enticing and addictive qualities of Manzana Verde and precious wood notes."/>        
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="It is Recommended for Everyday."/>            
+      </information>
+      <image src="/ifaru/images/perfumes/lomaniblue.jpg" thumbnail="/ifaru/images/perfumes/lomaniblue_s.jpg"/>
+    </fragrance>
+
+    <fragrance name="Pleasure - Estee lauder" gender="female" category="Designer Alternative" businessPriority="0"> 
+      <grade id="0" name="Pleasure - Estee lauder" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />  
+      <information>
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Pleasures is classified as a refreshing, flowery fragrance. With this feminine scent one can feel the sheer flowering, the shimmering translucency notes of White Lily, Black Lilac, White Peony and Violet Leaves. Accompanied by a hint of sandalwood."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Family: Powdery - Sheer - Floral."/>        
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Top Notes: White Lilies, Fresh Violet Leaves, Green Accord."/>     
+          <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Heart Notes: Black Lilies, White Peony, Pink Roses, Jasmine, Karo Karounde blossoms, Baie Rose."/>        
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Base Notes: Sandalwood, Patchouli."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Spirited, yet elegant. Fresh, yet softly sensual. It surrounds the woman who wears it with a soft, romantic shimmer."/>       
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="It is Recommended for Everyday."/>            
+      </information>
+      <image src="/ifaru/images/perfumes/chastity.jpg" thumbnail="/ifaru/images/perfumes/chastity_s.jpg"/>
+    </fragrance>
+   
+    <fragrance name="cK - One" gender="Unisex" category="Designer Alternative" businessPriority="0"> 
+      <grade id="0" name="cK - One" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />  
+      <information>
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="cK One is a naturally clean, pure, and contemporary fragrance with a refreshingly new point of view. This light, relaxed scent is meant to be used lavishly. It can literally be splashed all over the body. It is an intimate fragrance, one that you need to be near to smell."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Family: Fresh - Sexy."/>        
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Top Notes: Bergamot, Cardamom, Fresh Pineapple, Papaya., Green tree accord."/>     
+          <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Heart Notes: Hedione High Cis (derived from Jasmine), Violet, Rose, Nutmeg, Green tree accord."/>        
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Base Notes: Musk, Amber, Green tree accord."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="cK One reflects the three basic elements: Individuality - the freedom everyone is looking for; Unity - speaks to a diverse group who share this attitude; Sexuality - a subtle, honest version of sexiness."/>       
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="It is Recommended for all occassions."/>            
+      </information>
+      <image src="/ifaru/images/perfumes/blackmusk.jpg" thumbnail="/ifaru/images/perfumes/blackmusk_s.jpg"/>
+    </fragrance>
+   
+    <fragrance name="Poison - Christian Dior" gender="Female" category="Designer Alternative" businessPriority="0"> 
+      <grade id="0" name="Poison - Christian Dior" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />  
+      <information>
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Poison is the revolutionary fragrance that originated the legend of seduction."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="POISON is classified as a luxurious, oriental, floral fragrance. This feminine scent possesses a blend of amber,honey, berries, and other spices."/>         
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="A myth since its creation, the mysteriousness of this fragrance asserts daring and fatal seduction. This really is an invitation too tempting to resist."/>
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Family: Floral - Ambery."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Top Notes: Coriander, plum, pimento, anise, rosewood."/>     
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Heart Notes: Rose, tuberose, orange blossom, honey, cinnamon, wild berries, cistus labdanum, carnation, jasmine."/>        
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Base Notes: Sandalwood, cedarwood, vetiver, musk, vanilla, heliotrope, opopanax..."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="This concentrated oil perfume fragrance is for women daring and provocative, enigmatic and mysterious, dazzling with its spicy heart notes."/>         
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="A rich, opulent scent, ideal for cold winters and hot, hot evenings."/> 
+        <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="It is recommended for romanticwear."/>            
+      </information>
+      <image src="/ifaru/images/perfumes/jasmine.jpg" thumbnail="/ifaru/images/perfumes/jasmine_s.jpg"/>
+    </fragrance>
+   
+    <fragrance name="Rush - Gucci" gender="Female" category="Designer Alternative" businessPriority="0"> 
+      <grade id="0" name="Rush - Gucci" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />  
+      <information>
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Our interpretation of the Gucci favourite is a sharp, oriental, woody fragrance blended with floral gardenia, coriander seeds, jasmine, rose, and vanilla."/> 
+          <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="The bottle, which houses this oriental scent is wonderfully fragrant, rich, mysterious, pure and exotic concentrated oil perfumes."/>                 <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Family: Fresh, Crisp and Floral Fragrance."/> 
+           <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Top Notes: California Gardenia, South African Freesia, coriander Seeds."/>     
+          <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Heart Notes: Madras Jasmine, Damascena Rose."/>        
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Base Notes: Vanilla, Java Patchouli, Bourbon Vetiver."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="This isn't a fragrance for the shy or meek."/>         
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="It is recommended for Romantic Evening Wear."/>  
+     </information>
+     <image src="/ifaru/images/perfumes/chastity.jpg" thumbnail="/ifaru/images/perfumes/chastity_s.jpg"/>
+    </fragrance>
+   
+    <fragrance name="Amarige De Givenchy" gender="Female" category="Designer Alternative" businessPriority="0"> 
+      <grade id="0" name="Amarige De Givenchy" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />  
+      <information>
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Amarige is a symbol of feminity, radiating and bursting with happiness,a zest for life and genorisity. The amarige woman is radiant and open minded, her heart felt joy is evident from her spontaneous, charming smile. It contains a cheerful, tender and sensual flower boquet (Gardenia, Mimosa and precious woods."/>
+          <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Classified As A Sharp, Oriental, Floral Fragrance. This Feminine Scent Possesses A Blend Of Violet, Mimosa, Soft Sweet Spices, And Orange Flowers. Accompanied By Fruity Notes Of Fresh Citrus, Melons, Peaches, And Plums. This romantic floral-fruity fragrance is rich with amber, sensual musk, vanilla and sparkling fruity notes of mandarin and neroli."/>  
+          <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Family: Oriental."/> 
+           <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Style: Sexy."/>       
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Top Notes: Violet, Mimosa,  Orange Flowers and Rosewood."/>     
+          <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Heart Notes: Soft Sweet Spices, Citrus, Melons, Peaches and Plums."/>        
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Base Notes: Amber, sensual musk, vanilla ,mandarin and neroli."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Amarige expresses the emotion of love at first sight. A romantic scent of grace, warmth, and fantasy for a spirited, confident, spontaneous woman."/>       
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="It is Recommended for Daytime."/>            
+      </information>
+      <image src="/ifaru/images/perfumes/212.jpg" thumbnail="/ifaru/images/perfumes/212_s.jpg"/>
+    </fragrance>
+   
+    <fragrance name="Burberry" gender="Female" category="Designer Alternative" businessPriority="0"> 
+      <grade id="0" name="Burberry" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />  
+      <information>
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Burberry For Women Is A Fresh And Sensual Fruity Oriental.Top Notes Mix The Sweet acidity of ripe Green Apple And Bright Citrus Of Bergamot With The Boldness Of Tagete And Marigold Flower. Heart Notes Embrace The Richness Of Jasmine, Sandalwood, Moss."/>
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Family: Oriental - Floral."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Top Notes: Peach, Apricot  Marigold, Mint, Lavender, Bergamot, Thyme, Green Apple."/>     
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Heart Notes: Black Currant, Geranium, Sandalwood, Moss, Cedar."/>        
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Base Notes:Jasmine, Amber, Vanilla ,Musk and Tonka Bean."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="A classy signature scent for women."/>       
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="It is recommended for daytime wear."/>            
+      </information>
+      <image src="/ifaru/images/perfumes/rose.jpg" thumbnail="/ifaru/images/perfumes/rose_s.jpg"/>
+    </fragrance>
+   
+    <fragrance name="Issey Miyake" gender="Female" category="Designer Alternative" businessPriority="0"> 
+      <grade id="0" name="Issey Miyake" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />  
+      <information>
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="An aquatic floral scent with transparent wafts of lotus, freesia and cyclamen. The middle note of peony, lily and carnation underscores the perfume's character. The end note is a refined woody scent."/> 
+           <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Family: Floral and Fresh."/> 
+           <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Top Notes: Lotus, Freesia, Cyclamen."/>     
+          <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Heart Notes: Rose Water, Fresh Peonies, Carnation, White Lilies and Lily of the valley."/>        
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Base Notes: Precious Woods, Osmanthus, Tuberose, Amberseed Sandal, Cedar and Musk ."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Flowery, sensual and woody notes, the fragrance of clearness and transparency. Its translucent presence is both fresh and warm, light and lasting."/>         
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="It is recommended for daytime Wear."/>                  
+      </information>
+      <image src="/ifaru/images/perfumes/coolwater.jpg" thumbnail="/ifaru/images/perfumes/coolwater_s.jpg"/>
+    </fragrance>
+   
+    <fragrance name="Xs Black" gender="Male" category="Designer Alternative" businessPriority="0"> 
+      <grade id="0" name="Xs Black" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />  
+      <information>
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Black Xs is a seductive new scent that blends energy, charm and virility. a fresh sensual woody fragrance. It begins as a zesty, fruity fragrance opening with a burst of freshness . At its heart, is a sweet touch that seemlessly blends with the spicy charm of black cardamom and Cinnamon. The base is both lively and sensual, overloaded with woods and black amber."/>
+           <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Family: Aromatic."/> 
+           <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Top Notes: Calabrian Lemon, kalamanzi, Sage and Tagetes."/>     
+          <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Heart Notes: Cinnamon, Tolu Balm, Black Cardamom  and Praline."/>        
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Base Notes: Palissandre Wood,  Patchouli Ebony Wood, Black Amber."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="A contemporary and sexy fragrance for men. A sensual and fresh new blend with an unexpected sweetness. For the man who isn't shy to bare some skin."/>       
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="It is recommended for Evening wear."/>            
+      </information>
+      <image src="/ifaru/images/perfumes/lomaniblue.jpg" thumbnail="/ifaru/images/perfumes/lomaniblue_s.jpg"/>
+    </fragrance>
+   
+    <fragrance name="Coolwater - davidoff" gender="Female" category="Designer Alternative" businessPriority="0"> 
+      <grade id="0" name="Coolwater - davidoff" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />  
+      <information>
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Cool Water Is Classified As A Sharp, Flowery Fragrance. Bright. Brisk. Cheerful.  This feminine scent possesses a blend of citrus, Peach, apple, Pineapple tangerine and balanced with a base note blend of vanilla, sandalwood, and hazelnut, balanced with Woody Notes and Blended with the scent of ocean air.posessing a blend of Citrus, Peach, apple, Pineapple tangerine, and balanced with a base note blend of vanilla, sandalwood, and hazelnut, balanced with Woody Notes and Blended with the scent of ocean air."/> 
+           <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Family: Fresh."/> 
+           <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Top Notes: Ozonic notes, Citrus, Pineapple,Blackcurrant, Honeydew Melon, Lotus  blossom, water Lily. "/>     
+          <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Heart Notes: May Rose, Jasmine, Muguet."/>        
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Base Notes: Orris, Vetiver, Sandalwood, Peach, Mulberry."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="It never fails to refresh."/>         
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="It is recommended for daytime Wear."/> 
+     </information>
+     <image src="/ifaru/images/perfumes/coolwater.jpg" thumbnail="/ifaru/images/perfumes/coolwater_s.jpg"/>
+    </fragrance>
+   
+    <fragrance name="Desire - Red" gender="Male" category="Designer Alternative" businessPriority="0"> 
+      <grade id="0" name="Desire - Red" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />  
+      <information>
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Desire is a refreshing, oriental and woody fragrance. This masculine scent features top notes of bergamot, lime, neroli and apple. Its middle notes tease the senses with patchouli, rose and teak wood. Finally, its base notes excite with a blend of vanilla, musk and labdanum."/>
+            <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="This masculine scent possesses a blend of: warm and sensual fruits and wood, with low notes of vanilla and musk."/> 
+           <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Family: Woody, Ambry."/> 
+           <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Top Notes: Lime, Neroli, Apple, Bergamot. "/>     
+          <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Heart Notes: Patchouli, Rose, Teak."/>        
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Base Notes: Vanilla, Musk, Labdanum."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Become the object of Desire with this scent of seduction. Desire for men is powerful and bold, this lustful fragrance is fresh and sensual. "/>            <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="It is recommended for daytime wear."/>            
+      </information>
+      <image src="/ifaru/images/perfumes/212.jpg" thumbnail="/ifaru/images/perfumes/212_s.jpg"/>
+    </fragrance>
+   
+    <fragrance name="Eternity" gender="Male" category="Designer Alternative" businessPriority="0"> 
+      <grade id="0" name="Eternity - Red" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />  
+      <information>
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Exhilarating. Distinctive. Classic. A refreshing scent that's exhilarating and distinctly masculine. With a cool, crisp edge and a warm woodsy trail. Eternity for Men  is the singular expression of the vitality and confidence that characterizes today's masculine sensibility."/>
+            <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="This designer fragrance is a refreshing blend of spicy, sweet aromas."/> 
+           <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Family: Woody - Ambry."/> 
+           <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Top Notes: Mandarin, Lavender, Green Botanics."/>     
+          <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Heart Notes: Jasmine, Basil, Geranium, Sage."/>        
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Base Notes:Sandalwood, Vetiver, Rosewood, Amber."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="This designer fragrance is a refreshing blend of spicy, sweet aromas. Eternity for Men symbolizes the spirit of today's man: sensitive yet masculine, refined yet strong. 'He's a romantic dedicated to basic values - family, work, health, and happiness. A man at ease with himself, in his relationships and with his world', says Klein."/>          
+        <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Eternity is a all around fragrance."/>                  
+      </information>
+      <image src="/ifaru/images/perfumes/blackmusk.jpg" thumbnail="/ifaru/images/perfumes/blackmusk_s.jpg"/>
+    </fragrance>
+                                                                                                                                        
+    <fragrance name="zeenat" category="Arabian Fragrance" businessPriority="0">  
+      <grade id="0" name="zeenat" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />        
+      <information>
+      </information>
+      <image src="/ifaru/images/perfumes/001.jpg" thumbnail="/ifaru/images/perfumes/001_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="zulekha" category="Arabian Fragrance" businessPriority="0">  
+      <grade id="0" name="zulekha" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />     
+      <information>
+      </information>
+      <image src="/ifaru/images/perfumes/002.jpg" thumbnail="/ifaru/images/perfumes/002_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="zubeida" category="Arabian Fragrance" businessPriority="0">    
+      <grade id="0" name="zubeida" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />       
+      <information>
+      </information>
+      <image src="/ifaru/images/perfumes/006.jpg" thumbnail="/ifaru/images/perfumes/006_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="dana" category="Arabian Fragrance" businessPriority="0">   
+      <grade id="0" name="dana" rateQuantity="any" rateUnit="Tola (12gms)" rate="16.5" currency="EUR" />      
+      <information>
+      </information>
+      <image src="/ifaru/images/perfumes/007.jpg" thumbnail="/ifaru/images/perfumes/007_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="lavender" category="Arabian Fragrance" businessPriority="0">   
+      <grade id="0" name="lavender" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />        
+      <information>
+      </information>
+      <image src="/ifaru/images/perfumes/008.jpg" thumbnail="/ifaru/images/perfumes/008_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="juhi" category="Arabian Fragrance" businessPriority="0">   
+      <grade id="0" name="juhi" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />     
+      <information>
+      </information>
+      <image src="/ifaru/images/perfumes/001.jpg" thumbnail="/ifaru/images/perfumes/001_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="champa" category="Arabian Fragrance" businessPriority="0">    
+      <grade id="0" name="champa" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />        
+      <information>
+      </information>
+      <image src="/ifaru/images/perfumes/009.jpg" thumbnail="/ifaru/images/perfumes/009_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="fantasia" category="Arabian Fragrance" businessPriority="0">   
+      <grade id="0" name="" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />       
+      <information>
+      </information>
+      <image src="/ifaru/images/perfumes/013.jpg" thumbnail="/ifaru/images/perfumes/013_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="jasmine" category="Arabian Fragrance" businessPriority="0">     
+      <grade id="1" name="jasmine1" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />         
+      <grade id="2" name="jasmine2" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />
+      <information>
+      </information>
+      <image src="/ifaru/images/perfumes/jasmine.jpg" thumbnail="/ifaru/images/perfumes/jasmine_s.jpg"/>
+    </fragrance>
+
+    <fragrance name="saffron" category="Arabian Fragrance" businessPriority="0">     
+      <grade id="1" name="saffron1" rateQuantity="any" rateUnit="Tola (12gms)" rate="18" currency="EUR" />         
+      <grade id="2" name="saffron2" rateQuantity="any" rateUnit="Tola (12gms)" rate="36" currency="EUR" />
+      <information>
+      </information>
+      <image src="/ifaru/images/perfumes/009.jpg" thumbnail="/ifaru/images/perfumes/009_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="patcholi" category="Arabian Fragrance" businessPriority="0">   
+      <grade id="0" name="patcholi" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />        
+      <information>
+      </information>
+      <image src="/ifaru/images/perfumes/008.jpg" thumbnail="/ifaru/images/perfumes/008_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="mix fruits" category="Arabian Fragrance" businessPriority="0">    
+      <grade id="0" name="mix fruits" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />    
+      <information>
+      </information>
+      <image src="/ifaru/images/perfumes/007.jpg" thumbnail="/ifaru/images/perfumes/007_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="fawakey" category="Arabian Fragrance" businessPriority="0">    
+      <grade id="0" name="fawakey" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />      
+      <information>
+      </information>
+      <image src="/ifaru/images/perfumes/001.jpg" thumbnail="/ifaru/images/perfumes/001_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="jannatul firdaus" category="Arabian Fragrance" businessPriority="0">    
+      <grade id="0" name="jannatul firdaus" rateQuantity="any" rateUnit="Tola (12gms)" rate="18" currency="EUR" />      
+      <information>
+      </information>
+      <image src="/ifaru/images/perfumes/008.jpg" thumbnail="/ifaru/images/perfumes/008_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="mix flowers" category="Arabian Fragrance" businessPriority="0">    
+      <grade id="0" name="mix flowers" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />       
+      <information>
+      </information>
+      <image src="/ifaru/images/perfumes/013.jpg" thumbnail="/ifaru/images/perfumes/013_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="majmua" category="Arabian Fragrance" businessPriority="0">    
+      <grade id="0" name="majmua" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />      
+      <information>
+      </information>
+      <image src="/ifaru/images/perfumes/002.jpg" thumbnail="/ifaru/images/perfumes/002_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="sultan" category="Arabian Fragrance" businessPriority="0">       
+      <grade id="0" name="sultan" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />        
+      <information>
+      </information>
+      <image src="/ifaru/images/perfumes/007.jpg" thumbnail="/ifaru/images/perfumes/007_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="rose" category="Arabian Fragrance" businessPriority="0">    
+      <grade id="8" name="tea rose" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />           
+      <grade id="7" name="rose standard" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" /> 
+      <grade id="6" name="fasli gulab[rose]" rateQuantity="any" rateUnit="Tola (12gms)" rate="16.5" currency="EUR" />                               
+      <grade id="5" name="rose jameed" rateQuantity="any" rateUnit="Tola (12gms)" rate="18" currency="EUR" />          
+      <grade id="4" name="rose special" rateQuantity="any" rateUnit="Tola (12gms)" rate="24.5" currency="EUR" />        
+      <grade id="3" name="rose maleeki" rateQuantity="any" rateUnit="Tola (12gms)" rate="54" currency="EUR" />          
+      <grade id="2" name="rose ameerie" rateQuantity="any" rateUnit="Tola (12gms)" rate="126" currency="EUR" />        
+      <grade id="1" name="ruhul ward[rose]" rateQuantity="any" rateUnit="Tola (12gms)" rate="230" currency="EUR" />       
+      <information>
+        <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text=""/>
+        <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text=""/>      
+      </information>
+      <image src="/ifaru/images/perfumes/rose.jpg" thumbnail="/ifaru/images/perfumes/rose_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="sandal" category="Arabian Fragrance" businessPriority="0">     
+      <grade id="0" name="" rateQuantity="any" rateUnit="Tola (12gms)" rate="29" currency="EUR" />       
+      <information>
+      </information>
+      <image src="/ifaru/images/perfumes/009.jpg" thumbnail="/ifaru/images/perfumes/009_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="amber" category="Arabian Fragrance" businessPriority="0">      
+      <grade id="3" name="amber standard" rateQuantity="any" rateUnit="Tola (12gms)" rate="22" currency="EUR" />              
+      <grade id="2" name="amber maleeki" rateQuantity="any" rateUnit="Tola (12gms)" rate="38" currency="EUR" />                      
+      <grade id="1" name="amber ameerie" rateQuantity="any" rateUnit="Tola (12gms)" rate="45" currency="EUR" />      
+      <information>
+        <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text=""/>
+        <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text=""/>      
+      </information>
+      <image src="/ifaru/images/perfumes/002.jpg" thumbnail="/ifaru/images/perfumes/002_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="khus" category="Arabian Fragrance" businessPriority="0">    
+      <grade id="3" name="Khus" rateQuantity="any" rateUnit="Tola (12gms)" rate="16.5" currency="EUR" />  
+      <grade id="2" name="Khus Maleeki" rateQuantity="any" rateUnit="Tola (12gms)" rate="27" currency="EUR" />           
+      <grade id="1" name="Khus Ameerie" rateQuantity="any" rateUnit="Tola (12gms)" rate="35" currency="EUR" />      
+      <information>
+        <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text=""/>
+        <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text=""/>      
+      </information>
+      <image src="/ifaru/images/perfumes/006.jpg" thumbnail="/ifaru/images/perfumes/006_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="mukhallat" category="Arabian Fragrance" businessPriority="0"> 
+      <grade id="4" name="mukhallat rayyan" rateQuantity="any" rateUnit="Tola (12gms)" rate="18" currency="EUR" />           
+      <grade id="3" name="mukhallat zaid" rateQuantity="any" rateUnit="Tola (12gms)" rate="26" currency="EUR" />          
+      <grade id="2" name="mukhallat shamsara" rateQuantity="any" rateUnit="Tola (12gms)" rate="36" currency="EUR" />               
+      <grade id="1" name="mukhallat seufi" rateQuantity="any" rateUnit="Tola (12gms)" rate="57.5" currency="EUR" />     
+      <information>
+        <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text=""/>
+        <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text=""/>      
+      </information>
+      <image src="/ifaru/images/perfumes/009.jpg" thumbnail="/ifaru/images/perfumes/009_s.jpg"/>
+    </fragrance>
+    
+    <fragrance name="dehnul oudh" category="Arabian Fragrance" businessPriority="0">   
+      <grade id="4" name="dehnul oudh hindi jadeed" rateQuantity="any" rateUnit="Tola (12gms)" rate="320" currency="EUR" />        
+      <grade id="3" name="dehnul oudh hindi seufi" rateQuantity="any" rateUnit="Tola (12gms)" rate="340" currency="EUR" />           
+      <grade id="3" name="dehnul oudh camboodi" rateQuantity="any" rateUnit="Tola (12gms)" rate="340" currency="EUR" />     
+      <grade id="2" name="dehnul oudh hindi maleeki" rateQuantity="any" rateUnit="Tola (12gms)" rate="410" currency="EUR" />       
+      <grade id="1" name="dehnul oudh  hindi ameerie" rateQuantity="any" rateUnit="Tola (12gms)" rate="540" currency="EUR" /> 
+      <information>
+      </information>
+      <image src="/ifaru/images/perfumes/013.jpg" thumbnail="/ifaru/images/perfumes/013_s.jpg"/>
+    </fragrance>
+
+    <fragrance name="Black Musk" category="Indian" businessPriority="0">
+      <grade id="0" name="Black Musk" rateQuantity="any" rateUnit="Tola (12gms)" rate="15" currency="EUR" />    
+      <information>
+	       <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Black Musk, a dark, pungent, boiling cauldron of midnight scents. This oil is a strong, regal and highly potent fragrance. This is not a fragrance to be taken lightly in any way - it is an oil to be used with some prudence. Black Musk lends elegance to a composition, and as with most elegant things, the understated most clearly reflects that elegance."/> 
+	       <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Black Musk is associated with the element of Fire. It is like liquid sunlight, it has so much solar energy to it. This kind of potency can be useful for many positive effects. The strength of the oil can influence one's personal ambient atmosphere, and inspire self-assurance at times when this is weak or lacking in the individual."/> 
+	       <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Exotic, Euphoric, Aphrodisiac: The Aroma kindles thoughts of love and happiness, remembrance, and thankfulness. It comes on strong and leaves a lasting impression with whomever comes in contact with its boldness."/>
+	       <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Family: spicy, Orientel (deep)"/>
+	       <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Family: Fresh, Green "/>
+	       <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Notes: A shadowy concoction of black fragrance notes...rosemary, basil, amber, patchouli, cedar wood, leather, sandalwood, coriander, juniper and oak moss."/>    
+	       <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Musk's reputation as a powerful aphrodisiac has been well documented throughout history. It is the most  popular and highly recommended fragrance."/>
+	       <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="DANGEROUS.....HEADY......FORBIDDEN.....SENSUAL....INTOXICATING....EXCITING and VERY ADDICTIVE."/>   
+      </information>
+      <image src="/ifaru/images/perfumes/007.jpg" thumbnail="/ifaru/images/perfumes/007_s.jpg"/>
+    </fragrance>
+
+<fragrance name="White Musk" category="Indian" businessPriority="0">
+      <grade id="0" name="White Musk" rateQuantity="any" rateUnit="Tola (12gms)" rate="14" currency="EUR" /> 
+      <information>
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="White Musk is incredibly beautiful, fresh and clean, with subtle vanilla undertones. A fragrance to evoke warmth and compassion. This is one of the most popular fragrances. A soft and feminine musk with floral notes of Lily, Honeysuckle and Jasmine."/>
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="A soft and velvety signature scent, for every moment, forever sensual. A specially crafted perfume that blends elegance and sensuality. Gives one a feeling of eternal bliss. A smell that will sooth your mind, body and soul. And a sense of spirutuality to ones very existance. "/>       
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Family: Spicy, oriental (light)"/>   
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Fragrance Top Notes: The top note, fresh and effervescent, from the sparkling note of Bergamot matches the Ylang Ylang freshness and the Piment Baies spice to give the perfume its modern character."/>       
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Heart Notes: The elegant flower heart, is a blend of delicate and refined Jasmine, precious rose, sophisticated Lily of the Valley and romantic Violet."/> 
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="Base Notes: The bottom note is MUSK mixed with Patchouli, Amber, Vanilla and Vetyver, to achieve a sensual effect."/>       
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="It mellows into a deliciously soft, sweet 'skin scent'."/>   
+         <line style="font:13px/24px Verdana; font-weight: bold; color:#6D7B8D;" text="The scent for the wedding night !!"/>         
+      </information>
+      <image src="/ifaru/images/perfumes/008.jpg" thumbnail="/ifaru/images/perfumes/008_s.jpg"/>
+    </fragrance>
+</fragrances>

@@ -1,0 +1,105 @@
+<HTML>
+<HEAD>
+<TITLE><%=title%></TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+
+<LINK href="/ifaru/Common.css" rel=stylesheet>
+
+<META content="MSHTML 5.50.4134.100" name=GENERATOR></HEAD>
+<BODY bgColor=#ffffff leftMargin=0 topMargin=0 marginwidth="0" marginheight="0" onLoad="">
+<%@include file='incToolbar.jsp'%>
+<TABLE align=center width=759 cellspacing=0 cellpadding=0>
+	<TR>
+		<TD align=left valign=top>
+		
+			<TABLE cellpadding=15 cellspacing=0 border=0>
+				<TR>
+					<FORM action="<%=action%>" method=post name='EditForm'>
+					<input type=hidden name='nStart' value="<%=nStart%>">
+					<input type=hidden name='nSize' value="<%=nSize%>">
+					<TD><!---------   Data Area ------------>
+					<TABLE border=0 class=Data>
+						<TR>
+							<TH colspan=2>Enter details of Category</TH>
+						</TR>
+								<INPUT TYPE=hidden name='nID' value="<%=object.nID%>">
+								<INPUT TYPE=hidden name='nParentID' value="<%=object.nParentID%>">
+							<TR>
+								<TD valign="top">txtName</TD>
+								<TD valign="top"><INPUT name='txtName' value="<%=object.txtName%>"></TD>
+							</TR>
+							<TR>
+								<TD valign="top">txtDescription</TD>
+								<TD valign="top"><INPUT name='txtDescription' value="<%=object.txtDescription%>" size=50></TD>
+							</TR>
+							<TR>
+								<TD valign="top">txtTitle</TD>
+								<TD valign="top"><INPUT name='txtTitle' value="<%=object.txtTitle%>"></TD>
+							</TR>
+							<TR>
+								<TD valign="top">txtMeta</TD>
+								<TD valign="top"><TEXTAREA name='txtMeta' cols=30 rows=3><%=object.txtMeta%></TEXTAREA></TD>
+							</TR>
+							<TR>
+								<TD valign="top">txtHeader</TD>
+								<TD valign="top"><TEXTAREA name='txtHeader' cols=40 rows=5><%=object.txtHeader%></TEXTAREA></TD>
+							</TR>
+							<TR>
+								<TD valign="top">txtFooter</TD>
+								<TD valign="top"><TEXTAREA name='txtFooter' cols=40 rows=5><%=object.txtFooter%></TEXTAREA></TD>
+							</TR>
+							<TR>
+								<TD valign="top">txtMetaReplyTo</TD>
+								<TD valign="top"><INPUT name='txtMetaReplyTo' value="<%=object.txtMetaReplyTo%>"></TD>
+							</TR>
+							<TR>
+								<TD valign="top">txtMetaLanguage</TD>
+								<TD valign="top"><INPUT name='txtMetaLanguage' value="<%=object.txtMetaLanguage%>"></TD>
+							</TR>
+							<TR>
+								<TD valign="top">txtMetaDistribution</TD>
+								<TD valign="top"><INPUT name='txtMetaDistribution' value="<%=object.txtMetaDistribution%>"></TD>
+							</TR>
+							<TR>
+								<TD valign="top">txtMetaCopyright</TD>
+								<TD valign="top"><INPUT name='txtMetaCopyright' value="<%=object.txtMetaCopyright%>"></TD>
+							</TR>
+							<TR>
+								<TD valign="top">txtMetaClassification</TD>
+								<TD valign="top"><INPUT name='txtMetaClassification' value="<%=object.txtMetaClassification%>"></TD>
+							</TR>
+							<TR>
+								<TD valign="top">txtMetaAuthor</TD>
+								<TD valign="top"><INPUT name='txtMetaAuthor' value="<%=object.txtMetaAuthor%>"></TD>
+							</TR>
+							<TR>
+								<TD valign="top">txtMetaRevisitAfter</TD>
+								<TD valign="top"><INPUT name='txtMetaRevisitAfter' value="<%=object.txtMetaRevisitAfter%>"></TD>
+							</TR>
+							<TR>
+								<TD valign="top">txtMetaDescription</TD>
+								<TD valign="top"><INPUT name='txtMetaDescription' size=50 value="<%=object.txtMetaDescription%>"></TD>
+							</TR>
+							<TR>
+								<TD valign="top">txtMetaRobots</TD>
+								<TD valign="top"><INPUT name='txtMetaRobots' size=50 value="<%=object.txtMetaRobots%>"></TD>
+							</TR>
+							<TR>
+								<TD valign="top">txtMetaKeywords</TD>
+								<TD valign="top"><INPUT name='txtMetaKeywords' size=50 value="<%=object.txtMetaKeywords%>"></TD>
+							</TR>
+
+						<TR>
+							<TD colspan=2><INPUT TYPE=submit name='Submit' Value='Submit'></TD>
+						</TR>
+					</TABLE><!---------   End of Data Area ------------>
+					
+					</TD>
+					</FORM>
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+</TABLE>
+</BODY>
+</HTML>

@@ -1,0 +1,85 @@
+<HTML>
+<HEAD>
+<TITLE><%=title%></TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+
+<LINK href="/ifaru/Common.css" rel=stylesheet>
+
+<META content="MSHTML 5.50.4134.100" name=GENERATOR></HEAD>
+<BODY bgColor=#ffffff leftMargin=0 topMargin=0 marginwidth="0" marginheight="0" onLoad="">
+<%@include file='incToolbar.jsp'%>
+<TABLE align=center width=759 cellspacing=0 cellpadding=0>
+	<TR>
+		<TD align=left valign=top>
+		
+			<TABLE cellpadding=15 cellspacing=0 border=0>
+				<TR>
+					<FORM action='<%=action%>' method=post name='EditForm'>
+					<input type=hidden name='nStart' value="<%=nStart%>">
+					<input type=hidden name='nSize' value="<%=nSize%>">
+					<TD>
+					
+					<!---------   Data Area ------------>
+					<TABLE border=0 class=Data cellspacing=1 >
+						<TR>
+							<TH colspan=2>Enter details of UserInfoQuestion</TH>
+						</TR>
+								<INPUT TYPE=HIDDEN name='nID' value='<%=object.nID%>'>
+							<TR>
+								<TD valign="top">Title</TD>
+								<TD valign="top"><INPUT size=50 TYPE=TEXT name='txtTitle' value='<%=object.txtTitle%>'></TD>
+							</TR>
+							<TR>
+								<TD valign="top">Type</TD>
+								<TD valign="top">
+									<SELECT name="nType">
+										<OPTION value="0">Seperator</OPTION>
+										<OPTION value="1">Heading</OPTION>
+										<OPTION value="2">Text</OPTION>
+										<OPTION value="3">Combo</OPTION>
+										<OPTION value="4">Radio</OPTION>
+										<OPTION value="5">Check</OPTION>
+										<OPTION value="6">List</OPTION>
+									</SELECT>
+									
+									<SCRIPT LANGUAGE=javascript>
+									<!--
+									
+										document.EditForm.nType.value = <%=object.nType%>
+
+									//-->
+									</SCRIPT>
+								</TD>
+							</TR>
+							<TR>
+								<TD valign="top">Choices</TD>
+								<TD valign="top"><INPUT TYPE=TEXT name='txtChoices' value='<%=object.txtChoices%>'></TD>
+							</TR>
+							<TR>
+								<TD valign="top">AcceptOnly</TD>
+								<TD valign="top"><INPUT TYPE=TEXT name='txtAcceptOnly' value='<%=object.txtAcceptOnly%>'></TD>
+							</TR>
+							<TR>
+								<TD valign="top">RejectOnly</TD>
+								<TD valign="top"><INPUT TYPE=TEXT name='txtRejectOnly' value='<%=object.txtRejectOnly%>'></TD>
+							</TR>
+							<TR>
+								<TD valign="top">Error Message</TD>
+								<TD valign="top"><INPUT size=70 TYPE=TEXT name='txtErrorMsg' value='<%=object.txtErrorMsg%>'></TD>
+							</TR>
+
+						<TR>
+							<TD colspan=2><INPUT TYPE=Submit name='Submit' Value='Submit'></TD>
+						</TR>
+					</TABLE>
+					<!---------   End of Data Area ------------>
+					
+					</TD>
+					</FORM>
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+</TABLE>
+</BODY>
+</HTML>

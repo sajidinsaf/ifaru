@@ -1,0 +1,244 @@
+<HTML>
+<HEAD>
+<TITLE><%=title%></TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+
+<LINK href="/ifaru/Common.css" rel=stylesheet>
+
+<META content="MSHTML 5.50.4134.100" name=GENERATOR></HEAD>
+<BODY bgColor=#ffffff leftMargin=0 topMargin=0 marginwidth="0" marginheight="0" onLoad="">
+<%@include file='incToolbar.jsp'%>
+<TABLE align=center width=759 cellspacing=0 cellpadding=0>
+	<TR>
+		<FORM action='<%=action%>' method=post name='EditForm'>
+		<input type=hidden name='aryCatIDs'>
+		<TD align=left valign=top width=100%>
+		
+		
+			<TABLE cellpadding=15 cellspacing=0 border=0 width=100%>
+				<TR>
+					<TD>
+					
+					<!---------   Data Area ------------>
+					
+					Select Categories...
+					<TABLE border=0 class=Data width=100% cellspacing=1 >
+						<TR>
+							<TD>
+								<select style="width:300px"  size=10 name=listCategories multiple>
+								<%
+									Enumeration enumCat = website.categories.getCategoryList().elements();
+									while(enumCat.hasMoreElements())
+									{
+										Category cat = (Category)enumCat.nextElement();
+										%>
+											<option value='<%=cat.nID%>'><%=cat.getFullname()%>
+										<%
+									}
+								%>
+								</select>
+							</TD>
+							<TD>
+								<input type=button value="&gt;" onclick="addCategory()"><br>
+								<input type=button value="&lt;" onclick="removeCategory()">
+							</TD>
+							<TD>
+								<select  style="width:300px" size=10 name=selectedListCategories multiple>
+								<%
+									if(!action.equals("Add.jsp"))
+									{
+										enumCat = website.products.getProductCategories(nID).elements();
+										while(enumCat.hasMoreElements())
+										{
+											Category cat = (Category)enumCat.nextElement();
+											%>
+												<option value='<%=cat.nID%>'><%=cat.getFullname()%>
+											<%
+										}
+									}
+								%>
+								</select>
+							</TD>
+						</TR>
+					</TABLE>
+					
+					<TABLE border=0 class=Data width=100% cellspacing=1 >
+						<TR>
+							<TH colspan=2>Enter the Product Details</TH>
+						</TR>
+								<INPUT TYPE=HIDDEN name='nID' value='<%=object.nID%>'>
+							<TR>
+								<TD>Name</TD>
+								<TD><INPUT TYPE=TEXT name='txtName' value='<%=object.txtName%>'></TD>
+							</TR>
+							<TR>
+								<TD>Description</TD>
+								<TD><INPUT TYPE=TEXT size=70 name='txtDescription' value='<%=object.txtDescription%>'></TD>
+							</TR>
+							<TR>
+								<TD>Image Url</TD>
+								<TD><INPUT TYPE=TEXT size=70 name='txtImgUrl' value='<%=object.txtImgUrl%>'></TD>
+							</TR>
+							<TR>
+								<TD valign="top">txtHeader</TD>
+								<TD valign="top"><TEXTAREA name='txtHeader' cols=40 rows=5><%=object.txtHeader%></TEXTAREA></TD>
+							</TR>
+							<TR>
+								<TD valign="top">txtFooter</TD>
+								<TD valign="top"><TEXTAREA name='txtFooter' cols=40 rows=5><%=object.txtFooter%></TEXTAREA></TD>
+							</TR>
+							<TR>
+								<TD valign="top">Buy Now Link (if affiliate)</TD>
+								<TD valign="top"><INPUT name='txtBuyNowUrl' value="<%=object.txtBuyNowUrl%>"></TD>
+							</TR>
+							<TR>
+								<TD>Weight of single quantity</TD>
+								<TD><INPUT TYPE=TEXT name='txtWeight' value='<%=object.txtWeight%>'></TD>
+							</TR>
+							<TR>
+								<TD>Quantity Per Pack (Eg. Pills per pack etc)</TD>
+								<TD><INPUT TYPE=TEXT name='dblQtyPerPack' value='<%=object.dblQtyPerPack%>' onkeyup='calculate()'></TD>
+							</TR>
+							<TR>
+								<TD>Price Per Quantity (Selling Price)</TD>
+								<TD><INPUT TYPE=TEXT name='dblPricePerQty' value='<%=object.dblPricePerQty%>' onkeyup='calculatePrice()'></TD>
+							</TR>
+							<TR>
+								<TD>Active</TD>
+								<TD>
+									<SELECT name='bActive'>
+										<OPTION value='0'>No</OPTION>
+										<OPTION value='1'>Yes</OPTION>
+									</SELECT>
+									<SCRIPT language="javascript">
+										document.EditForm.bActive.value = <%=object.bActive%>
+									</SCRIPT>
+								</TD>
+							</TR>
+							<TR>
+								<TD>Price (Selling Price)</TD>
+								<TD><INPUT TYPE=TEXT name='dblPrice' value='<%=object.dblPrice%>'></TD>
+							</TR>
+							<TR>
+								<TD>DummyPrice</TD>
+								<TD><INPUT TYPE=TEXT name='dblDummyPrice' value='<%=object.dblDummyPrice%>'></TD>
+							</TR>
+							<TR>
+								<TD>Shipping Factor</TD>
+								<TD><INPUT TYPE=TEXT name='dblShippingFactor' value='<%=object.dblShippingFactor%>'></TD>
+							</TR>
+							<TR>
+								<TD>Cost Per Quantity (Purchase price or inventory price)</TD>
+								<TD><INPUT TYPE=TEXT name='dblCostPerQty' value='<%=object.dblCostPerQty%>' onkeyup='calculateCost()'></TD>
+							</TR>
+							<TR>
+								<TD>Total Cost of one Pack (Inventory Cost)</TD>
+								<TD><INPUT TYPE=TEXT name='dblCost' value='<%=object.dblCost%>'></TD>
+							</TR>
+
+						<TR>
+							<TD colspan=2><INPUT TYPE=Submit name='Submit' Value='Submit'></TD>
+						</TR>
+					</TABLE>
+					<!---------   End of Data Area ------------>
+					
+					</TD>
+					</FORM>
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+</TABLE>
+<SCRIPT LANGUAGE=javascript>
+<!--
+
+	function catsModified()
+	{
+		var vals
+		var i
+		var j
+		vals = ""
+		var sellist = document.EditForm.selectedListCategories
+		for(i=0;i<sellist.options.length;i++)
+		{
+			vals += sellist.options[i].value + ","
+		}
+		if(vals.length>0)
+		{
+			vals = vals.substr(0,vals.length-1)
+		}
+		document.EditForm.aryCatIDs.value = vals
+	}
+
+	function addCategory()
+	{
+		var i
+		var j
+		var val
+		var bexists = false
+		var list = document.EditForm.listCategories
+		var sellist = document.EditForm.selectedListCategories
+		for(i=0; i< list.options.length;i++)
+		{
+			if(list.options[i].selected)
+			{
+				val = list.options[i].value
+				bexists = false
+				for(j=0;j<sellist.options.length;j++)
+				{
+					if(sellist.options[j].value==val)
+					{
+						bexists = true
+						break
+					}
+				}
+				if(!bexists)
+				{
+					j = sellist.options.length++;
+					sellist.options[j].text = list.options[i].text
+					sellist.options[j].value = list.options[i].value
+					catsModified()
+				}
+			}
+		}
+	}
+	
+	function removeCategory()
+	{
+		var i
+		var j
+		var sellist = document.EditForm.selectedListCategories
+		for(i=0;i<sellist.options.length;i++)
+		{
+			if(sellist.options[i].selected)
+			{
+				for(j=i;j<sellist.options.length-1;j++)
+				{
+					sellist.options[j] = sellist.options[j+1]
+				}
+				sellist.options.length--
+				catsModified()
+			}
+		}
+	}
+
+	function calculateCost()
+	{
+		document.EditForm.dblCost.value = Math.round( document.EditForm.dblCostPerQty.value * document.EditForm.dblQtyPerPack.value * 100 ) / 100
+	}
+	
+	function calculatePrice()
+	{
+		document.EditForm.dblPrice.value = Math.round( document.EditForm.dblPricePerQty.value * document.EditForm.dblQtyPerPack.value * 100 ) / 100
+	}
+	
+	function calculate()
+	{
+		calculateCost();
+		calculatePrice();
+	}
+//-->
+</SCRIPT>
+
+</BODY>
+</HTML>

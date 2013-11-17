@@ -1,0 +1,1823 @@
+Canditate file: C:\projects\ifaru\build\Common.css
+===========================================================
+Line:    background: url(/ifaru/images/pages/layout/sidebarback-interlaced.png) repeat-x 0 -5px;of file: C:\projects\ifaru\build\Common.css is a candidate
+ Line changed to: [     background: url(/ifarusb/images/pages/layout/sidebarback-interlaced.png) repeat-x 0 -5px;  ]
+===========================================================
+===========================================================
+Line:    background: url(/ifaru/images/pages/layout/categoryback-interlaced.png) repeat-x;of file: C:\projects\ifaru\build\Common.css is a candidate
+ Line changed to: [     background: url(/ifarusb/images/pages/layout/categoryback-interlaced.png) repeat-x;  ]
+===========================================================
+===========================================================
+Line:    background: url(/ifaru/images/pages/layout/brandback-interlaced.png) repeat-x 0 -5px;of file: C:\projects\ifaru\build\Common.css is a candidate
+ Line changed to: [     background: url(/ifarusb/images/pages/layout/brandback-interlaced.png) repeat-x 0 -5px;  ]
+===========================================================
+===========================================================
+Line:    background: url(/ifaru/images/pages/layout/keywordback-interlaced.png) repeat-x 0 -5px;of file: C:\projects\ifaru\build\Common.css is a candidate
+ Line changed to: [     background: url(/ifarusb/images/pages/layout/keywordback-interlaced.png) repeat-x 0 -5px;  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\index.jsp
+Canditate file: C:\projects\ifaru\build\Privacy.html
+===========================================================
+Line: any time at <strong>http://www.ifaru.com/ifaru/Privacy.html</strong>. <strong>Yourof file: C:\projects\ifaru\build\Privacy.html is a candidate
+ Line changed to: [  any time at <strong>http://www.ifaru.com/ifarusb/Privacy.html</strong>. <strong>Your  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\Useragreement.html
+===========================================================
+Line: this Agreement any time at <strong>http://www.ifaru.com/ifaru/Useragreement.html</strong>.of file: C:\projects\ifaru\build\Useragreement.html is a candidate
+ Line changed to: [  this Agreement any time at <strong>http://www.ifaru.com/ifarusb/Useragreement.html</strong>.  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\index.jsp
+===========================================================
+Line: 	response.sendRedirect("/ifaru/admin/products/List.jsp");of file: C:\projects\ifaru\build\admin\index.jsp is a candidate
+ Line changed to: [  	response.sendRedirect("/ifarusb/admin/products/List.jsp");  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\catalog\controlled\update-catalog.jsp
+===========================================================
+Line:       <form name="updateCatalogForm" action="/ifaru/catalog/update/controlled/UpdateCatalog.do">of file: C:\projects\ifaru\build\admin\catalog\controlled\update-catalog.jsp is a candidate
+ Line changed to: [        <form name="updateCatalogForm" action="/ifarusb/catalog/update/controlled/UpdateCatalog.do">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\categories\Add.jsp
+===========================================================
+Line: <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifaru/"));%></jsp:useBean>of file: C:\projects\ifaru\build\admin\categories\Add.jsp is a candidate
+ Line changed to: [  <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifarusb/"));%></jsp:useBean>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\categories\AddProduct.jsp
+===========================================================
+Line: <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifaru/"));%></jsp:useBean>of file: C:\projects\ifaru\build\admin\categories\AddProduct.jsp is a candidate
+ Line changed to: [  <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifarusb/"));%></jsp:useBean>  ]
+===========================================================
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\categories\AddProduct.jsp is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\categories\Delete.jsp
+===========================================================
+Line: <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifaru/"));%></jsp:useBean>of file: C:\projects\ifaru\build\admin\categories\Delete.jsp is a candidate
+ Line changed to: [  <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifarusb/"));%></jsp:useBean>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\categories\Edit.jsp
+===========================================================
+Line: <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifaru/"));%></jsp:useBean>of file: C:\projects\ifaru\build\admin\categories\Edit.jsp is a candidate
+ Line changed to: [  <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifarusb/"));%></jsp:useBean>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\categories\Form.htm
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\categories\Form.htm is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\categories\incToolbar.jsp
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/products/List.jsp">Products</a></TD>of file: C:\projects\ifaru\build\admin\categories\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/products/List.jsp">Products</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/categories/List.jsp">Categories</a></TD>of file: C:\projects\ifaru\build\admin\categories\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/categories/List.jsp">Categories</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/orders/List.jsp">Orders</a></TD>of file: C:\projects\ifaru\build\admin\categories\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/orders/List.jsp">Orders</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/emailtemplates/List.jsp">Email Templates</a></TD>of file: C:\projects\ifaru\build\admin\categories\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/emailtemplates/List.jsp">Email Templates</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/preferences/List.jsp">Preferences</a></TD>of file: C:\projects\ifaru\build\admin\categories\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/preferences/List.jsp">Preferences</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/variables/List.jsp">Variables</a></TD>of file: C:\projects\ifaru\build\admin\categories\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/variables/List.jsp">Variables</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/userinfo/List.jsp">User Information Per Order</a></TD>of file: C:\projects\ifaru\build\admin\categories\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/userinfo/List.jsp">User Information Per Order</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/countries/List.jsp">Countries</a></TD>of file: C:\projects\ifaru\build\admin\categories\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/countries/List.jsp">Countries</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/shippingcompanies/List.jsp">Shipping Companies</a></TD>of file: C:\projects\ifaru\build\admin\categories\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/shippingcompanies/List.jsp">Shipping Companies</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/users/List.jsp">Users</a></TD>of file: C:\projects\ifaru\build\admin\categories\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/users/List.jsp">Users</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/pages/users/Logout.jsp">Logout</a></TD>of file: C:\projects\ifaru\build\admin\categories\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/pages/users/Logout.jsp">Logout</a></TD>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\categories\List.jsp
+===========================================================
+Line: <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifaru/"));%></jsp:useBean>of file: C:\projects\ifaru\build\admin\categories\List.jsp is a candidate
+ Line changed to: [  <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifarusb/"));%></jsp:useBean>  ]
+===========================================================
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\categories\List.jsp is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\categories\RemoveProduct.jsp
+===========================================================
+Line: <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifaru/"));%></jsp:useBean>of file: C:\projects\ifaru\build\admin\categories\RemoveProduct.jsp is a candidate
+ Line changed to: [  <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifarusb/"));%></jsp:useBean>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\countries\Add.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\countries\Add.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\countries\Delete.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\countries\Delete.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\countries\Edit.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\countries\Edit.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\countries\Form.htm
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\countries\Form.htm is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\countries\incToolbar.jsp
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/products/List.jsp">Products</a></TD>of file: C:\projects\ifaru\build\admin\countries\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/products/List.jsp">Products</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/categories/List.jsp">Categories</a></TD>of file: C:\projects\ifaru\build\admin\countries\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/categories/List.jsp">Categories</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/orders/List.jsp">Orders</a></TD>of file: C:\projects\ifaru\build\admin\countries\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/orders/List.jsp">Orders</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/emailtemplates/List.jsp">Email Templates</a></TD>of file: C:\projects\ifaru\build\admin\countries\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/emailtemplates/List.jsp">Email Templates</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/preferences/List.jsp">Preferences</a></TD>of file: C:\projects\ifaru\build\admin\countries\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/preferences/List.jsp">Preferences</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/variables/List.jsp">Variables</a></TD>of file: C:\projects\ifaru\build\admin\countries\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/variables/List.jsp">Variables</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/userinfo/List.jsp">User Information Per Order</a></TD>of file: C:\projects\ifaru\build\admin\countries\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/userinfo/List.jsp">User Information Per Order</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/countries/List.jsp">Countries</a></TD>of file: C:\projects\ifaru\build\admin\countries\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/countries/List.jsp">Countries</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/shippingcompanies/List.jsp">Shipping Companies</a></TD>of file: C:\projects\ifaru\build\admin\countries\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/shippingcompanies/List.jsp">Shipping Companies</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/users/List.jsp">Users</a></TD>of file: C:\projects\ifaru\build\admin\countries\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/users/List.jsp">Users</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/pages/users/Logout.jsp">Logout</a></TD>of file: C:\projects\ifaru\build\admin\countries\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/pages/users/Logout.jsp">Logout</a></TD>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\countries\List.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\countries\List.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\countries\List.jsp is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\emailtemplates\Add.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\emailtemplates\Add.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\emailtemplates\Delete.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\emailtemplates\Delete.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\emailtemplates\Edit.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\emailtemplates\Edit.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\emailtemplates\Form.htm
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\emailtemplates\Form.htm is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\emailtemplates\incToolbar.jsp
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/products/List.jsp">Products</a></TD>of file: C:\projects\ifaru\build\admin\emailtemplates\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/products/List.jsp">Products</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/categories/List.jsp">Categories</a></TD>of file: C:\projects\ifaru\build\admin\emailtemplates\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/categories/List.jsp">Categories</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/orders/List.jsp">Orders</a></TD>of file: C:\projects\ifaru\build\admin\emailtemplates\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/orders/List.jsp">Orders</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/emailtemplates/List.jsp">Email Templates</a></TD>of file: C:\projects\ifaru\build\admin\emailtemplates\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/emailtemplates/List.jsp">Email Templates</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/preferences/List.jsp">Preferences</a></TD>of file: C:\projects\ifaru\build\admin\emailtemplates\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/preferences/List.jsp">Preferences</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/variables/List.jsp">Variables</a></TD>of file: C:\projects\ifaru\build\admin\emailtemplates\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/variables/List.jsp">Variables</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/userinfo/List.jsp">User Information Per Order</a></TD>of file: C:\projects\ifaru\build\admin\emailtemplates\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/userinfo/List.jsp">User Information Per Order</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/countries/List.jsp">Countries</a></TD>of file: C:\projects\ifaru\build\admin\emailtemplates\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/countries/List.jsp">Countries</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/shippingcompanies/List.jsp">Shipping Companies</a></TD>of file: C:\projects\ifaru\build\admin\emailtemplates\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/shippingcompanies/List.jsp">Shipping Companies</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/users/List.jsp">Users</a></TD>of file: C:\projects\ifaru\build\admin\emailtemplates\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/users/List.jsp">Users</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/pages/users/Logout.jsp">Logout</a></TD>of file: C:\projects\ifaru\build\admin\emailtemplates\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/pages/users/Logout.jsp">Logout</a></TD>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\emailtemplates\List.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\emailtemplates\List.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\emailtemplates\List.jsp is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\orders\Delete.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\orders\Delete.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\orders\Edit.jsp
+===========================================================
+Line: <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifaru/"));%></jsp:useBean>of file: C:\projects\ifaru\build\admin\orders\Edit.jsp is a candidate
+ Line changed to: [  <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifarusb/"));%></jsp:useBean>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\orders\EditForm.htm
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\orders\EditForm.htm is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\orders\EditTracking.jsp
+===========================================================
+Line: <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifaru/"));%></jsp:useBean>of file: C:\projects\ifaru\build\admin\orders\EditTracking.jsp is a candidate
+ Line changed to: [  <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifarusb/"));%></jsp:useBean>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\orders\EditTrackingForm.htm
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\orders\EditTrackingForm.htm is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\orders\Form.htm
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\orders\Form.htm is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\orders\incOrderDetails.jsp
+Canditate file: C:\projects\ifaru\build\admin\orders\incToolbar.jsp
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/products/List.jsp">Products</a></TD>of file: C:\projects\ifaru\build\admin\orders\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/products/List.jsp">Products</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/categories/List.jsp">Categories</a></TD>of file: C:\projects\ifaru\build\admin\orders\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/categories/List.jsp">Categories</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/orders/List.jsp">Orders</a></TD>of file: C:\projects\ifaru\build\admin\orders\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/orders/List.jsp">Orders</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/emailtemplates/List.jsp">Email Templates</a></TD>of file: C:\projects\ifaru\build\admin\orders\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/emailtemplates/List.jsp">Email Templates</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/preferences/List.jsp">Preferences</a></TD>of file: C:\projects\ifaru\build\admin\orders\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/preferences/List.jsp">Preferences</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/variables/List.jsp">Variables</a></TD>of file: C:\projects\ifaru\build\admin\orders\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/variables/List.jsp">Variables</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/userinfo/List.jsp">User Information Per Order</a></TD>of file: C:\projects\ifaru\build\admin\orders\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/userinfo/List.jsp">User Information Per Order</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/countries/List.jsp">Countries</a></TD>of file: C:\projects\ifaru\build\admin\orders\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/countries/List.jsp">Countries</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/shippingcompanies/List.jsp">Shipping Companies</a></TD>of file: C:\projects\ifaru\build\admin\orders\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/shippingcompanies/List.jsp">Shipping Companies</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/users/List.jsp">Users</a></TD>of file: C:\projects\ifaru\build\admin\orders\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/users/List.jsp">Users</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/pages/users/Logout.jsp">Logout</a></TD>of file: C:\projects\ifaru\build\admin\orders\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/pages/users/Logout.jsp">Logout</a></TD>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\orders\List.jsp
+===========================================================
+Line: <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifaru/"));%></jsp:useBean>of file: C:\projects\ifaru\build\admin\orders\List.jsp is a candidate
+ Line changed to: [  <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifarusb/"));%></jsp:useBean>  ]
+===========================================================
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\orders\List.jsp is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\orders\OrderDetail.jsp
+===========================================================
+Line: <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifaru/"));%></jsp:useBean>of file: C:\projects\ifaru\build\admin\orders\OrderDetail.jsp is a candidate
+ Line changed to: [  <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifarusb/"));%></jsp:useBean>  ]
+===========================================================
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\orders\OrderDetail.jsp is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\orders\PrintCSV.jsp
+===========================================================
+Line: <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifaru/"));%></jsp:useBean>of file: C:\projects\ifaru\build\admin\orders\PrintCSV.jsp is a candidate
+ Line changed to: [  <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifarusb/"));%></jsp:useBean>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\orders\PrintList.jsp
+===========================================================
+Line: <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifaru/"));%></jsp:useBean>of file: C:\projects\ifaru\build\admin\orders\PrintList.jsp is a candidate
+ Line changed to: [  <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifarusb/"));%></jsp:useBean>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\orders\PrintListInfo.jsp
+===========================================================
+Line: <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifaru/"));%></jsp:useBean>of file: C:\projects\ifaru\build\admin\orders\PrintListInfo.jsp is a candidate
+ Line changed to: [  <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifarusb/"));%></jsp:useBean>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\orders\RemindPayment.jsp
+===========================================================
+Line: <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifaru/"));%></jsp:useBean>of file: C:\projects\ifaru\build\admin\orders\RemindPayment.jsp is a candidate
+ Line changed to: [  <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifarusb/"));%></jsp:useBean>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\preferences\Edit.jsp
+===========================================================
+Line: <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifaru/"));%></jsp:useBean><%of file: C:\projects\ifaru\build\admin\preferences\Edit.jsp is a candidate
+ Line changed to: [  <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifarusb/"));%></jsp:useBean><%  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\preferences\EditForm.html
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\preferences\EditForm.html is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\preferences\incToolbar.jsp
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/products/List.jsp">Products</a></TD>of file: C:\projects\ifaru\build\admin\preferences\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/products/List.jsp">Products</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/categories/List.jsp">Categories</a></TD>of file: C:\projects\ifaru\build\admin\preferences\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/categories/List.jsp">Categories</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/orders/List.jsp">Orders</a></TD>of file: C:\projects\ifaru\build\admin\preferences\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/orders/List.jsp">Orders</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/emailtemplates/List.jsp">Email Templates</a></TD>of file: C:\projects\ifaru\build\admin\preferences\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/emailtemplates/List.jsp">Email Templates</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/preferences/List.jsp">Preferences</a></TD>of file: C:\projects\ifaru\build\admin\preferences\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/preferences/List.jsp">Preferences</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/variables/List.jsp">Variables</a></TD>of file: C:\projects\ifaru\build\admin\preferences\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/variables/List.jsp">Variables</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/userinfo/List.jsp">User Information Per Order</a></TD>of file: C:\projects\ifaru\build\admin\preferences\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/userinfo/List.jsp">User Information Per Order</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/countries/List.jsp">Countries</a></TD>of file: C:\projects\ifaru\build\admin\preferences\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/countries/List.jsp">Countries</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/shippingcompanies/List.jsp">Shipping Companies</a></TD>of file: C:\projects\ifaru\build\admin\preferences\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/shippingcompanies/List.jsp">Shipping Companies</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/users/List.jsp">Users</a></TD>of file: C:\projects\ifaru\build\admin\preferences\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/users/List.jsp">Users</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/pages/users/Logout.jsp">Logout</a></TD>of file: C:\projects\ifaru\build\admin\preferences\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/pages/users/Logout.jsp">Logout</a></TD>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\preferences\List.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\preferences\List.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\preferences\List.jsp is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\products\Add.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\products\Add.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\products\Delete.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\products\Delete.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\products\Edit.jsp
+===========================================================
+Line: <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifaru/"));%></jsp:useBean>of file: C:\projects\ifaru\build\admin\products\Edit.jsp is a candidate
+ Line changed to: [  <jsp:useBean id="website" scope="application" class="ifaru.cart.WebSite"><%website.init(application.getRealPath("/ifarusb/"));%></jsp:useBean>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\products\Form.htm
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\products\Form.htm is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\products\incLeftMenu.jsp
+Canditate file: C:\projects\ifaru\build\admin\products\incToolbar.jsp
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/products/List.jsp">Products</a></TD>of file: C:\projects\ifaru\build\admin\products\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/products/List.jsp">Products</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/categories/List.jsp">Categories</a></TD>of file: C:\projects\ifaru\build\admin\products\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/categories/List.jsp">Categories</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/orders/List.jsp">Orders</a></TD>of file: C:\projects\ifaru\build\admin\products\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/orders/List.jsp">Orders</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/emailtemplates/List.jsp">Email Templates</a></TD>of file: C:\projects\ifaru\build\admin\products\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/emailtemplates/List.jsp">Email Templates</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/preferences/List.jsp">Preferences</a></TD>of file: C:\projects\ifaru\build\admin\products\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/preferences/List.jsp">Preferences</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/variables/List.jsp">Variables</a></TD>of file: C:\projects\ifaru\build\admin\products\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/variables/List.jsp">Variables</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/userinfo/List.jsp">User Information Per Order</a></TD>of file: C:\projects\ifaru\build\admin\products\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/userinfo/List.jsp">User Information Per Order</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/countries/List.jsp">Countries</a></TD>of file: C:\projects\ifaru\build\admin\products\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/countries/List.jsp">Countries</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/shippingcompanies/List.jsp">Shipping Companies</a></TD>of file: C:\projects\ifaru\build\admin\products\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/shippingcompanies/List.jsp">Shipping Companies</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/users/List.jsp">Users</a></TD>of file: C:\projects\ifaru\build\admin\products\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/users/List.jsp">Users</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/pages/users/Logout.jsp">Logout</a></TD>of file: C:\projects\ifaru\build\admin\products\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/pages/users/Logout.jsp">Logout</a></TD>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\products\List.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\products\List.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\products\List.jsp is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\shippingcompanies\Add.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\shippingcompanies\Add.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\shippingcompanies\Delete.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\shippingcompanies\Delete.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\shippingcompanies\Edit.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\shippingcompanies\Edit.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\shippingcompanies\Form.htm
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\shippingcompanies\Form.htm is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\shippingcompanies\incToolbar.jsp
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/products/List.jsp">Products</a></TD>of file: C:\projects\ifaru\build\admin\shippingcompanies\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/products/List.jsp">Products</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/categories/List.jsp">Categories</a></TD>of file: C:\projects\ifaru\build\admin\shippingcompanies\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/categories/List.jsp">Categories</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/orders/List.jsp">Orders</a></TD>of file: C:\projects\ifaru\build\admin\shippingcompanies\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/orders/List.jsp">Orders</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/emailtemplates/List.jsp">Email Templates</a></TD>of file: C:\projects\ifaru\build\admin\shippingcompanies\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/emailtemplates/List.jsp">Email Templates</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/preferences/List.jsp">Preferences</a></TD>of file: C:\projects\ifaru\build\admin\shippingcompanies\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/preferences/List.jsp">Preferences</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/variables/List.jsp">Variables</a></TD>of file: C:\projects\ifaru\build\admin\shippingcompanies\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/variables/List.jsp">Variables</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/userinfo/List.jsp">User Information Per Order</a></TD>of file: C:\projects\ifaru\build\admin\shippingcompanies\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/userinfo/List.jsp">User Information Per Order</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/countries/List.jsp">Countries</a></TD>of file: C:\projects\ifaru\build\admin\shippingcompanies\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/countries/List.jsp">Countries</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/shippingcompanies/List.jsp">Shipping Companies</a></TD>of file: C:\projects\ifaru\build\admin\shippingcompanies\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/shippingcompanies/List.jsp">Shipping Companies</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/users/List.jsp">Users</a></TD>of file: C:\projects\ifaru\build\admin\shippingcompanies\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/users/List.jsp">Users</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/pages/users/Logout.jsp">Logout</a></TD>of file: C:\projects\ifaru\build\admin\shippingcompanies\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/pages/users/Logout.jsp">Logout</a></TD>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\shippingcompanies\List.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\shippingcompanies\List.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\shippingcompanies\List.jsp is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\userinfo\Add.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\userinfo\Add.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\userinfo\Delete.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\userinfo\Delete.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\userinfo\Edit.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\userinfo\Edit.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\userinfo\Form.htm
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\userinfo\Form.htm is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\userinfo\incToolbar.jsp
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/products/List.jsp">Products</a></TD>of file: C:\projects\ifaru\build\admin\userinfo\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/products/List.jsp">Products</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/categories/List.jsp">Categories</a></TD>of file: C:\projects\ifaru\build\admin\userinfo\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/categories/List.jsp">Categories</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/orders/List.jsp">Orders</a></TD>of file: C:\projects\ifaru\build\admin\userinfo\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/orders/List.jsp">Orders</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/emailtemplates/List.jsp">Email Templates</a></TD>of file: C:\projects\ifaru\build\admin\userinfo\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/emailtemplates/List.jsp">Email Templates</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/preferences/List.jsp">Preferences</a></TD>of file: C:\projects\ifaru\build\admin\userinfo\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/preferences/List.jsp">Preferences</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/variables/List.jsp">Variables</a></TD>of file: C:\projects\ifaru\build\admin\userinfo\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/variables/List.jsp">Variables</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/userinfo/List.jsp">User Information Per Order</a></TD>of file: C:\projects\ifaru\build\admin\userinfo\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/userinfo/List.jsp">User Information Per Order</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/countries/List.jsp">Countries</a></TD>of file: C:\projects\ifaru\build\admin\userinfo\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/countries/List.jsp">Countries</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/shippingcompanies/List.jsp">Shipping Companies</a></TD>of file: C:\projects\ifaru\build\admin\userinfo\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/shippingcompanies/List.jsp">Shipping Companies</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/users/List.jsp">Users</a></TD>of file: C:\projects\ifaru\build\admin\userinfo\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/users/List.jsp">Users</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/pages/users/Logout.jsp">Logout</a></TD>of file: C:\projects\ifaru\build\admin\userinfo\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/pages/users/Logout.jsp">Logout</a></TD>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\userinfo\List.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\userinfo\List.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\userinfo\List.jsp is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\users\Delete.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\users\Delete.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\users\Edit.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\users\Edit.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\users\Form.htm
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\users\Form.htm is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\users\incToolbar.jsp
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/products/List.jsp">Products</a></TD>of file: C:\projects\ifaru\build\admin\users\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/products/List.jsp">Products</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/categories/List.jsp">Categories</a></TD>of file: C:\projects\ifaru\build\admin\users\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/categories/List.jsp">Categories</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/orders/List.jsp">Orders</a></TD>of file: C:\projects\ifaru\build\admin\users\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/orders/List.jsp">Orders</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/emailtemplates/List.jsp">Email Templates</a></TD>of file: C:\projects\ifaru\build\admin\users\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/emailtemplates/List.jsp">Email Templates</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/preferences/List.jsp">Preferences</a></TD>of file: C:\projects\ifaru\build\admin\users\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/preferences/List.jsp">Preferences</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/variables/List.jsp">Variables</a></TD>of file: C:\projects\ifaru\build\admin\users\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/variables/List.jsp">Variables</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/userinfo/List.jsp">User Information Per Order</a></TD>of file: C:\projects\ifaru\build\admin\users\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/userinfo/List.jsp">User Information Per Order</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/countries/List.jsp">Countries</a></TD>of file: C:\projects\ifaru\build\admin\users\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/countries/List.jsp">Countries</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/shippingcompanies/List.jsp">Shipping Companies</a></TD>of file: C:\projects\ifaru\build\admin\users\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/shippingcompanies/List.jsp">Shipping Companies</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/users/List.jsp">Users</a></TD>of file: C:\projects\ifaru\build\admin\users\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/users/List.jsp">Users</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/pages/users/Logout.jsp">Logout</a></TD>of file: C:\projects\ifaru\build\admin\users\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/pages/users/Logout.jsp">Logout</a></TD>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\users\List.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\users\List.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\users\List.jsp is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\variables\Add.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\variables\Add.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\variables\Delete.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\variables\Delete.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\variables\Edit.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\variables\Edit.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\variables\Form.htm
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\variables\Form.htm is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\variables\incToolbar.jsp
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/products/List.jsp">Products</a></TD>of file: C:\projects\ifaru\build\admin\variables\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/products/List.jsp">Products</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/categories/List.jsp">Categories</a></TD>of file: C:\projects\ifaru\build\admin\variables\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/categories/List.jsp">Categories</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/orders/List.jsp">Orders</a></TD>of file: C:\projects\ifaru\build\admin\variables\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/orders/List.jsp">Orders</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/emailtemplates/List.jsp">Email Templates</a></TD>of file: C:\projects\ifaru\build\admin\variables\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/emailtemplates/List.jsp">Email Templates</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/preferences/List.jsp">Preferences</a></TD>of file: C:\projects\ifaru\build\admin\variables\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/preferences/List.jsp">Preferences</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/variables/List.jsp">Variables</a></TD>of file: C:\projects\ifaru\build\admin\variables\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/variables/List.jsp">Variables</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/userinfo/List.jsp">User Information Per Order</a></TD>of file: C:\projects\ifaru\build\admin\variables\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/userinfo/List.jsp">User Information Per Order</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/countries/List.jsp">Countries</a></TD>of file: C:\projects\ifaru\build\admin\variables\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/countries/List.jsp">Countries</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/shippingcompanies/List.jsp">Shipping Companies</a></TD>of file: C:\projects\ifaru\build\admin\variables\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/shippingcompanies/List.jsp">Shipping Companies</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/admin/users/List.jsp">Users</a></TD>of file: C:\projects\ifaru\build\admin\variables\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/admin/users/List.jsp">Users</a></TD>  ]
+===========================================================
+===========================================================
+Line: 		<TD><a href="/ifaru/pages/users/Logout.jsp">Logout</a></TD>of file: C:\projects\ifaru\build\admin\variables\incToolbar.jsp is a candidate
+ Line changed to: [  		<TD><a href="/ifarusb/pages/users/Logout.jsp">Logout</a></TD>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\admin\variables\List.jsp
+===========================================================
+Line: 	<%website.init(application.getRealPath("/ifaru/"));%>of file: C:\projects\ifaru\build\admin\variables\List.jsp is a candidate
+ Line changed to: [  	<%website.init(application.getRealPath("/ifarusb/"));%>  ]
+===========================================================
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\admin\variables\List.jsp is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\css\niftyCorners.css
+Canditate file: C:\projects\ifaru\build\css\niftycube.js
+Canditate file: C:\projects\ifaru\build\css\NiftyLayout.css
+Canditate file: C:\projects\ifaru\build\css\niftyLayout.js
+Canditate file: C:\projects\ifaru\build\data\catalog\catalog.test.xml
+Canditate file: C:\projects\ifaru\build\data\catalog\catalog.xml
+Canditate file: C:\projects\ifaru\build\data\catalog\catalog.xml.bak
+Canditate file: C:\projects\ifaru\build\data\catalog\temp.xml
+Canditate file: C:\projects\ifaru\build\data\countries\countries.xml
+Canditate file: C:\projects\ifaru\build\data\fragrances\fragrances.xml
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/212.jpg" thumbnail="/ifaru/images/perfumes/212_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/212.jpg" thumbnail="/ifarusb/images/perfumes/212_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/lomaniblue.jpg" thumbnail="/ifaru/images/perfumes/lomaniblue_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/lomaniblue.jpg" thumbnail="/ifarusb/images/perfumes/lomaniblue_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:        <image src="/ifaru/images/perfumes/coolwater.jpg" thumbnail="/ifaru/images/perfumes/coolwater_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [         <image src="/ifarusb/images/perfumes/coolwater.jpg" thumbnail="/ifarusb/images/perfumes/coolwater_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/rose.jpg" thumbnail="/ifaru/images/perfumes/rose_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/rose.jpg" thumbnail="/ifarusb/images/perfumes/rose_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/212.jpg" thumbnail="/ifaru/images/perfumes/212_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/212.jpg" thumbnail="/ifarusb/images/perfumes/212_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/lomaniblue.jpg" thumbnail="/ifaru/images/perfumes/lomaniblue_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/lomaniblue.jpg" thumbnail="/ifarusb/images/perfumes/lomaniblue_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/chastity.jpg" thumbnail="/ifaru/images/perfumes/chastity_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/chastity.jpg" thumbnail="/ifarusb/images/perfumes/chastity_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/blackmusk.jpg" thumbnail="/ifaru/images/perfumes/blackmusk_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/blackmusk.jpg" thumbnail="/ifarusb/images/perfumes/blackmusk_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/jasmine.jpg" thumbnail="/ifaru/images/perfumes/jasmine_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/jasmine.jpg" thumbnail="/ifarusb/images/perfumes/jasmine_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:      <image src="/ifaru/images/perfumes/chastity.jpg" thumbnail="/ifaru/images/perfumes/chastity_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [       <image src="/ifarusb/images/perfumes/chastity.jpg" thumbnail="/ifarusb/images/perfumes/chastity_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/212.jpg" thumbnail="/ifaru/images/perfumes/212_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/212.jpg" thumbnail="/ifarusb/images/perfumes/212_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/rose.jpg" thumbnail="/ifaru/images/perfumes/rose_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/rose.jpg" thumbnail="/ifarusb/images/perfumes/rose_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/coolwater.jpg" thumbnail="/ifaru/images/perfumes/coolwater_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/coolwater.jpg" thumbnail="/ifarusb/images/perfumes/coolwater_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/lomaniblue.jpg" thumbnail="/ifaru/images/perfumes/lomaniblue_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/lomaniblue.jpg" thumbnail="/ifarusb/images/perfumes/lomaniblue_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:      <image src="/ifaru/images/perfumes/coolwater.jpg" thumbnail="/ifaru/images/perfumes/coolwater_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [       <image src="/ifarusb/images/perfumes/coolwater.jpg" thumbnail="/ifarusb/images/perfumes/coolwater_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/212.jpg" thumbnail="/ifaru/images/perfumes/212_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/212.jpg" thumbnail="/ifarusb/images/perfumes/212_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/blackmusk.jpg" thumbnail="/ifaru/images/perfumes/blackmusk_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/blackmusk.jpg" thumbnail="/ifarusb/images/perfumes/blackmusk_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/001.jpg" thumbnail="/ifaru/images/perfumes/001_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/001.jpg" thumbnail="/ifarusb/images/perfumes/001_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/002.jpg" thumbnail="/ifaru/images/perfumes/002_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/002.jpg" thumbnail="/ifarusb/images/perfumes/002_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/006.jpg" thumbnail="/ifaru/images/perfumes/006_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/006.jpg" thumbnail="/ifarusb/images/perfumes/006_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/007.jpg" thumbnail="/ifaru/images/perfumes/007_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/007.jpg" thumbnail="/ifarusb/images/perfumes/007_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/008.jpg" thumbnail="/ifaru/images/perfumes/008_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/008.jpg" thumbnail="/ifarusb/images/perfumes/008_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/001.jpg" thumbnail="/ifaru/images/perfumes/001_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/001.jpg" thumbnail="/ifarusb/images/perfumes/001_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/009.jpg" thumbnail="/ifaru/images/perfumes/009_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/009.jpg" thumbnail="/ifarusb/images/perfumes/009_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/013.jpg" thumbnail="/ifaru/images/perfumes/013_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/013.jpg" thumbnail="/ifarusb/images/perfumes/013_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/jasmine.jpg" thumbnail="/ifaru/images/perfumes/jasmine_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/jasmine.jpg" thumbnail="/ifarusb/images/perfumes/jasmine_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/009.jpg" thumbnail="/ifaru/images/perfumes/009_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/009.jpg" thumbnail="/ifarusb/images/perfumes/009_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/008.jpg" thumbnail="/ifaru/images/perfumes/008_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/008.jpg" thumbnail="/ifarusb/images/perfumes/008_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/007.jpg" thumbnail="/ifaru/images/perfumes/007_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/007.jpg" thumbnail="/ifarusb/images/perfumes/007_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/001.jpg" thumbnail="/ifaru/images/perfumes/001_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/001.jpg" thumbnail="/ifarusb/images/perfumes/001_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/008.jpg" thumbnail="/ifaru/images/perfumes/008_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/008.jpg" thumbnail="/ifarusb/images/perfumes/008_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/013.jpg" thumbnail="/ifaru/images/perfumes/013_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/013.jpg" thumbnail="/ifarusb/images/perfumes/013_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/002.jpg" thumbnail="/ifaru/images/perfumes/002_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/002.jpg" thumbnail="/ifarusb/images/perfumes/002_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/007.jpg" thumbnail="/ifaru/images/perfumes/007_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/007.jpg" thumbnail="/ifarusb/images/perfumes/007_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/rose.jpg" thumbnail="/ifaru/images/perfumes/rose_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/rose.jpg" thumbnail="/ifarusb/images/perfumes/rose_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/009.jpg" thumbnail="/ifaru/images/perfumes/009_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/009.jpg" thumbnail="/ifarusb/images/perfumes/009_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/002.jpg" thumbnail="/ifaru/images/perfumes/002_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/002.jpg" thumbnail="/ifarusb/images/perfumes/002_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/006.jpg" thumbnail="/ifaru/images/perfumes/006_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/006.jpg" thumbnail="/ifarusb/images/perfumes/006_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/009.jpg" thumbnail="/ifaru/images/perfumes/009_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/009.jpg" thumbnail="/ifarusb/images/perfumes/009_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/013.jpg" thumbnail="/ifaru/images/perfumes/013_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/013.jpg" thumbnail="/ifarusb/images/perfumes/013_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/007.jpg" thumbnail="/ifaru/images/perfumes/007_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/007.jpg" thumbnail="/ifarusb/images/perfumes/007_s.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <image src="/ifaru/images/perfumes/008.jpg" thumbnail="/ifaru/images/perfumes/008_s.jpg"/>of file: C:\projects\ifaru\build\data\fragrances\fragrances.xml is a candidate
+ Line changed to: [        <image src="/ifarusb/images/perfumes/008.jpg" thumbnail="/ifarusb/images/perfumes/008_s.jpg"/>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\data\measurement\measurement.xml
+Canditate file: C:\projects\ifaru\build\data\shipping\shippingoptions.xml
+Canditate file: C:\projects\ifaru\build\email\ChequeEmailTemplate.html
+Canditate file: C:\projects\ifaru\build\email\Email.html
+===========================================================
+Line: Please <a href="http://www.ifaru.co.uk/ifaru/Trade.do">click here</a> to visit our website for trade and contact information. <br>of file: C:\projects\ifaru\build\email\Email.html is a candidate
+ Line changed to: [  Please <a href="http://www.ifaru.co.uk/ifarusb/Trade.do">click here</a> to visit our website for trade and contact information. <br>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\email\MailConfig.properties
+Canditate file: C:\projects\ifaru\build\email\SentOn16082007.txt
+Canditate file: C:\projects\ifaru\build\email\TextEmail.txt
+===========================================================
+Line: Please visit http://www.ifaru.co.uk/ifaru/Trade.do for trade and contact formation. Samples are available on request.of file: C:\projects\ifaru\build\email\TextEmail.txt is a candidate
+ Line changed to: [  Please visit http://www.ifaru.co.uk/ifarusb/Trade.do for trade and contact formation. Samples are available on request.  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\email\ToList.txt
+Canditate file: C:\projects\ifaru\build\images\favicon.ico
+Ignoring file: C:\projects\ifaru\build\images\iFaruColourLogo.jpg
+Ignoring file: C:\projects\ifaru\build\images\ifarulogo.jpg
+Ignoring file: C:\projects\ifaru\build\images\logo.jpg
+Ignoring file: C:\projects\ifaru\build\images\tn_cover-main.jpg
+Ignoring file: C:\projects\ifaru\build\images\tn_logo.jpg
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\brandback-interlaced.png
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\brandback.png
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\cart.jpg
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\categoryback-interlaced.png
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\categoryback.png
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\cheque.jpg
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\cover-main.jpg
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\coverimg.jpg
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\coverimg2.jpg
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\cover_img.jpg
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\faruebay.jpg
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\gradient.png
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\ifarucover_img.jpg
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\ifarulogo.gif
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\keywordback-interlaced.png
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\keywordback.png
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\logoEbay_x45.gif
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\nochex-logo.gif
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\paypal_logo.gif
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\pp-cards.gif
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\pp-verified.gif
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\pp.gif
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\sidebarback-gra-interlaced.png
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\sidebarback-gra.png
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\sidebarback-interlaced.png
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\sidebarback.png
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\Thumbs.db
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\tn_cart.jpg
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\tn_cover-main.jpg
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\tn_cover_img.jpg
+Ignoring file: C:\projects\ifaru\build\images\pages\layout\tn_faruebay.jpg
+Ignoring file: C:\projects\ifaru\build\images\pages\trade\bindi.jpg
+Ignoring file: C:\projects\ifaru\build\images\pages\trade\perfume.jpg
+Ignoring file: C:\projects\ifaru\build\images\pages\trade\Thumbs.db
+Ignoring file: C:\projects\ifaru\build\images\pages\trade\attar\peachroseBackground.jpg
+Ignoring file: C:\projects\ifaru\build\images\pages\trade\attar\Thumbs.db
+Canditate file: C:\projects\ifaru\build\pages\about\about-body.jsp
+===========================================================
+Line: <td style="text-align:center;background: url(/ifaru/images/pages/layout/brandback-interlaced.png) repeat-x 0 -5px;">of file: C:\projects\ifaru\build\pages\about\about-body.jsp is a candidate
+ Line changed to: [  <td style="text-align:center;background: url(/ifarusb/images/pages/layout/brandback-interlaced.png) repeat-x 0 -5px;">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\about\About.jsp
+Canditate file: C:\projects\ifaru\build\pages\about\shipping-policy.jsp
+Canditate file: C:\projects\ifaru\build\pages\about\useragreement-body.jsp
+Canditate file: C:\projects\ifaru\build\pages\about\useragreement-header-tag.jsp
+Canditate file: C:\projects\ifaru\build\pages\cart\cart-body-footer.jsp
+===========================================================
+Line:       <jsp:param name="href" value="/ifaru/catalog/FragranceList.do"/>of file: C:\projects\ifaru\build\pages\cart\cart-body-footer.jsp is a candidate
+ Line changed to: [        <jsp:param name="href" value="/ifarusb/catalog/FragranceList.do"/>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\cart\cart-body-header.jsp
+===========================================================
+Line:         <jsp:param name="href" value="/ifaru/catalog/FragranceList.do"/>of file: C:\projects\ifaru\build\pages\cart\cart-body-header.jsp is a candidate
+ Line changed to: [          <jsp:param name="href" value="/ifarusb/catalog/FragranceList.do"/>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\cart\cart-header-tag.jsp
+Canditate file: C:\projects\ifaru\build\pages\cart\cart.jsp
+===========================================================
+Line:             <html:image src="/ifaru/images/pages/layout/pp.gif" alt="Pay By PayPal" onclick="document.payByPaypal.submit();"/>of file: C:\projects\ifaru\build\pages\cart\cart.jsp is a candidate
+ Line changed to: [              <html:image src="/ifarusb/images/pages/layout/pp.gif" alt="Pay By PayPal" onclick="document.payByPaypal.submit();"/>  ]
+===========================================================
+===========================================================
+Line:               <html:image src="/ifaru/images/pages/layout/nochex-logo.gif" alt="Pay By Nochex" onclick="document.payByNochex.submit();"/>of file: C:\projects\ifaru\build\pages\cart\cart.jsp is a candidate
+ Line changed to: [                <html:image src="/ifarusb/images/pages/layout/nochex-logo.gif" alt="Pay By Nochex" onclick="document.payByNochex.submit();"/>  ]
+===========================================================
+===========================================================
+Line:            <TD align="center" style="color:green;font-weight:bold;font-style:italic;background-color:FFFFFF" onmouseover="this.style.backgroundColor='#FF9933';" onmouseout="this.style.backgroundColor='FFFFFF';">Pay by Cheque/Postal Order<br><html:link action="/cart/Checkout" paramId="checkoutOption" paramName="coCheque"><html:img src="/ifaru/images/pages/layout/cheque.jpg" alt="Pay By Cheque/Postal Order"/></html:link></TD>          of file: C:\projects\ifaru\build\pages\cart\cart.jsp is a candidate
+ Line changed to: [             <TD align="center" style="color:green;font-weight:bold;font-style:italic;background-color:FFFFFF" onmouseover="this.style.backgroundColor='#FF9933';" onmouseout="this.style.backgroundColor='FFFFFF';">Pay by Cheque/Postal Order<br><html:link action="/cart/Checkout" paramId="checkoutOption" paramName="coCheque"><html:img src="/ifarusb/images/pages/layout/cheque.jpg" alt="Pay By Cheque/Postal Order"/></html:link></TD>            ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\cart\category-header-tag.jsp
+Canditate file: C:\projects\ifaru\build\pages\cart\Category.jsp
+===========================================================
+Line: 		                      <html:link href="/ifaru/pages/cart/Goto.jsp" paramId="nID" paramName="product" paramProperty="NID">of file: C:\projects\ifaru\build\pages\cart\Category.jsp is a candidate
+ Line changed to: [  		                      <html:link href="/ifarusb/pages/cart/Goto.jsp" paramId="nID" paramName="product" paramProperty="NID">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\cart\Category2.jsp
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\pages\cart\Category2.jsp is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+===========================================================
+Line: 										<FORM action="/ifaru/pages/cart/Cart.jsp" id=form1 name=form1>of file: C:\projects\ifaru\build\pages\cart\Category2.jsp is a candidate
+ Line changed to: [  										<FORM action="/ifarusb/pages/cart/Cart.jsp" id=form1 name=form1>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\cart\Checkout.jsp
+===========================================================
+Line: <link rel=stylesheet type="text/css" href="/ifaru/Common.css">of file: C:\projects\ifaru\build\pages\cart\Checkout.jsp is a candidate
+ Line changed to: [  <link rel=stylesheet type="text/css" href="/ifarusb/Common.css">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\cart\Checkout2.jsp
+===========================================================
+Line: <link rel=stylesheet type="text/css" href="/ifaru/Common.css">of file: C:\projects\ifaru\build\pages\cart\Checkout2.jsp is a candidate
+ Line changed to: [  <link rel=stylesheet type="text/css" href="/ifarusb/Common.css">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\cart\Goto.jsp
+Canditate file: C:\projects\ifaru\build\pages\cart\incOrderDetails.jsp
+===========================================================
+Line: 									throw new ifaru.cart.ForceRedirect("/ifaru/pages/cart/Cart.jsp");of file: C:\projects\ifaru\build\pages\cart\incOrderDetails.jsp is a candidate
+ Line changed to: [  									throw new ifaru.cart.ForceRedirect("/ifarusb/pages/cart/Cart.jsp");  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\cart\incTransecute.jsp
+===========================================================
+Line: 		String redirecturl = website.shopWebAddress + "/ifaru/pages/cart/process/Transecute.jsp";of file: C:\projects\ifaru\build\pages\cart\incTransecute.jsp is a candidate
+ Line changed to: [  		String redirecturl = website.shopWebAddress + "/ifarusb/pages/cart/process/Transecute.jsp";  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\cart\Product.jsp
+===========================================================
+Line: <link rel=stylesheet type="text/css" href="/ifaru/Common.css">of file: C:\projects\ifaru\build\pages\cart\Product.jsp is a candidate
+ Line changed to: [  <link rel=stylesheet type="text/css" href="/ifarusb/Common.css">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\cart\ProductList.jsp
+===========================================================
+Line: <link rel=stylesheet type="text/css" href="/ifaru/Common.css">of file: C:\projects\ifaru\build\pages\cart\ProductList.jsp is a candidate
+ Line changed to: [  <link rel=stylesheet type="text/css" href="/ifarusb/Common.css">  ]
+===========================================================
+===========================================================
+Line: 		<FORM action="/ifaru/pages/cart/Cart.jsp">of file: C:\projects\ifaru\build\pages\cart\ProductList.jsp is a candidate
+ Line changed to: [  		<FORM action="/ifarusb/pages/cart/Cart.jsp">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\cart\Shipping.jsp
+===========================================================
+Line: <link rel=stylesheet type="text/css" href="/ifaru/Common.css">of file: C:\projects\ifaru\build\pages\cart\Shipping.jsp is a candidate
+ Line changed to: [  <link rel=stylesheet type="text/css" href="/ifarusb/Common.css">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\cart\shippingcountry-header-tag.jsp
+Canditate file: C:\projects\ifaru\build\pages\cart\shippingoptions.jsp
+Canditate file: C:\projects\ifaru\build\pages\cart\UserInfo.jsp
+===========================================================
+Line: <link rel=stylesheet type="text/css" href="/ifaru/Common.css">of file: C:\projects\ifaru\build\pages\cart\UserInfo.jsp is a candidate
+ Line changed to: [  <link rel=stylesheet type="text/css" href="/ifarusb/Common.css">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\cart\UserInfoPost.jsp
+Canditate file: C:\projects\ifaru\build\pages\cart\process\incOrderDetails.jsp
+===========================================================
+Line: 									throw new ifaru.cart.ForceRedirect("/ifaru/pages/cart/Cart.jsp");of file: C:\projects\ifaru\build\pages\cart\process\incOrderDetails.jsp is a candidate
+ Line changed to: [  									throw new ifaru.cart.ForceRedirect("/ifarusb/pages/cart/Cart.jsp");  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\cart\process\Transecute.jsp
+===========================================================
+Line: <link rel=stylesheet type="text/css" href="/ifaru/Common.css">of file: C:\projects\ifaru\build\pages\cart\process\Transecute.jsp is a candidate
+ Line changed to: [  <link rel=stylesheet type="text/css" href="/ifarusb/Common.css">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\catalog\catalog-body-footer.jsp
+===========================================================
+Line:       <jsp:param name="href" value="/ifaru/catalog/FragranceList.do"/>of file: C:\projects\ifaru\build\pages\catalog\catalog-body-footer.jsp is a candidate
+ Line changed to: [        <jsp:param name="href" value="/ifarusb/catalog/FragranceList.do"/>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\catalog\catalog-body-header.jsp
+===========================================================
+Line:         <jsp:param name="href" value="/ifaru/catalog/FragranceList.do"/>of file: C:\projects\ifaru\build\pages\catalog\catalog-body-header.jsp is a candidate
+ Line changed to: [          <jsp:param name="href" value="/ifarusb/catalog/FragranceList.do"/>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\catalog\catalog-header-tag.jsp
+Canditate file: C:\projects\ifaru\build\pages\catalog\catalog-js.jsp
+Canditate file: C:\projects\ifaru\build\pages\catalog\catalog.jsp
+===========================================================
+Line:             <form method="POST" name="selectPageSize" action="/ifaru/catalog/ItemList.do">of file: C:\projects\ifaru\build\pages\catalog\catalog.jsp is a candidate
+ Line changed to: [              <form method="POST" name="selectPageSize" action="/ifarusb/catalog/ItemList.do">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\catalog\catalogitem-form.jsp
+Canditate file: C:\projects\ifaru\build\pages\catalog\catalogitem.jsp
+Canditate file: C:\projects\ifaru\build\pages\catalog\page-control.jsp
+Canditate file: C:\projects\ifaru\build\pages\catalog\searchResults.jsp
+Canditate file: C:\projects\ifaru\build\pages\checkout\cheque-stage1.jsp
+===========================================================
+Line:       <form name="emailForm" action="/ifaru/checkout/ProcessChequePayment.do">of file: C:\projects\ifaru\build\pages\checkout\cheque-stage1.jsp is a candidate
+ Line changed to: [        <form name="emailForm" action="/ifarusb/checkout/ProcessChequePayment.do">  ]
+===========================================================
+===========================================================
+Line:            <html:form action="/user/UserAction"><html:image src="/ifaru/images/pages/layout/cart.jpg" styleClass="CartButton" border="0" property="" value="viewCart" alt="Cart" title="View Shopping Cart"></html:image></html:form>of file: C:\projects\ifaru\build\pages\checkout\cheque-stage1.jsp is a candidate
+ Line changed to: [             <html:form action="/user/UserAction"><html:image src="/ifarusb/images/pages/layout/cart.jpg" styleClass="CartButton" border="0" property="" value="viewCart" alt="Cart" title="View Shopping Cart"></html:image></html:form>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\checkout\cheque-stage2.jsp
+Canditate file: C:\projects\ifaru\build\pages\contact\contact-body.jsp
+Canditate file: C:\projects\ifaru\build\pages\contact\Contact.jsp
+Canditate file: C:\projects\ifaru\build\pages\control\ComingSoon.jsp
+Canditate file: C:\projects\ifaru\build\pages\control\invalid-session.jsp
+Canditate file: C:\projects\ifaru\build\pages\control\Redirect.jsp
+Canditate file: C:\projects\ifaru\build\pages\gallery\Gallery.jsp
+Canditate file: C:\projects\ifaru\build\pages\gallery\GalleryPicture.jsp
+Canditate file: C:\projects\ifaru\build\pages\home\blank-body-footer.jsp
+Canditate file: C:\projects\ifaru\build\pages\home\blank-body-header.jsp
+Canditate file: C:\projects\ifaru\build\pages\home\home.jsp
+Canditate file: C:\projects\ifaru\build\pages\home\main-body.jsp
+===========================================================
+Line: <!-- <p align=center><img src="/ifaru/images/pages/layout/coverimg.jpg" </p> -->of file: C:\projects\ifaru\build\pages\home\main-body.jsp is a candidate
+ Line changed to: [  <!-- <p align=center><img src="/ifarusb/images/pages/layout/coverimg.jpg" </p> -->  ]
+===========================================================
+===========================================================
+Line:    <img border="0" src="/ifaru/images/pages/layout/tn_cover_img.jpg"/>of file: C:\projects\ifaru\build\pages\home\main-body.jsp is a candidate
+ Line changed to: [     <img border="0" src="/ifarusb/images/pages/layout/tn_cover_img.jpg"/>  ]
+===========================================================
+===========================================================
+Line:       <img src="/ifaru/images/pages/layout/cover_img.jpg" border="0px" align="middle" alt="Welcome to iFaru"> of file: C:\projects\ifaru\build\pages\home\main-body.jsp is a candidate
+ Line changed to: [        <img src="/ifarusb/images/pages/layout/cover_img.jpg" border="0px" align="middle" alt="Welcome to iFaru">   ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\html\ala-baali.html
+Canditate file: C:\projects\ifaru\build\pages\html\alf-zahra.html
+Canditate file: C:\projects\ifaru\build\pages\html\allure-sports.html
+Canditate file: C:\projects\ifaru\build\pages\html\amarige.html
+Canditate file: C:\projects\ifaru\build\pages\html\amber-royal.html
+Canditate file: C:\projects\ifaru\build\pages\html\amber.html
+Canditate file: C:\projects\ifaru\build\pages\html\angel.html
+Canditate file: C:\projects\ifaru\build\pages\html\arabian-musk.html
+Canditate file: C:\projects\ifaru\build\pages\html\armani.html
+Canditate file: C:\projects\ifaru\build\pages\html\attar-full.html
+Canditate file: C:\projects\ifaru\build\pages\html\bakhoor-al-hind.html
+Canditate file: C:\projects\ifaru\build\pages\html\bakhoor-burner.html
+Canditate file: C:\projects\ifaru\build\pages\html\bakhoor-etisalbi.html
+Canditate file: C:\projects\ifaru\build\pages\html\bakhoor-heritage.html
+Canditate file: C:\projects\ifaru\build\pages\html\bakhoor-malikha.html
+Canditate file: C:\projects\ifaru\build\pages\html\bakhoor-mulhum.html
+Canditate file: C:\projects\ifaru\build\pages\html\bakhoor-nasaem.html
+Canditate file: C:\projects\ifaru\build\pages\html\bakhoor-touchme.html
+Canditate file: C:\projects\ifaru\build\pages\html\bakhoor-turabi.html
+Canditate file: C:\projects\ifaru\build\pages\html\black-musk.html
+Canditate file: C:\projects\ifaru\build\pages\html\bulgarian-rose.html
+Canditate file: C:\projects\ifaru\build\pages\html\cambodian-agarwood.html
+Canditate file: C:\projects\ifaru\build\pages\html\champa.html
+Canditate file: C:\projects\ifaru\build\pages\html\chance.html
+Canditate file: C:\projects\ifaru\build\pages\html\chanel5.html
+Canditate file: C:\projects\ifaru\build\pages\html\coco-madame.html
+Canditate file: C:\projects\ifaru\build\pages\html\coco.html
+Canditate file: C:\projects\ifaru\build\pages\html\dana.html
+Canditate file: C:\projects\ifaru\build\pages\html\dark-secret.html
+Canditate file: C:\projects\ifaru\build\pages\html\dehnal-ameeri.html
+Canditate file: C:\projects\ifaru\build\pages\html\dehnal-cambodi.html
+Canditate file: C:\projects\ifaru\build\pages\html\dehnal-maliki.html
+Canditate file: C:\projects\ifaru\build\pages\html\dehnal-nayaab.html
+Canditate file: C:\projects\ifaru\build\pages\html\desert-rose.html
+Canditate file: C:\projects\ifaru\build\pages\html\desire.html
+Canditate file: C:\projects\ifaru\build\pages\html\dhanal-nabeel.html
+Canditate file: C:\projects\ifaru\build\pages\html\dreams.html
+Canditate file: C:\projects\ifaru\build\pages\html\elegance.html
+Canditate file: C:\projects\ifaru\build\pages\html\etisalbi-perfume.html
+Canditate file: C:\projects\ifaru\build\pages\html\fahrenheit.html
+Canditate file: C:\projects\ifaru\build\pages\html\fancy-bouquet.html
+Canditate file: C:\projects\ifaru\build\pages\html\fawakey.html
+Canditate file: C:\projects\ifaru\build\pages\html\geranium.html
+Canditate file: C:\projects\ifaru\build\pages\html\green-lotus.html
+Canditate file: C:\projects\ifaru\build\pages\html\hadeel.html
+Canditate file: C:\projects\ifaru\build\pages\html\hajr-e-aswad.html
+Canditate file: C:\projects\ifaru\build\pages\html\hajre-aswad.html
+Canditate file: C:\projects\ifaru\build\pages\html\hugo-soul.html
+Canditate file: C:\projects\ifaru\build\pages\html\indian-oudh.html
+Canditate file: C:\projects\ifaru\build\pages\html\innocence.html
+Canditate file: C:\projects\ifaru\build\pages\html\jadore.html
+Canditate file: C:\projects\ifaru\build\pages\html\jalwa - Copy.html
+Canditate file: C:\projects\ifaru\build\pages\html\jalwa.html
+Canditate file: C:\projects\ifaru\build\pages\html\jalwa12ml.html
+Canditate file: C:\projects\ifaru\build\pages\html\jalwa3ml.html
+Canditate file: C:\projects\ifaru\build\pages\html\jannat-al-firdous8ml.html
+Canditate file: C:\projects\ifaru\build\pages\html\jannat-u-lfirdaus.html
+Canditate file: C:\projects\ifaru\build\pages\html\jannat-ul-firdaus.html
+Canditate file: C:\projects\ifaru\build\pages\html\jannet-el-baqui11ml.html
+Canditate file: C:\projects\ifaru\build\pages\html\jannet-el-baqui3ml.html
+Canditate file: C:\projects\ifaru\build\pages\html\jannet-el-firdaus3ml.html
+Canditate file: C:\projects\ifaru\build\pages\html\jasmine.html
+Canditate file: C:\projects\ifaru\build\pages\html\joop.html
+Canditate file: C:\projects\ifaru\build\pages\html\juhi.html
+Canditate file: C:\projects\ifaru\build\pages\html\kachi-kali.html
+Canditate file: C:\projects\ifaru\build\pages\html\khus - Copy.html
+Canditate file: C:\projects\ifaru\build\pages\html\khus.html
+Canditate file: C:\projects\ifaru\build\pages\html\krishna-musk.html
+Canditate file: C:\projects\ifaru\build\pages\html\lamya.html
+Canditate file: C:\projects\ifaru\build\pages\html\lavender.html
+Canditate file: C:\projects\ifaru\build\pages\html\lilac.html
+Canditate file: C:\projects\ifaru\build\pages\html\lily.html
+Canditate file: C:\projects\ifaru\build\pages\html\love-spell.html
+Canditate file: C:\projects\ifaru\build\pages\html\maalum.html
+Canditate file: C:\projects\ifaru\build\pages\html\maitha.html
+Canditate file: C:\projects\ifaru\build\pages\html\majmu-aal55.html
+Canditate file: C:\projects\ifaru\build\pages\html\majmua.html
+Canditate file: C:\projects\ifaru\build\pages\html\majmua96-nemat.html
+Canditate file: C:\projects\ifaru\build\pages\html\marigold.html
+Canditate file: C:\projects\ifaru\build\pages\html\mitti.html
+Canditate file: C:\projects\ifaru\build\pages\html\moondrops.html
+Canditate file: C:\projects\ifaru\build\pages\html\mukhallat-al-ameer.html
+Canditate file: C:\projects\ifaru\build\pages\html\mukhallat-aseel.html
+Canditate file: C:\projects\ifaru\build\pages\html\mukhallat-rayyan.html
+Canditate file: C:\projects\ifaru\build\pages\html\mukhallat-shamsara.html
+Canditate file: C:\projects\ifaru\build\pages\html\mukhallat-zaid.html
+Canditate file: C:\projects\ifaru\build\pages\html\musk-ul-rooh.html
+Canditate file: C:\projects\ifaru\build\pages\html\musk-ul-ward.html
+Canditate file: C:\projects\ifaru\build\pages\html\nasaem-perfume.html
+Canditate file: C:\projects\ifaru\build\pages\html\ood-maamul.html
+Canditate file: C:\projects\ifaru\build\pages\html\opium.html
+Canditate file: C:\projects\ifaru\build\pages\html\original-kasturi-musk.html
+Canditate file: C:\projects\ifaru\build\pages\html\oudh-al-matheel.html
+Canditate file: C:\projects\ifaru\build\pages\html\oudh-etisalbi.html
+Canditate file: C:\projects\ifaru\build\pages\html\oudh-touchme.html
+Canditate file: C:\projects\ifaru\build\pages\html\passion.html
+Canditate file: C:\projects\ifaru\build\pages\html\patchouli.html
+Canditate file: C:\projects\ifaru\build\pages\html\pleasures.html
+Canditate file: C:\projects\ifaru\build\pages\html\poison.html
+Canditate file: C:\projects\ifaru\build\pages\html\raat-rani.html
+Canditate file: C:\projects\ifaru\build\pages\html\ragheed.html
+Canditate file: C:\projects\ifaru\build\pages\html\rooh-al-oudh.html
+Canditate file: C:\projects\ifaru\build\pages\html\rose-attar.html
+Canditate file: C:\projects\ifaru\build\pages\html\rose-isparta.html
+Canditate file: C:\projects\ifaru\build\pages\html\rose.html
+Canditate file: C:\projects\ifaru\build\pages\html\saffron.html
+Canditate file: C:\projects\ifaru\build\pages\html\saif-al-arab.html
+Canditate file: C:\projects\ifaru\build\pages\html\saif-al-hind.html
+Canditate file: C:\projects\ifaru\build\pages\html\sandal-musk.html
+Canditate file: C:\projects\ifaru\build\pages\html\sandalwood-pure.html
+Canditate file: C:\projects\ifaru\build\pages\html\sandalwood.html
+Canditate file: C:\projects\ifaru\build\pages\html\strawberry-kisses.html
+Canditate file: C:\projects\ifaru\build\pages\html\sultan.html
+Canditate file: C:\projects\ifaru\build\pages\html\summer-mist.html
+Canditate file: C:\projects\ifaru\build\pages\html\tearose.html
+Canditate file: C:\projects\ifaru\build\pages\html\teatree.html
+Canditate file: C:\projects\ifaru\build\pages\html\touch-me.html
+Canditate file: C:\projects\ifaru\build\pages\html\tuberose.html
+Canditate file: C:\projects\ifaru\build\pages\html\vanilla.html
+Canditate file: C:\projects\ifaru\build\pages\html\velvet-touch.html
+Canditate file: C:\projects\ifaru\build\pages\html\wainak-habibi.html
+Canditate file: C:\projects\ifaru\build\pages\html\white-amber.html
+Canditate file: C:\projects\ifaru\build\pages\html\white-lotus.html
+Canditate file: C:\projects\ifaru\build\pages\html\white-musk.html
+Canditate file: C:\projects\ifaru\build\pages\html\white-sandalwood.html
+Canditate file: C:\projects\ifaru\build\pages\html\xs-black.html
+Canditate file: C:\projects\ifaru\build\pages\html\ylang-ylang.html
+Canditate file: C:\projects\ifaru\build\pages\html\zeenat.html
+Canditate file: C:\projects\ifaru\build\pages\inc\common\alphabeticLinks.jsp
+Canditate file: C:\projects\ifaru\build\pages\inc\common\table\header.jsp
+===========================================================
+Line:       @import url("/ifaru/Common.css");of file: C:\projects\ifaru\build\pages\inc\common\table\header.jsp is a candidate
+ Line changed to: [        @import url("/ifarusb/Common.css");  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\layout\common-header-tag.jsp
+===========================================================
+Line:   <link rel="stylesheet" type="text/css" href="/ifaru/css/niftyCorners.css">of file: C:\projects\ifaru\build\pages\layout\common-header-tag.jsp is a candidate
+ Line changed to: [    <link rel="stylesheet" type="text/css" href="/ifarusb/css/niftyCorners.css">  ]
+===========================================================
+===========================================================
+Line:   <link rel="stylesheet" type="text/css" href="/ifaru/css/niftyPrint.css" media="print">of file: C:\projects\ifaru\build\pages\layout\common-header-tag.jsp is a candidate
+ Line changed to: [    <link rel="stylesheet" type="text/css" href="/ifarusb/css/niftyPrint.css" media="print">  ]
+===========================================================
+===========================================================
+Line: <script type="text/javascript" src="/ifaru/css/niftycube.js"></script>of file: C:\projects\ifaru\build\pages\layout\common-header-tag.jsp is a candidate
+ Line changed to: [  <script type="text/javascript" src="/ifarusb/css/niftycube.js"></script>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\layout\common-left-menu.jsp
+===========================================================
+Line:             <jsp:param name="href" value="/ifaru/catalog/ItemList.do"/>of file: C:\projects\ifaru\build\pages\layout\common-left-menu.jsp is a candidate
+ Line changed to: [              <jsp:param name="href" value="/ifarusb/catalog/ItemList.do"/>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\layout\common-left-menu.jsp.bad
+===========================================================
+Line:             <a border="0" href="http://stores.ebay.co.uk/ifaru"><img border="0" src="/ifaru/images/pages/layout/tn_logoEbay_x45.gif" alt="eBay.co.uk"/></a>of file: C:\projects\ifaru\build\pages\layout\common-left-menu.jsp.bad is a candidate
+ Line changed to: [              <a border="0" href="http://stores.ebay.co.uk/ifaru"><img border="0" src="/ifarusb/images/pages/layout/tn_logoEbay_x45.gif" alt="eBay.co.uk"/></a>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\layout\common-page-footer.jsp
+===========================================================
+Line:     <a href="http://stores.ebay.co.uk/ifaru" target="_blank"><img border="1" src="/ifaru/images/pages/layout/tn_faruebay.jpg" alt="eBay.co.uk"/></a>of file: C:\projects\ifaru\build\pages\layout\common-page-footer.jsp is a candidate
+ Line changed to: [      <a href="http://stores.ebay.co.uk/ifaru" target="_blank"><img border="1" src="/ifarusb/images/pages/layout/tn_faruebay.jpg" alt="eBay.co.uk"/></a>  ]
+===========================================================
+===========================================================
+Line:   <a style="color:#333333; font-family:Arial, Courier New;font-size:11px" border="0" href="/ifaru/UserAgreement.do">Terms and Conditions</a>of file: C:\projects\ifaru\build\pages\layout\common-page-footer.jsp is a candidate
+ Line changed to: [    <a style="color:#333333; font-family:Arial, Courier New;font-size:11px" border="0" href="/ifarusb/UserAgreement.do">Terms and Conditions</a>  ]
+===========================================================
+===========================================================
+Line: <a style="color:#333333; font-family:Arial, Courier New;font-size:11px" border="0" href="/ifaru/Sitemap.do">Sitemap</a>of file: C:\projects\ifaru\build\pages\layout\common-page-footer.jsp is a candidate
+ Line changed to: [  <a style="color:#333333; font-family:Arial, Courier New;font-size:11px" border="0" href="/ifarusb/Sitemap.do">Sitemap</a>  ]
+===========================================================
+===========================================================
+Line: <a style="color:#333333; font-family:Arial, Courier New;font-size:11px" border="0" href="/ifaru/ShippingInfo.do">Shipping</a>of file: C:\projects\ifaru\build\pages\layout\common-page-footer.jsp is a candidate
+ Line changed to: [  <a style="color:#333333; font-family:Arial, Courier New;font-size:11px" border="0" href="/ifarusb/ShippingInfo.do">Shipping</a>  ]
+===========================================================
+===========================================================
+Line: <a style="color:#333333; font-family:Arial, Courier New;font-size:11px" border="0" href="/ifaru/Contact.do">Contact iFaru</a>of file: C:\projects\ifaru\build\pages\layout\common-page-footer.jsp is a candidate
+ Line changed to: [  <a style="color:#333333; font-family:Arial, Courier New;font-size:11px" border="0" href="/ifarusb/Contact.do">Contact iFaru</a>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\layout\common-page-header.jsp
+===========================================================
+Line:     <html:link forward="home"><img class="NavigationImage" src="/ifaru/images/pages/layout/spacer.jpg" border=0></html:link> of file: C:\projects\ifaru\build\pages\layout\common-page-header.jsp is a candidate
+ Line changed to: [      <html:link forward="home"><img class="NavigationImage" src="/ifarusb/images/pages/layout/spacer.jpg" border=0></html:link>   ]
+===========================================================
+===========================================================
+Line:     <html:link forward="catalog"><img class="NavigationImage" src="/ifaru/images/pages/layout/spacera.jpg" border=0></html:link> of file: C:\projects\ifaru\build\pages\layout\common-page-header.jsp is a candidate
+ Line changed to: [      <html:link forward="catalog"><img class="NavigationImage" src="/ifarusb/images/pages/layout/spacera.jpg" border=0></html:link>   ]
+===========================================================
+===========================================================
+Line:     <html:link forward="trade"><img class="NavigationImage" src="/ifaru/images/pages/layout/spacerb.jpg" border=0></html:link> of file: C:\projects\ifaru\build\pages\layout\common-page-header.jsp is a candidate
+ Line changed to: [      <html:link forward="trade"><img class="NavigationImage" src="/ifarusb/images/pages/layout/spacerb.jpg" border=0></html:link>   ]
+===========================================================
+===========================================================
+Line:     <html:link forward="about"> <img class="NavigationImage" src="/ifaru/images/pages/layout/spacerc.jpg" border=0></html:link> of file: C:\projects\ifaru\build\pages\layout\common-page-header.jsp is a candidate
+ Line changed to: [      <html:link forward="about"> <img class="NavigationImage" src="/ifarusb/images/pages/layout/spacerc.jpg" border=0></html:link>   ]
+===========================================================
+===========================================================
+Line:     <html:link forward="contact"><img class="NavigationImage" src="/ifaru/images/pages/layout/spacerd.jpg" border=0></html:link> of file: C:\projects\ifaru\build\pages\layout\common-page-header.jsp is a candidate
+ Line changed to: [      <html:link forward="contact"><img class="NavigationImage" src="/ifarusb/images/pages/layout/spacerd.jpg" border=0></html:link>   ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\layout\commonLayout.jsp
+===========================================================
+Line:              <image src="/ifaru/images/pages/layout/ifarulogo.gif" alt="iFaru.com"/>of file: C:\projects\ifaru\build\pages\layout\commonLayout.jsp is a candidate
+ Line changed to: [               <image src="/ifarusb/images/pages/layout/ifarulogo.gif" alt="iFaru.com"/>  ]
+===========================================================
+===========================================================
+Line:                  <img  src="/ifaru/images/pages/layout/pp-verified.gif" border="0" alt="Paypal Verified">of file: C:\projects\ifaru\build\pages\layout\commonLayout.jsp is a candidate
+ Line changed to: [                   <img  src="/ifarusb/images/pages/layout/pp-verified.gif" border="0" alt="Paypal Verified">  ]
+===========================================================
+===========================================================
+Line:                  <img  src="/ifaru/images/pages/layout/pp-cards.gif" border="0" alt="Paypal Secure Payments">of file: C:\projects\ifaru\build\pages\layout\commonLayout.jsp is a candidate
+ Line changed to: [                   <img  src="/ifarusb/images/pages/layout/pp-cards.gif" border="0" alt="Paypal Secure Payments">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\layout\commonLayout.jsp.working
+Canditate file: C:\projects\ifaru\build\pages\layout\commonLayout.orig.jsp
+===========================================================
+Line: <body link=#66CC99 alink=olive vlink=olive><!-- background="/ifaru/images/pages/layout/background.jpg">-->of file: C:\projects\ifaru\build\pages\layout\commonLayout.orig.jsp is a candidate
+ Line changed to: [  <body link=#66CC99 alink=olive vlink=olive><!-- background="/ifarusb/images/pages/layout/background.jpg">-->  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\layout\sitemap.jsp
+===========================================================
+Line:       <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifaru/catalog/CategorySearch.do?category=1">Fragrances</a></td></tr>  of file: C:\projects\ifaru\build\pages\layout\sitemap.jsp is a candidate
+ Line changed to: [        <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifarusb/catalog/CategorySearch.do?category=1">Fragrances</a></td></tr>    ]
+===========================================================
+===========================================================
+Line:       <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifaru/catalog/CategorySearch.do?category=11">Arabian Fragrances</a></td></tr>  of file: C:\projects\ifaru\build\pages\layout\sitemap.jsp is a candidate
+ Line changed to: [        <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifarusb/catalog/CategorySearch.do?category=11">Arabian Fragrances</a></td></tr>    ]
+===========================================================
+===========================================================
+Line:       <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifaru/catalog/CategorySearch.do?category=12">Indian Attar</a></td></tr>  of file: C:\projects\ifaru\build\pages\layout\sitemap.jsp is a candidate
+ Line changed to: [        <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifarusb/catalog/CategorySearch.do?category=12">Indian Attar</a></td></tr>    ]
+===========================================================
+===========================================================
+Line:       <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifaru/catalog/CategorySearch.do?category=13">Designer Alternatives</a></td></tr>  of file: C:\projects\ifaru\build\pages\layout\sitemap.jsp is a candidate
+ Line changed to: [        <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifarusb/catalog/CategorySearch.do?category=13">Designer Alternatives</a></td></tr>    ]
+===========================================================
+===========================================================
+Line:       <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifaru/catalog/CategorySearch.do?category=14">For Him</a></td></tr>of file: C:\projects\ifaru\build\pages\layout\sitemap.jsp is a candidate
+ Line changed to: [        <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifarusb/catalog/CategorySearch.do?category=14">For Him</a></td></tr>  ]
+===========================================================
+===========================================================
+Line:       <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifaru/catalog/CategorySearch.do?category=15">For Her</a></td></tr> of file: C:\projects\ifaru\build\pages\layout\sitemap.jsp is a candidate
+ Line changed to: [        <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifarusb/catalog/CategorySearch.do?category=15">For Her</a></td></tr>   ]
+===========================================================
+===========================================================
+Line:       <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifaru/catalog/CategorySearch.do?category=16">Oudh</a></td></tr>of file: C:\projects\ifaru\build\pages\layout\sitemap.jsp is a candidate
+ Line changed to: [        <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifarusb/catalog/CategorySearch.do?category=16">Oudh</a></td></tr>  ]
+===========================================================
+===========================================================
+Line:       <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifaru/catalog/CategorySearch.do?category=17">Essential Oils</a></td></tr>of file: C:\projects\ifaru\build\pages\layout\sitemap.jsp is a candidate
+ Line changed to: [        <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifarusb/catalog/CategorySearch.do?category=17">Essential Oils</a></td></tr>  ]
+===========================================================
+===========================================================
+Line:       <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifaru/catalog/CategorySearch.do?category=18">Bakhoor/Incense</a></td></tr>    of file: C:\projects\ifaru\build\pages\layout\sitemap.jsp is a candidate
+ Line changed to: [        <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifarusb/catalog/CategorySearch.do?category=18">Bakhoor/Incense</a></td></tr>      ]
+===========================================================
+===========================================================
+Line:       <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifaru/catalog/CategorySearch.do?category=19">Agarwood/Aloeswood</a></td></tr>       of file: C:\projects\ifaru\build\pages\layout\sitemap.jsp is a candidate
+ Line changed to: [        <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifarusb/catalog/CategorySearch.do?category=19">Agarwood/Aloeswood</a></td></tr>         ]
+===========================================================
+===========================================================
+Line:       <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifaru/catalog/BrandSearch.do?brand=1">iFaru</a></td></tr>  of file: C:\projects\ifaru\build\pages\layout\sitemap.jsp is a candidate
+ Line changed to: [        <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifarusb/catalog/BrandSearch.do?brand=1">iFaru</a></td></tr>    ]
+===========================================================
+===========================================================
+Line:       <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifaru/catalog/BrandSearch.do?brand=3">Al Anfar</a></td></tr>  of file: C:\projects\ifaru\build\pages\layout\sitemap.jsp is a candidate
+ Line changed to: [        <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifarusb/catalog/BrandSearch.do?brand=3">Al Anfar</a></td></tr>    ]
+===========================================================
+===========================================================
+Line:       <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifaru/catalog/BrandSearch.do?brand=4">Al Nabeel</a></td></tr>  of file: C:\projects\ifaru\build\pages\layout\sitemap.jsp is a candidate
+ Line changed to: [        <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifarusb/catalog/BrandSearch.do?brand=4">Al Nabeel</a></td></tr>    ]
+===========================================================
+===========================================================
+Line:       <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifaru/catalog/BrandSearch.do?brand=5">Nayab</a></td></tr>  of file: C:\projects\ifaru\build\pages\layout\sitemap.jsp is a candidate
+ Line changed to: [        <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifarusb/catalog/BrandSearch.do?brand=5">Nayab</a></td></tr>    ]
+===========================================================
+===========================================================
+Line:       <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifaru/catalog/BrandSearch.do?brand=6">Neemat</a></td></tr>  of file: C:\projects\ifaru\build\pages\layout\sitemap.jsp is a candidate
+ Line changed to: [        <tr><td class="sitemapFont">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ifarusb/catalog/BrandSearch.do?brand=6">Neemat</a></td></tr>    ]
+===========================================================
+===========================================================
+Line:           <tr><td class="sitemapFont"><a href="/ifaru/UserAgreement.do">Terms and Conditions</a></td></tr>of file: C:\projects\ifaru\build\pages\layout\sitemap.jsp is a candidate
+ Line changed to: [            <tr><td class="sitemapFont"><a href="/ifarusb/UserAgreement.do">Terms and Conditions</a></td></tr>  ]
+===========================================================
+===========================================================
+Line:           <tr><td class="sitemapFont"><a href="/ifaru/ShippingInfo.do">Shipping Information</a></td></tr>of file: C:\projects\ifaru\build\pages\layout\sitemap.jsp is a candidate
+ Line changed to: [            <tr><td class="sitemapFont"><a href="/ifarusb/ShippingInfo.do">Shipping Information</a></td></tr>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\layout\tabsLayout.jsp
+Canditate file: C:\projects\ifaru\build\pages\orders\Delete.jsp
+Canditate file: C:\projects\ifaru\build\pages\orders\incOrderDetails.jsp
+Canditate file: C:\projects\ifaru\build\pages\orders\MyOrders.jsp
+===========================================================
+Line: <link rel=stylesheet type="text/css" href="/ifaru/Common.css">of file: C:\projects\ifaru\build\pages\orders\MyOrders.jsp is a candidate
+ Line changed to: [  <link rel=stylesheet type="text/css" href="/ifarusb/Common.css">  ]
+===========================================================
+===========================================================
+Line: 							<A href="/ifaru/pages/cart/Checkout2.jsp?nOrderID=<%=order.nID%>">Pay Now!!</A></TD>of file: C:\projects\ifaru\build\pages\orders\MyOrders.jsp is a candidate
+ Line changed to: [  							<A href="/ifarusb/pages/cart/Checkout2.jsp?nOrderID=<%=order.nID%>">Pay Now!!</A></TD>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\orders\OrderDetail.jsp
+===========================================================
+Line: <LINK href="/ifaru/Common.css" rel=stylesheet>of file: C:\projects\ifaru\build\pages\orders\OrderDetail.jsp is a candidate
+ Line changed to: [  <LINK href="/ifarusb/Common.css" rel=stylesheet>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\services\common-services-location.jsp
+===========================================================
+Line:             <a href="/ifaru/catalog/CategorySearch.do?category=17">of file: C:\projects\ifaru\build\pages\services\common-services-location.jsp is a candidate
+ Line changed to: [              <a href="/ifarusb/catalog/CategorySearch.do?category=17">  ]
+===========================================================
+===========================================================
+Line:             <a href="/ifaru/catalog/CategorySearch.do?category=11">of file: C:\projects\ifaru\build\pages\services\common-services-location.jsp is a candidate
+ Line changed to: [              <a href="/ifarusb/catalog/CategorySearch.do?category=11">  ]
+===========================================================
+===========================================================
+Line:             <a href="/ifaru/catalog/CategorySearch.do?category=12">of file: C:\projects\ifaru\build\pages\services\common-services-location.jsp is a candidate
+ Line changed to: [              <a href="/ifarusb/catalog/CategorySearch.do?category=12">  ]
+===========================================================
+===========================================================
+Line:             <a href="/ifaru/catalog/CategorySearch.do?category=16">of file: C:\projects\ifaru\build\pages\services\common-services-location.jsp is a candidate
+ Line changed to: [              <a href="/ifarusb/catalog/CategorySearch.do?category=16">  ]
+===========================================================
+===========================================================
+Line:             <a href="/ifaru/catalog/CategorySearch.do?category=19">of file: C:\projects\ifaru\build\pages\services\common-services-location.jsp is a candidate
+ Line changed to: [              <a href="/ifarusb/catalog/CategorySearch.do?category=19">  ]
+===========================================================
+===========================================================
+Line:             <a href="/ifaru/catalog/CategorySearch.do?category=18">of file: C:\projects\ifaru\build\pages\services\common-services-location.jsp is a candidate
+ Line changed to: [              <a href="/ifarusb/catalog/CategorySearch.do?category=18">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\trade\attar.jsp
+===========================================================
+Line: <table width="620" STYLE="font-size:12px;font-family:Arial, Verdana, Courier New;background-image: url('/ifaru/images/pages/trade/attar/peachroseBackground.jpg'); border: 2">of file: C:\projects\ifaru\build\pages\trade\attar.jsp is a candidate
+ Line changed to: [  <table width="620" STYLE="font-size:12px;font-family:Arial, Verdana, Courier New;background-image: url('/ifarusb/images/pages/trade/attar/peachroseBackground.jpg'); border: 2">  ]
+===========================================================
+===========================================================
+Line: 		  <img src="/ifaru/images/pages/trade/perfume.jpg" ALT="perfume" ALIGN=RIGHT border=0>of file: C:\projects\ifaru\build\pages\trade\attar.jsp is a candidate
+ Line changed to: [  		  <img src="/ifarusb/images/pages/trade/perfume.jpg" ALT="perfume" ALIGN=RIGHT border=0>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\trade\cardmaking.jsp
+===========================================================
+Line: <table width="620" STYLE="font-size:12px;font-family:Arial, Verdana, Courier New;background-image: url('/ifaru/images/pages/trade/attar/peachroseBackground.jpg')">of file: C:\projects\ifaru\build\pages\trade\cardmaking.jsp is a candidate
+ Line changed to: [  <table width="620" STYLE="font-size:12px;font-family:Arial, Verdana, Courier New;background-image: url('/ifarusb/images/pages/trade/attar/peachroseBackground.jpg')">  ]
+===========================================================
+===========================================================
+Line: 	  <img src="/ifaru/images/pages/trade/bindi.jpg" ALT="embellishment" ALIGN=RIGHT border=0>of file: C:\projects\ifaru\build\pages\trade\cardmaking.jsp is a candidate
+ Line changed to: [  	  <img src="/ifarusb/images/pages/trade/bindi.jpg" ALT="embellishment" ALIGN=RIGHT border=0>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\trade\trade-body.jsp
+Canditate file: C:\projects\ifaru\build\pages\trade\Trade.jsp
+Canditate file: C:\projects\ifaru\build\pages\trade\attar\about.jsp
+===========================================================
+Line: <table height="400" width=645 STYLE="background-image: url('/ifaru/images/pages/trade/attar/peachroseBackground.jpg'); border: 2 ridge #800000">of file: C:\projects\ifaru\build\pages\trade\attar\about.jsp is a candidate
+ Line changed to: [  <table height="400" width=645 STYLE="background-image: url('/ifarusb/images/pages/trade/attar/peachroseBackground.jpg'); border: 2 ridge #800000">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\trade\attar\contact.jsp
+===========================================================
+Line: <table width=645 STYLE="background-image: url('/ifaru/images/pages/trade/attar/peachroseBackground.jpg'); border: 2 ridge #800000">of file: C:\projects\ifaru\build\pages\trade\attar\contact.jsp is a candidate
+ Line changed to: [  <table width=645 STYLE="background-image: url('/ifarusb/images/pages/trade/attar/peachroseBackground.jpg'); border: 2 ridge #800000">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\trade\attar\ethics.jsp
+===========================================================
+Line: <table width=645 STYLE="background-image: url('/ifaru/images/pages/trade/attar/peachroseBackground.jpg'); border: 2 ridge #800000">of file: C:\projects\ifaru\build\pages\trade\attar\ethics.jsp is a candidate
+ Line changed to: [  <table width=645 STYLE="background-image: url('/ifarusb/images/pages/trade/attar/peachroseBackground.jpg'); border: 2 ridge #800000">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\trade\attar\fragranceInfo.jsp
+===========================================================
+Line:   <body STYLE="background-image: url('/ifaru/images/pages/trade/attar/peachroseBackground.jpg'); border: 2 ridge #800000" border=0>of file: C:\projects\ifaru\build\pages\trade\attar\fragranceInfo.jsp is a candidate
+ Line changed to: [    <body STYLE="background-image: url('/ifarusb/images/pages/trade/attar/peachroseBackground.jpg'); border: 2 ridge #800000" border=0>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\trade\attar\fragranceList.jsp
+===========================================================
+Line:             <jsp:param name="href" value="/ifaru/FragranceList.do"/>of file: C:\projects\ifaru\build\pages\trade\attar\fragranceList.jsp is a candidate
+ Line changed to: [              <jsp:param name="href" value="/ifarusb/FragranceList.do"/>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\trade\attar\gallery.jsp
+===========================================================
+Line: <table height=400 width=645 STYLE="background-image: url('/ifaru/images/pages/trade/attar/peachroseBackground.jpg'); border: 2 ridge #800000">of file: C:\projects\ifaru\build\pages\trade\attar\gallery.jsp is a candidate
+ Line changed to: [  <table height=400 width=645 STYLE="background-image: url('/ifarusb/images/pages/trade/attar/peachroseBackground.jpg'); border: 2 ridge #800000">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\trade\attar\pricing.jsp
+===========================================================
+Line: <table height=400 width=645 STYLE="background-image: url('/ifaru/images/pages/trade/attar/peachroseBackground.jpg'); border: 2 ridge #800000">of file: C:\projects\ifaru\build\pages\trade\attar\pricing.jsp is a candidate
+ Line changed to: [  <table height=400 width=645 STYLE="background-image: url('/ifarusb/images/pages/trade/attar/peachroseBackground.jpg'); border: 2 ridge #800000">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\trade\attar\products.jsp
+===========================================================
+Line: <table width=645 STYLE="background-image: url('/ifaru/images/pages/trade/attar/peachroseBackground.jpg'); border: 2 ridge #800000">of file: C:\projects\ifaru\build\pages\trade\attar\products.jsp is a candidate
+ Line changed to: [  <table width=645 STYLE="background-image: url('/ifarusb/images/pages/trade/attar/peachroseBackground.jpg'); border: 2 ridge #800000">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\trade\attar\shipping.jsp
+===========================================================
+Line: <table height=400 width=645 STYLE="background-image: url('/ifaru/images/pages/trade/attar/peachroseBackground.jpg'); border: 2 ridge #800000">of file: C:\projects\ifaru\build\pages\trade\attar\shipping.jsp is a candidate
+ Line changed to: [  <table height=400 width=645 STYLE="background-image: url('/ifarusb/images/pages/trade/attar/peachroseBackground.jpg'); border: 2 ridge #800000">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\trade\attar\trade-body-attar.jsp
+Canditate file: C:\projects\ifaru\build\pages\users\ChangePassword.jsp
+===========================================================
+Line: <link rel=stylesheet type="text/css" href="/ifaru/Common.css">of file: C:\projects\ifaru\build\pages\users\ChangePassword.jsp is a candidate
+ Line changed to: [  <link rel=stylesheet type="text/css" href="/ifarusb/Common.css">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\users\ChangeProfile.jsp
+===========================================================
+Line: <link rel=stylesheet type="text/css" href="/ifaru/Common.css">of file: C:\projects\ifaru\build\pages\users\ChangeProfile.jsp is a candidate
+ Line changed to: [  <link rel=stylesheet type="text/css" href="/ifarusb/Common.css">  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\users\common-user-location.jsp
+===========================================================
+Line:        <html:image src="/ifaru/images/pages/layout/tn_cart.jpg" styleClass="CartButton" border="0" property="" value="viewCart" alt="Cart" title="View Shopping Cart"></html:image>of file: C:\projects\ifaru\build\pages\users\common-user-location.jsp is a candidate
+ Line changed to: [         <html:image src="/ifarusb/images/pages/layout/tn_cart.jpg" styleClass="CartButton" border="0" property="" value="viewCart" alt="Cart" title="View Shopping Cart"></html:image>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\users\ForgotPassword.jsp
+Canditate file: C:\projects\ifaru\build\pages\users\LoginPage.jsp
+Canditate file: C:\projects\ifaru\build\pages\users\Logout.jsp
+Canditate file: C:\projects\ifaru\build\pages\users\MyAccount.jsp
+===========================================================
+Line: <link rel=stylesheet type="text/css" href="/ifaru/Common.css">of file: C:\projects\ifaru\build\pages\users\MyAccount.jsp is a candidate
+ Line changed to: [  <link rel=stylesheet type="text/css" href="/ifarusb/Common.css">  ]
+===========================================================
+===========================================================
+Line: 			<TD><A href="/ifaru/pages/orders/MyOrders.jsp">My Orders</A></TD>of file: C:\projects\ifaru\build\pages\users\MyAccount.jsp is a candidate
+ Line changed to: [  			<TD><A href="/ifarusb/pages/orders/MyOrders.jsp">My Orders</A></TD>  ]
+===========================================================
+Canditate file: C:\projects\ifaru\build\pages\users\Signup.jsp
+===========================================================
+Line: <link rel=stylesheet type="text/css" href="/ifaru/Common.css">of file: C:\projects\ifaru\build\pages\users\Signup.jsp is a candidate
+ Line changed to: [  <link rel=stylesheet type="text/css" href="/ifarusb/Common.css">  ]
+===========================================================
+Ignoring file: C:\projects\ifaru\build\WEB-INF\curtag.tld
+Canditate file: C:\projects\ifaru\build\WEB-INF\log4j.dtd
+Ignoring file: C:\projects\ifaru\build\WEB-INF\numtag.tld
+Ignoring file: C:\projects\ifaru\build\WEB-INF\struts-bean.tld
+Canditate file: C:\projects\ifaru\build\WEB-INF\struts-config.live.xml
+Canditate file: C:\projects\ifaru\build\WEB-INF\struts-config.xml
+Ignoring file: C:\projects\ifaru\build\WEB-INF\struts-html.tld
+Ignoring file: C:\projects\ifaru\build\WEB-INF\struts-logic.tld
+Ignoring file: C:\projects\ifaru\build\WEB-INF\struts-tiles.tld
+Ignoring file: C:\projects\ifaru\build\WEB-INF\taglibs-request.tld
+Ignoring file: C:\projects\ifaru\build\WEB-INF\taglibs-session.tld
+Canditate file: C:\projects\ifaru\build\WEB-INF\tiles-def.xml
+Canditate file: C:\projects\ifaru\build\WEB-INF\validation.xml
+Canditate file: C:\projects\ifaru\build\WEB-INF\web.xml
+===========================================================
+Line:       <param-value>/ifaru/catalog/BrandSearch.do?brand=</param-value>     of file: C:\projects\ifaru\build\WEB-INF\web.xml is a candidate
+ Line changed to: [        <param-value>/ifarusb/catalog/BrandSearch.do?brand=</param-value>       ]
+===========================================================
+===========================================================
+Line:       <param-value>/ifaru/catalog/CategorySearch.do?category=</param-value>     of file: C:\projects\ifaru\build\WEB-INF\web.xml is a candidate
+ Line changed to: [        <param-value>/ifarusb/catalog/CategorySearch.do?category=</param-value>       ]
+===========================================================
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\DownloadFile.class
+Canditate file: C:\projects\ifaru\build\WEB-INF\classes\IFaruMessageResources.properties
+Canditate file: C:\projects\ifaru\build\WEB-INF\classes\log4j.properties
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\SandboxHelper.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\db
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\AddToCartAction.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\CheckoutAction.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\GetCatalogItemsAction.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\GetCatalogItemsByBrandAction.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\GetCatalogItemsByCategoryAction.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\GetCatalogItemsByKeywordAction.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\GetFragranceInfoAction.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\GetGalleryAction.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\GetGalleryPictureAction.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\GetRequestedCatalogItemAction.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\GetTradeFragrancesAction.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\IFaruBaseAction.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\MyAccountAction.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\ProcessChequePaymentAction.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\SearchAction.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\ShippingOptionsAction.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\UpdateCartAction.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\UpdateCatalogAction.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\UserAction.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\WelcomeAction.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\forms\ChangePasswordForm.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\forms\GalleryForm.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\actions\forms\LoginForm.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\cart\CartItem.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\cart\CartItemFactory.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\cart\CartItemPolicyCandidate.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\cart\IShoppingCart.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\cart\ShoppingCart.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\cart\ShoppingCartItemPolicy.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\cart\ShoppingCartPolicyCandidate.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\catalog\AddToCartLink.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\catalog\Brand.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\catalog\CatalogItem.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\catalog\CatalogItemFactory.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\catalog\CatalogItems.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\catalog\CatalogItemsListener.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\catalog\CatalogItemsPoller.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\catalog\Category.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\catalog\CategoryTree.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\catalog\Information.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\catalog\PayPalAddToCartLink.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\catalog\Price.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\catalog\Prices.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\catalog\Searchable.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\checkout\ChequeHandler.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\checkout\ChequePaymentResponse.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\checkout\NochexHandler.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\checkout\PaymentHandler.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\checkout\PaymentHandlerFactory.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\checkout\PaymentResponse.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\checkout\PayPalHandler.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\data\xml\fragrance\Fragrance.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\data\xml\fragrance\FragranceFactory.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\data\xml\fragrance\Fragrances.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\data\xml\fragrance\Grade.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\data\xml\fragrance\InfoLine.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\data\xml\fragrance\Information.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\db\DataConnection.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\db\DBConnection.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\db\DbInterface.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\db\DbInterfaceFactory.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\db\DbInterfaceImpl.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\framework\ConfigException.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\framework\FrameworkConstants.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\framework\FrameworkFacade.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\framework\FrameworkFacadeFactory.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\framework\FrameworkFacadeImpl.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\framework\Identifiable.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\framework\IFaruActionServlet.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\framework\IFaruException.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\framework\IFaruFrameworkObject.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\framework\IFaruIdentifiableObject.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\framework\Initialisable.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\gallery\Gallery.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\gallery\GalleryFactory.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\gallery\Image.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\gallery\Picture.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\html\util\AlphabeticLinks.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\html\util\ConditionalHtmlTableRow.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\html\util\HtmlAnchorTag.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\html\util\HtmlTag.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\mail\ByteArrayDataSource.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\mail\HtmlMail.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\mail\IFaruMailerAction.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\mail\SimpleAuthenticator.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\measurement\IFaruMeasureableObject.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\measurement\IFaruNumber.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\measurement\Measureable.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\measurement\MeasurementUnit.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\measurement\Number.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\measurement\PhysicalSize.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\measurement\Weight.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\order\Order.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\order\OrderItem.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\order\OrderItemFactory.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\order\OrderNumberFactory.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\policy\IFaruBasePolicy.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\policy\Policies.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\policy\Policy.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\policy\PolicyCandidate.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\policy\PolicyFactory.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\security\PasswordService.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\security\sha\PasswordService.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\security\sha\SystemUnavailableException.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\shipping\Countries.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\shipping\Country.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\shipping\Currency.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\shipping\CurrencyConvertor.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\shipping\Price.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\shipping\Rate.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\shipping\ShippingOption.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\shipping\ShippingOptionFactory.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\shipping\ShippingOptions.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\shipping\ShippingPolicy.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\shipping\ShippingSize.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\user\Customer.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\user\InvalidPasswordException.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\user\UserException.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\user\UserNotFoundException.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\util\Base64.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\util\CSVConverter.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\util\Date.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\util\IntMap.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\util\Item.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\util\Logger.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\util\MailUtil.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\util\NumberUtils.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\util\RequestParamBean.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\util\StringEx.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\util\StringTokenizerEx.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\util\VectorEnum.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\util\XMLMaker.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\web\UrlEncoderEx.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\xml\XMLNode.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\classes\com\ifaru\xml\XMLParser.class
+Ignoring file: C:\projects\ifaru\build\WEB-INF\lib\activation.jar
+Ignoring file: C:\projects\ifaru\build\WEB-INF\lib\antlr-2.7.2.jar
+Ignoring file: C:\projects\ifaru\build\WEB-INF\lib\commons-beanutils-1.7.0.jar
+Ignoring file: C:\projects\ifaru\build\WEB-INF\lib\commons-chain-1.1.jar
+Ignoring file: C:\projects\ifaru\build\WEB-INF\lib\commons-digester-1.8.jar
+Ignoring file: C:\projects\ifaru\build\WEB-INF\lib\commons-logging-1.0.4.jar
+Ignoring file: C:\projects\ifaru\build\WEB-INF\lib\commons-validator-1.3.1.jar
+Ignoring file: C:\projects\ifaru\build\WEB-INF\lib\curtag.jar
+Ignoring file: C:\projects\ifaru\build\WEB-INF\lib\log4j-1.2.15.jar
+Ignoring file: C:\projects\ifaru\build\WEB-INF\lib\mail.jar
+Ignoring file: C:\projects\ifaru\build\WEB-INF\lib\numtag.jar
+Ignoring file: C:\projects\ifaru\build\WEB-INF\lib\oro-2.0.8.jar
+Ignoring file: C:\projects\ifaru\build\WEB-INF\lib\struts-core-1.3.8.jar
+Ignoring file: C:\projects\ifaru\build\WEB-INF\lib\struts-taglib-1.3.8.jar
+Ignoring file: C:\projects\ifaru\build\WEB-INF\lib\struts-tiles-1.3.8.jar
+Ignoring file: C:\projects\ifaru\build\WEB-INF\lib\taglibs-request.jar
+Ignoring file: C:\projects\ifaru\build\WEB-INF\lib\taglibs-session.jar
+Canditate file: C:\projects\ifaru\build\WEB-INF\mailer\struts-config.xml
+Ignoring file: C:\projects\ifaru\build\WEB-INF\mailer\struts-html.tld
+Canditate file: C:\projects\ifaru\build\WEB-INF\mailer\web.xml
